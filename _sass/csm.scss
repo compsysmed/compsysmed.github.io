@@ -9,9 +9,10 @@ body {
   font-size: 15px;
   font-weight: 400;
   line-height: 1.5;
-  color: #666;
+  color: #000;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
   padding-top: 50px;
+  text-align: justify;
 }
 
 p {
@@ -31,10 +32,11 @@ header {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
+  text-align: left;
 }
 
 header h1 {
-  width: 940px;
+  width: 500px;
   margin-top: 0;
   margin-bottom: 0.2em;
   font-size: 26px;
@@ -44,7 +46,7 @@ header h1 {
 }
 
 header h2 {
-  width: 940px;
+  width: 500px;
   margin-top: 0;
   margin-bottom: 0;
   font-size: 26px;
@@ -66,7 +68,7 @@ header h2 {
 
 #main-content {
   float: left;
-  width: 940px;
+  width: 600px;
 }
 
 #main-content img {
@@ -232,7 +234,7 @@ form {
 
 #main-content h3:before {
   padding-right: 0.3em;
-  margin-left: -2em;
+  /* margin-left: -2em; */
   content: "///";
   color: #9ddcff;
 }
@@ -248,7 +250,7 @@ form {
 
 h4:before {
   padding-right: 0.3em;
-  margin-left: -2.8em;
+  /* margin-left: -2.8em; */
   content: "////";
   color: #9ddcff;
 }

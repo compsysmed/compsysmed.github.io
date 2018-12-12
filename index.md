@@ -2,6 +2,15 @@
 layout: page
 ---
 
+Diseases are currently defined and diagnosed based on symptoms (e.g.,
+hypertension, depression) or affected organs (e.g., heart failure,
+nephropathy). Clearly, there is a lack of **mechanistic understanding of diseases**
+that could improve disease definitions and allow for more informed selection
+and development of therapies. To achieve such understanding we develop
+**integrative bioinformatics methods leveraging network analysis, machine
+learning techniques and statistical approaches.**
+
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -121,3 +130,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+-->
