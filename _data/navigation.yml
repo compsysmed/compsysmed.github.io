@@ -1,0 +1,12 @@
+- title: Home
+  url: /index.html
+- title: Blog
+  url: /blog.html
+- title: Team
+  url: /team.html
+- title: Projects
+  url: /projects.html
+- title: Publications
+  url: /publications.html
+- title: Software & Ressources
+  url: /softress.html
