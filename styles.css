@@ -645,15 +645,6 @@ ul.network-icon {
   padding: 0;
 }
 
-ul.appmode {
-  display: inline-flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  list-style: none;
-  padding: 0;
-}
-
 #profile .network-icon {
   margin-top: 30px;
 }
