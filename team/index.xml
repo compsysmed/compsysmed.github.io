@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on Computational Systems Medicine</title>
+    <link>http://www.compsysmed.de/team/</link>
+    <description>Recent content in Team on Computational Systems Medicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.compsysmed.de/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.compsysmed.de/team/phd01/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/team/phd01/</guid>
+      <description>PhD Student position (65% E13, 3 years) available immediately Diseases are currently defined and diagnosed based on symptoms (e.g., hypertension, depression) or affected organs (e.g., heart failure, nephropathy). Clearly, there is a lack of mechanistic understanding of diseases that could improve disease definitions and allow for more informed selection and development of therapies. To achieve such understanding we develop integrative bioinformatics methods leveraging network analysis, machine learning techniques, and statistical approaches.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.compsysmed.de/team/tim_kacprowksi/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/team/tim_kacprowksi/</guid>
+      <description>I&amp;rsquo;m a research group leader at the Chair of Experimental Bioinformatics. My group works on network biology, multi omics integration and machine learning in the context of systems medicine. Previously, I spent some time in Odense, Denmark, as a guest researcher at the Syddansk Universitet. In my graduate studies at the University of Greifswald, I analysed different omics data in the context of common diseases. Before I joined the Interfaculty Institute of Functional Genomics at the University Medicine Greifswald, I studied bioinformatics in Saarbrücken, focussing on network biology.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.compsysmed.de/team/sepideh_sadegh/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/team/sepideh_sadegh/</guid>
+      <description>I am a PhD student in the Chair of Experimental Bioinformatics at TU Munich. I received my Bachelor’s degree in Biomedical Engineering from Amirkabir University of Technology (Tehran, Iran) and my Master’s degree in Bioinformatics from Saarland University (Saarbrücken, Germany). In my master thesis I analyzed disease-specific gene regulatory networks in terms of co-regulatory network motifs. My research interests include multi-omics data and network biology. I am currently involved in REPO-TRIAL, a H2020 funded drug repurposing project.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.compsysmed.de/team/manuela_lautizi/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/team/manuela_lautizi/</guid>
+      <description>I’m a PhD student in the Chair of Experimental Bioinformatics in collaboration with the Institute of Pathology, both at TUM. I’ve originally joined Prof. Baumbach’s lab to work on my master’s thesis in bioinformatics, focused to identify pathway-based subnetwork of genes most significantly associated to survival time of cancer patients. Other topics of my interest are machine learning (both supervised and unsupervised), manipulation and analysis of the data from a statistical point of view.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.compsysmed.de/team/lorenzo_viola/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/team/lorenzo_viola/</guid>
+      <description>I&amp;rsquo;m a master student in Engineering in Computer Science at Sapienza University, Rome. My curriculum is focused on data mining and management, also on a large scale. A bioinformatics course has inspired me to join the Chair of Experimental Bioinformatics for developing my thesis project, dealing with multimodal network-based epistasis detection on a genome-wide scale.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.compsysmed.de/team/niklas_probul/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/team/niklas_probul/</guid>
+      <description>I&amp;rsquo;m a bachelor student in Bioinformatics at TUM and LMU in Munich and recently joined the Chair of Experimental Bioinformatics in Weihenstephan for my bachelor thesis on the harmonisation of GWAS data for machine learning purposes.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.compsysmed.de/team/olga_lesina/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/team/olga_lesina/</guid>
+      <description>I study bioinformatics since Oct‘2018 in Munich with a research interest in human genetics and cancer biology. Before that I received a master’s degree in biology at the LMU Munich. During my studies, I focused on molecular and cell biology and protein biochemistry. I recently joined the Chair of Experimental Bioinformatics as a Hiwi to work on the diseasome project for a better understanding of a disease-gene interactions.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.compsysmed.de/team/fanny_roessler/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/team/fanny_roessler/</guid>
+      <description>I’m a Bioinformatics Bachelor student at the Technical University of Munich and the LMU since October 2016. I recently joined the Chair of Experimental Bioinformatics at TUM as a HiWi to gain more practical experience in bioinformatics.</description>
+    </item>
+    
+  </channel>
+</rss>

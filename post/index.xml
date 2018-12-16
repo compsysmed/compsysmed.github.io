@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Computational Systems Medicine</title>
+    <link>http://www.compsysmed.de/post/</link>
+    <description>Recent content in Posts on Computational Systems Medicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.compsysmed.de/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PhD Student position (65% E13, 3 years) available immediately</title>
+      <link>http://www.compsysmed.de/post/phd01/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.compsysmed.de/post/phd01/</guid>
+      <description>Project description Diseases are currently defined and diagnosed based on symptoms (e.g., hypertension, depression) or affected organs (e.g., heart failure, nephropathy). Clearly, there is a lack of mechanistic understanding of diseases that could improve disease definitions and allow for more informed selection and development of therapies. To achieve such understanding we develop integrative bioinformatics methods leveraging network analysis, machine learning techniques and statistical approaches. Your work will focus on the development of graph-based machine learning techniques to identify disease- and patient-specific dysregulated subnetworks.</description>
+    </item>
+    
+  </channel>
+</rss>
