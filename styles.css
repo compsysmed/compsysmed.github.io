@@ -114,14 +114,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #2962ff;
+  color: #3070b3;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #2962ff;
+  color: #3070b3;
 }
 
 img,
@@ -1591,14 +1591,14 @@ nav#navbar-main li.nav-item {
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  color: #2962ff;
+  color: #3070b3;
   background-color: transparent;
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
-  color: #2962ff;
+  color: #3070b3;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -1635,7 +1635,7 @@ nav#navbar-main li.nav-item {
 
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
-  color: #2962ff;
+  color: #3070b3;
   text-decoration: none;
   background-color: #fff;
 }
@@ -1645,7 +1645,7 @@ nav#navbar-main li.nav-item {
 .dropdown-menu > .active:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #2962ff;
+  background-color: #3070b3;
   outline: 0;
 }
 
@@ -1735,7 +1735,7 @@ nav#navbar-main li.nav-item {
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:focus,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:hover {
-    color: #2962ff;
+    color: #3070b3;
     background-color: transparent;
   }
 
