@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jan 2019 13:39:00 +0100</lastBuildDate>
     
 	<atom:link href="http://www.compsysmed.de/tags/talks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Invited talk at GQ2019</title>
+      <link>http://www.compsysmed.de/post/igld2019/</link>
+      <pubDate>Wed, 30 Jan 2019 13:39:00 +0100</pubDate>
+      
+      <guid>http://www.compsysmed.de/post/igld2019/</guid>
+      <description>Tim Kacprowski has been invited to give a talk at the Jahressymposium der Interdisziplinären Gruppe für Labor und Durchflussyztometrie, taking place from March 07-08 at the Congress Center in Frankfurt. The talk will be about &amp;ldquo;Zirkulierende miRNAs als potentielle Biomarker&amp;rdquo;.</description>
+    </item>
     
     <item>
       <title>Invited talk at GQ2019</title>
