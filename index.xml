@@ -169,6 +169,51 @@ bioinformatics.&lt;/p&gt;
     </item>
     
     <item>
+      <title>REPO-TRIAL</title>
+      <link>http://www.compsysmed.de/project/repo-trial/</link>
+      <pubDate>Mon, 25 Feb 2019 19:39:58 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/project/repo-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FeatureCloud</title>
+      <link>http://www.compsysmed.de/project/featurecloud/</link>
+      <pubDate>Sun, 24 Feb 2019 19:39:58 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/project/featurecloud/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Network-Based Epistasis Detection</title>
+      <link>http://www.compsysmed.de/project/epistasis/</link>
+      <pubDate>Sat, 23 Feb 2019 19:39:58 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/project/epistasis/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>De novo network enrichment</title>
+      <link>http://www.compsysmed.de/project/denovonetenrich/</link>
+      <pubDate>Fri, 22 Feb 2019 19:39:58 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/project/denovonetenrich/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Invited talk at IGLD2019</title>
       <link>http://www.compsysmed.de/post/igld2019/</link>
       <pubDate>Wed, 30 Jan 2019 13:39:00 +0100</pubDate>
@@ -180,82 +225,6 @@ Durchflussyztometrie&lt;/a&gt;, taking place from
 March 07-08 at the Congress Center in Frankfurt. The talk will be about
 &amp;ldquo;Zirkulierende miRNAs als potentielle Biomarker&amp;rdquo;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Invited talk at GQ2019</title>
-      <link>http://www.compsysmed.de/post/gq2019/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/post/gq2019/</guid>
-      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.qpcr-dpcr-ngs-2019.net&#34; target=&#34;_blank&#34;&gt;9th Gene Quantification
-Event qPCR dPCR &amp;amp; NGS 2019&lt;/a&gt;, taking place
-from March 18-22 at the TUM School of Life Sciences in Weihenstephan. The talk
-will be about &amp;ldquo;Circulating miRNAs as Potential Biomarkers&amp;rdquo;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PhD Student position (65% E13, 3 years) available immediately</title>
-      <link>http://www.compsysmed.de/post/phd01/</link>
-      <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/post/phd01/</guid>
-      <description>
-
-&lt;h3 id=&#34;project-description&#34;&gt;Project description&lt;/h3&gt;
-
-&lt;p&gt;Diseases are currently defined and diagnosed based on symptoms (e.g.,
-hypertension, depression) or affected organs (e.g., heart failure,
-nephropathy). Clearly, there is a lack of mechanistic understanding of diseases
-that could improve disease definitions and allow for more informed selection
-and development of therapies. To achieve such understanding we develop
-integrative bioinformatics methods leveraging network analysis, machine
-learning techniques and statistical approaches. Your work will focus on the
-development of graph-based machine learning techniques to identify disease- and
-patient-specific dysregulated subnetworks.&lt;/p&gt;
-
-&lt;h3 id=&#34;you-bring&#34;&gt;You bring&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Degree in bioinformatics, molecular biology, computer science, or similar&lt;/li&gt;
-&lt;li&gt;Solid understanding of molecular biology&lt;/li&gt;
-&lt;li&gt;Experience with omics data analysis, graph analysis, machine learning&lt;/li&gt;
-&lt;li&gt;Strong programming skills in Python, R, and / or Java&lt;/li&gt;
-&lt;li&gt;Familiarity with Linux and HPC environments&lt;/li&gt;
-&lt;li&gt;Fluency in English in written and spoken language&lt;/li&gt;
-&lt;li&gt;Strong commitment and motivation, ability to work collaboratively&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;we-offer&#34;&gt;We offer&lt;/h3&gt;
-
-&lt;p&gt;At the Chair of Experimental Bioinformatics you will find a supportive and
-productive research environment with a young, dynamic team of more than 20
-international researchers at different stages in their career and education.
-Furthermore, you will have the chance to participate in a large EU-wide project
-and travel to international meetings with other scientists.&lt;/p&gt;
-
-&lt;p&gt;Send your application including your &lt;strong&gt;CV&lt;/strong&gt;, &lt;strong&gt;grades&lt;/strong&gt;, &lt;strong&gt;publications&lt;/strong&gt; (if any) and a
-&lt;strong&gt;reference letter&lt;/strong&gt; to tim.kacprowski@wzw.tum.de.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Genome Analyses of &gt;200,000 Individuals Identify 58 Loci for Chronic Inflammation and Highlight Pathways that Link Inflammation and Complex Disorders</title>
-      <link>http://www.compsysmed.de/publication/pmid-30388399/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/pmid-30388399/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impaired Exocrine Pancreatic Function Associates With Changes in Intestinal Microbiota Composition and Diversity</title>
-      <link>http://www.compsysmed.de/publication/pmid-30391469/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/pmid-30391469/</guid>
-      <description></description>
     </item>
     
   </channel>

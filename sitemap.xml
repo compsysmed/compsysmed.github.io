@@ -24,6 +24,38 @@
     
     <url>
     
+      <loc>http://www.compsysmed.de/project/repo-trial/</loc>
+      <lastmod>2019-02-25T19:39:58+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.compsysmed.de/project/featurecloud/</loc>
+      <lastmod>2019-02-24T19:39:58+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.compsysmed.de/project/epistasis/</loc>
+      <lastmod>2019-02-23T19:39:58+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.compsysmed.de/project/denovonetenrich/</loc>
+      <lastmod>2019-02-22T19:39:58+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://www.compsysmed.de/post/igld2019/</loc>
       <lastmod>2019-01-30T13:39:00+01:00</lastmod>
     </url>
@@ -58,30 +90,6 @@
     
       <loc>http://www.compsysmed.de/publication/pmid-30391469/</loc>
       <lastmod>2018-11-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.compsysmed.de/project/denovonetenrich/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.compsysmed.de/project/featurecloud/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.compsysmed.de/project/repo-trial/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
     </url>
     
   
@@ -385,6 +393,24 @@
     
     <url>
     
+      <loc>http://www.compsysmed.de/tags/gpu/</loc>
+      <lastmod>2019-02-23T19:39:58+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.compsysmed.de/tags/gwas/</loc>
+      <lastmod>2019-02-23T19:39:58+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://www.compsysmed.de/tags/positions/</loc>
       <lastmod>2018-11-29T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -395,7 +421,7 @@
     <url>
     
       <loc>http://www.compsysmed.de/project/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
+      <lastmod>2019-02-25T19:39:58+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -422,7 +448,7 @@
     <url>
     
       <loc>http://www.compsysmed.de/tags/</loc>
-      <lastmod>2018-11-29T00:00:00+01:00</lastmod>
+      <lastmod>2019-02-23T19:39:58+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -440,7 +466,7 @@
     <url>
     
       <loc>http://www.compsysmed.de/tags/de-novo-network-enrichment/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
+      <lastmod>2019-02-22T19:39:58+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -449,7 +475,16 @@
     <url>
     
       <loc>http://www.compsysmed.de/tags/drug-repurposing/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
+      <lastmod>2019-02-25T19:39:58+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.compsysmed.de/tags/epistasis/</loc>
+      <lastmod>2019-02-23T19:39:58+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -458,7 +493,16 @@
     <url>
     
       <loc>http://www.compsysmed.de/tags/federated-machine-learning/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
+      <lastmod>2019-02-24T19:39:58+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.compsysmed.de/tags/networks/</loc>
+      <lastmod>2019-02-23T19:39:58+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -467,7 +511,7 @@
     <url>
     
       <loc>http://www.compsysmed.de/tags/privacy-preserving-machine-learning/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
+      <lastmod>2019-02-24T19:39:58+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -476,7 +520,7 @@
     <url>
     
       <loc>http://www.compsysmed.de/tags/systems-medicine/</loc>
-      <lastmod>2018-09-28T19:39:58+02:00</lastmod>
+      <lastmod>2019-02-25T19:39:58+02:00</lastmod>
       <priority>0</priority>
     </url>
     
