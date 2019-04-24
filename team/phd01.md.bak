@@ -1,0 +1,53 @@
++++
+# About/Biography widget.
+widget = "hiring"
+active = true
+date = 2016-04-20T00:00:00
+
+# Order that this section will appear in.
+weight = 1
+
+[person]
+  name = "You"
+  role = "PhdStudent"
+  avatar = "portrait.jpg"
+  organizations = [{name="Chair of Experimental Bioinformatics",url="http://www.exbio.de"},
+                   {name="Technical University of Munich",url="http://www.tum.de"}]
+
+  [person.application]
+    mode = "Send your application including your **CV**, **grades**, **publications** (if any) and a **reference letter** to tim.kacprowski@wzw.tum.de"
+
+# List your academic interests.
+[requirements]
+  requirements = [
+    "Degree in bioinformatics, molecular biology, computer science, or similar",
+    "Solid understanding of molecular biology",
+    "Experience with omics data analysis, graph analysis, machine learning",
+    "Strong programming skills in Python, R, and / or Java",
+    "Familiarity with Linux and HPC environments",
+    "Fluency in English in written and spoken language",
+    "Strong commitment and motivation, ability to work collaboratively"
+  ]
+
+# List your qualifications (such as academic degrees).
+[offers]
+  offers = [
+    "Supportive and productive research environment",
+    "Young, dynamic team of more than 20 international researchers at different stages in their career and education",
+    "Possibility ot travel and disseminate your work"
+  ]
+
++++
+
+### PhD Student position (65% E13, 3 years) available immediately
+
+Diseases are currently defined and diagnosed based on symptoms (e.g.,
+hypertension, depression) or affected organs (e.g., heart failure,
+nephropathy). Clearly, there is a lack of mechanistic understanding of diseases
+that could improve disease definitions and allow for more informed selection
+and development of therapies. To achieve such understanding we develop
+integrative bioinformatics methods leveraging network analysis, machine
+learning techniques, and statistical approaches. Your work will focus on the
+development of graph-based machine learning techniques to identify disease- and
+patient-specific dysregulated subnetworks.
+

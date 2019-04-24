@@ -22,6 +22,30 @@
     
   
     
+  
+    
+  
+    
+  
+    
+  
+    
+    <url>
+    
+      <loc>http://www.compsysmed.de/post/growth/</loc>
+      <lastmod>2019-04-24T23:01:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.compsysmed.de/publication/pmid-30391469/</loc>
+      <lastmod>2019-03-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
     <url>
     
       <loc>http://www.compsysmed.de/project/repo-trial/</loc>
@@ -88,8 +112,8 @@
     
     <url>
     
-      <loc>http://www.compsysmed.de/publication/pmid-30391469/</loc>
-      <lastmod>2018-11-01T00:00:00+01:00</lastmod>
+      <loc>http://www.compsysmed.de/publication/pmid-29673008/</loc>
+      <lastmod>2018-09-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -170,6 +194,14 @@
     
       <loc>http://www.compsysmed.de/publication/pmid-28011706/</loc>
       <lastmod>2017-02-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.compsysmed.de/publication/pmid-27655622/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -280,7 +312,23 @@
     
     <url>
     
+      <loc>http://www.compsysmed.de/publication/pmid-26901648/</loc>
+      <lastmod>2016-04-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://www.compsysmed.de/publication/pmid-26639971/</loc>
+      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.compsysmed.de/publication/pmid-26487704/</loc>
       <lastmod>2016-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -377,7 +425,7 @@
     <url>
     
       <loc>http://www.compsysmed.de/publication_types/2/</loc>
-      <lastmod>2018-11-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -430,7 +478,7 @@
     <url>
     
       <loc>http://www.compsysmed.de/publication_types/</loc>
-      <lastmod>2018-11-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -458,6 +506,15 @@
     
       <loc>http://www.compsysmed.de/tags/talks/</loc>
       <lastmod>2019-01-30T13:39:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.compsysmed.de/tags/team/</loc>
+      <lastmod>2019-04-24T23:01:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

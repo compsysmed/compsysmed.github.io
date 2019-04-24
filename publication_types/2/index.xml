@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://www.compsysmed.de/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Impaired Exocrine Pancreatic Function Associates With Changes in Intestinal Microbiota Composition and Diversity</title>
+      <link>http://www.compsysmed.de/publication/pmid-30391469/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.compsysmed.de/publication/pmid-30391469/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Genome Analyses of &gt;200,000 Individuals Identify 58 Loci for Chronic Inflammation and Highlight Pathways that Link Inflammation and Complex Disorders</title>
@@ -22,11 +31,11 @@
     </item>
     
     <item>
-      <title>Impaired Exocrine Pancreatic Function Associates With Changes in Intestinal Microbiota Composition and Diversity</title>
-      <link>http://www.compsysmed.de/publication/pmid-30391469/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      <title>A GWAS meta-analysis from 5 population-based cohorts implicates ion channel genes in the pathogenesis of irritable bowel syndrome</title>
+      <link>http://www.compsysmed.de/publication/pmid-29673008/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://www.compsysmed.de/publication/pmid-30391469/</guid>
+      <guid>http://www.compsysmed.de/publication/pmid-29673008/</guid>
       <description></description>
     </item>
     
@@ -121,6 +130,15 @@
     </item>
     
     <item>
+      <title>Exome Variant Analysis of Chronic Periodontitis in 2 Large Cohort Studies</title>
+      <link>http://www.compsysmed.de/publication/pmid-27655622/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.compsysmed.de/publication/pmid-27655622/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multiethnic genome-wide meta-analysis of ectopic fat depots identifies loci associated with adipocyte development and differentiation</title>
       <link>http://www.compsysmed.de/publication/pmid-27918534/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
@@ -202,11 +220,29 @@
     </item>
     
     <item>
+      <title>Inferring causal molecular networks: empirical assessment through a community-based effort</title>
+      <link>http://www.compsysmed.de/publication/pmid-26901648/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/publication/pmid-26901648/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gene Expression Profiling in the APP/PS1KI Mouse Model of Familial Alzheimer&#39;s Disease</title>
       <link>http://www.compsysmed.de/publication/pmid-26639971/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
       <guid>http://www.compsysmed.de/publication/pmid-26639971/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene transcripts associated with muscle strength: a CHARGE meta-analysis of 7,781 persons</title>
+      <link>http://www.compsysmed.de/publication/pmid-26487704/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.compsysmed.de/publication/pmid-26487704/</guid>
       <description></description>
     </item>
     

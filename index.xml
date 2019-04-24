@@ -12,28 +12,6 @@
     
     <item>
       <title></title>
-      <link>http://www.compsysmed.de/team/phd01/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/team/phd01/</guid>
-      <description>
-
-&lt;h3 id=&#34;phd-student-position-65-e13-3-years-available-immediately&#34;&gt;PhD Student position (65% E13, 3 years) available immediately&lt;/h3&gt;
-
-&lt;p&gt;Diseases are currently defined and diagnosed based on symptoms (e.g.,
-hypertension, depression) or affected organs (e.g., heart failure,
-nephropathy). Clearly, there is a lack of mechanistic understanding of diseases
-that could improve disease definitions and allow for more informed selection
-and development of therapies. To achieve such understanding we develop
-integrative bioinformatics methods leveraging network analysis, machine
-learning techniques, and statistical approaches. Your work will focus on the
-development of graph-based machine learning techniques to identify disease- and
-patient-specific dysregulated subnetworks.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://www.compsysmed.de/team/tim_kacprowksi/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -46,9 +24,26 @@ studies at the University of Greifswald, I analysed different omics data in the
 context of common diseases. Before I joined the Interfaculty Institute of
 Functional Genomics at the University Medicine Greifswald, I studied
 bioinformatics in Saarbrücken, focussing on network biology. During my studies
-I spent some time abroad at the University of Iceland. I was awarded a Honor&amp;rsquo;s
+I spent some time abroad at the University of Iceland. I&amp;rsquo;ve been awarded a Honor&amp;rsquo;s
 Degree in Bioinformatics from the Saarland University and the
 Max-Planck-Institute for Informatics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.compsysmed.de/team/olga_tsoy/</link>
+      <pubDate>Mon, 24 Apr 2017 22:13:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/team/olga_tsoy/</guid>
+      <description>&lt;p&gt;I will start in summer 2019 as a Postdoc at the Chair of Experimental
+Bioinformatics. I graduated from Lomonosov Moscow State University and did PhD
+in Kharkevich Institute in Moscow at professor Gelfand lab. There I studied the
+evolution of transcriptional regulatory networks in bacteria. During my PhD I
+shortly stayed at Stowers Institute for Medical Research, Kansas-City, where I
+went on working on regulation of bacterial metabolic pathways. As a research
+scientist, I worked in Skolkovo Institute of Science and Technology, Moscow on
+3D chromatin structure analysis.&lt;/p&gt;
 </description>
     </item>
     
@@ -71,6 +66,37 @@ repurposing project.&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>http://www.compsysmed.de/team/manuela_lautizi/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/team/manuela_lautizi/</guid>
+      <description>&lt;p&gt;I’m a PhD student in the Chair of Experimental Bioinformatics in collaboration
+with the Institute of Pathology, both at TUM. I’ve originally joined Prof.
+Baumbach’s lab to work on my master’s thesis in bioinformatics, focused to
+identify pathway-based subnetwork of genes most significantly associated to
+survival time of cancer patients. Other topics of my interest are machine
+learning (both supervised and unsupervised), manipulation and analysis of the
+data from a statistical point of view.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.compsysmed.de/team/amit_fenn/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/team/amit_fenn/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD candidate at the chair of Experimental Bioinformatics at TUM. My
+project is the study of alternative splicing in heart and kidney using machine
+learning to analyze multi-omics data. I studied cellular biology, specializing
+in the mitochondria, during my Master&amp;rsquo;s at LMU. For my Master&amp;rsquo;s thesis, I
+explored splicing within ribosomal protein genes, in the context of the
+biogenesis of mitochondria.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://www.compsysmed.de/team/weilong_li/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -86,17 +112,17 @@ thesis on GWAS simulation with twin design.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://www.compsysmed.de/team/manuela_lautizi/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <link>http://www.compsysmed.de/team/gihanna_galindez/</link>
+      <pubDate>Wed, 24 Apr 2019 22:18:00 +0200</pubDate>
       
-      <guid>http://www.compsysmed.de/team/manuela_lautizi/</guid>
-      <description>&lt;p&gt;I’m a PhD student in the Chair of Experimental Bioinformatics in collaboration
-with the Institute of Pathology, both at TUM. I’ve originally joined Prof.
-Baumbach’s lab to work on my master’s thesis in bioinformatics, focused to
-identify pathway-based subnetwork of genes most significantly associated to
-survival time of cancer patients. Other topics of my interest are machine
-learning (both supervised and unsupervised), manipulation and analysis of the
-data from a statistical point of view.&lt;/p&gt;
+      <guid>http://www.compsysmed.de/team/gihanna_galindez/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD student at the Chair of Experimental Bioinformatics at TU Munich. I
+obtained my bachelor&amp;rsquo;s degree in Molecular Biology and Biotechnology from the
+University of the Philippines. Then, I studied Life Science Informatics at
+the University of Bonn in Germany. In my master&amp;rsquo;s thesis, I used machine
+learning to identify chromatin features involved in immunity-related
+transcriptional reprogramming in plants. I am working under the REPO-TRIAL
+project to apply network analysis and machine learning for drug repurposing.&lt;/p&gt;
 </description>
     </item>
     
@@ -142,6 +168,36 @@ thesis.&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>http://www.compsysmed.de/team/tim_faro/</link>
+      <pubDate>Wed, 24 Apr 2019 22:24:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/team/tim_faro/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m in my third year of studies towards a bachelor&amp;rsquo;s degree in Bioinformatics
+at the LMU and Technical University of Munich. Recently, I joined the Chair of
+Experimental Bioinformatics in Weihenstephan for my bachelor&amp;rsquo;s thesis on deep
+learning for radiomics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.compsysmed.de/team/chris_li/</link>
+      <pubDate>Wed, 24 Apr 2019 22:26:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/team/chris_li/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m an undergraduate student from Edmonton, Alberta! I&amp;rsquo;m midway through my
+bachelors studies at the University of Michigan, Ann Arbor. My main line of
+work/interests are regarding cultural psychology and psychopathology, with a
+neuroscience emphasis. I&amp;rsquo;ll be joining the lab this summer under the PREP
+program, working on the general architecture of the Diseasome, and using it to
+examine genetic and physiological mechanisms behind psychological disorders.
+Other interests include: Sociology, Basketball, Handball, Ethics, Traveling,
+Literature&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://www.compsysmed.de/team/olga_lesina/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -169,61 +225,12 @@ bioinformatics.&lt;/p&gt;
     </item>
     
     <item>
-      <title>REPO-TRIAL</title>
-      <link>http://www.compsysmed.de/project/repo-trial/</link>
-      <pubDate>Mon, 25 Feb 2019 19:39:58 +0200</pubDate>
+      <title>The group grows</title>
+      <link>http://www.compsysmed.de/post/growth/</link>
+      <pubDate>Wed, 24 Apr 2019 23:01:00 +0200</pubDate>
       
-      <guid>http://www.compsysmed.de/project/repo-trial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FeatureCloud</title>
-      <link>http://www.compsysmed.de/project/featurecloud/</link>
-      <pubDate>Sun, 24 Feb 2019 19:39:58 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/project/featurecloud/</guid>
-      <description>
-
-&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Network-Based Epistasis Detection</title>
-      <link>http://www.compsysmed.de/project/epistasis/</link>
-      <pubDate>Sat, 23 Feb 2019 19:39:58 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/project/epistasis/</guid>
-      <description>
-
-&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>De novo network enrichment</title>
-      <link>http://www.compsysmed.de/project/denovonetenrich/</link>
-      <pubDate>Fri, 22 Feb 2019 19:39:58 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/project/denovonetenrich/</guid>
-      <description>
-
-&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Invited talk at IGLD2019</title>
-      <link>http://www.compsysmed.de/post/igld2019/</link>
-      <pubDate>Wed, 30 Jan 2019 13:39:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/post/igld2019/</guid>
-      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.igld.de/?page_id=7078&#34; target=&#34;_blank&#34;&gt;Jahressymposium der
-Interdisziplinären Gruppe für Labor und
-Durchflussyztometrie&lt;/a&gt;, taking place from
-March 07-08 at the Congress Center in Frankfurt. The talk will be about
-&amp;ldquo;Zirkulierende miRNAs als potentielle Biomarker&amp;rdquo;.&lt;/p&gt;
+      <guid>http://www.compsysmed.de/post/growth/</guid>
+      <description>&lt;p&gt;Olga Tsoy will join as a Post-Doc. Amit Fenn and Gihanna Galindez join as PhD Students. Tim Faro, Judith Bernett, Andreas Stelzer, Christoph Kloppert and Fanny Rößler decided to do their Bachelor&amp;rsquo;s thesis with us.&lt;/p&gt;
 </description>
     </item>
     
