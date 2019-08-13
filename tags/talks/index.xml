@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 30 Jan 2019 13:39:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2019 15:46:00 +0200</lastBuildDate>
     
 	<atom:link href="http://www.compsysmed.de/tags/talks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Invited talk at PMBC2019</title>
+      <link>http://www.compsysmed.de/post/pmbc2019/</link>
+      <pubDate>Tue, 13 Aug 2019 15:46:00 +0200</pubDate>
+      
+      <guid>http://www.compsysmed.de/post/pmbc2019/</guid>
+      <description>Tim Kacprowski has been invited to give a talk at the 2nd International Congress on Precision Medicine, taking place on October 14-15 at the Hilton Munich City in Munich, Germany. The talk will be about &amp;ldquo;Multi-Omics Characterization of Induced Thyrotoxicosis&amp;rdquo;.</description>
+    </item>
     
     <item>
       <title>Invited talk at IGLD2019</title>
