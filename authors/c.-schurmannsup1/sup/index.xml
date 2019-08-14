@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Schurmann&lt;sup&gt;1&lt;/sup&gt; | ResGro CompSysMed</title>
+    <link>/authors/c.-schurmannsup1/sup/</link>
+      <atom:link href="/authors/c.-schurmannsup1/sup/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Schurmann&lt;sup&gt;1&lt;/sup&gt;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>C. Schurmann&lt;sup&gt;1&lt;/sup&gt;</title>
+      <link>/authors/c.-schurmannsup1/sup/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptome-Wide Analysis Identifies Novel Associations With Blood Pressure</title>
+      <link>/publication/zeller-et-al.-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      <guid>/publication/zeller-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

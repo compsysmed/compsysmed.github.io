@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. J. Grabe | ResGro CompSysMed</title>
+    <link>/authors/h.-j.-grabe/</link>
+      <atom:link href="/authors/h.-j.-grabe/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. J. Grabe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>H. J. Grabe</title>
+      <link>/authors/h.-j.-grabe/</link>
+    </image>
+    
+    <item>
+      <title>Evidence for Stress-like Alterations in the HPA-Axis in Women Taking Oral Contraceptives</title>
+      <link>/publication/hertel-et-al.-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      <guid>/publication/hertel-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cohort profile: Greifswald approach to individualized medicine (GANI_MED)</title>
+      <link>/publication/grabe-et-al.-2014/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+      <guid>/publication/grabe-et-al.-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

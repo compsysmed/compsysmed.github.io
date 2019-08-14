@@ -1,347 +1,310 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on ResGro CompSysMed</title>
-    <link>http://www.compsysmed.de/publication/</link>
-    <description>Recent content in Publications on ResGro CompSysMed</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="http://www.compsysmed.de/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Publications | ResGro CompSysMed</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
     
     <item>
       <title>Impaired Exocrine Pancreatic Function Associates With Changes in Intestinal Microbiota Composition and Diversity</title>
-      <link>http://www.compsysmed.de/publication/frost-et-al.-2019/</link>
+      <link>/publication/frost-et-al.-2019/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/frost-et-al.-2019/</guid>
+      <guid>/publication/frost-et-al.-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mendelian randomization evaluation of causal effects of fibrinogen on incident coronary heart disease.</title>
-      <link>http://www.compsysmed.de/publication/ward-caviness-et-al.-2019/</link>
+      <link>/publication/ward-caviness-et-al.-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/ward-caviness-et-al.-2019/</guid>
+      <guid>/publication/ward-caviness-et-al.-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome Analyses of &gt;200,000 Individuals Identify 58 Loci for Chronic Inflammation and Highlight Pathways that Link Inflammation and Complex Disorders</title>
-      <link>http://www.compsysmed.de/publication/ligthart-et-al.-2018/</link>
+      <link>/publication/ligthart-et-al.-2018/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/ligthart-et-al.-2018/</guid>
+      <guid>/publication/ligthart-et-al.-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A GWAS meta-analysis from 5 population-based cohorts implicates ion channel genes in the pathogenesis of irritable bowel syndrome</title>
-      <link>http://www.compsysmed.de/publication/bonfiglio-et-al.-2018/</link>
+      <link>/publication/bonfiglio-et-al.-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/bonfiglio-et-al.-2018/</guid>
+      <guid>/publication/bonfiglio-et-al.-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empowering thyroid hormone research in human subjects using OMICs technologies</title>
-      <link>http://www.compsysmed.de/publication/pietzner-et-al.-2018/</link>
+      <link>/publication/pietzner-et-al.-2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/pietzner-et-al.-2018/</guid>
+      <guid>/publication/pietzner-et-al.-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DNA methylation as a mediator of HLA-DRB1*15:01 and a protective variant in multiple sclerosis</title>
-      <link>http://www.compsysmed.de/publication/kular-et-al.-2018/</link>
+      <link>/publication/kular-et-al.-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/kular-et-al.-2018/</guid>
+      <guid>/publication/kular-et-al.-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional abdominal pain and discomfort (IBS) is not associated with faecal microbiota composition in the general population</title>
-      <link>http://www.compsysmed.de/publication/frost-et-al.-2018/</link>
+      <link>/publication/frost-et-al.-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/frost-et-al.-2018/</guid>
+      <guid>/publication/frost-et-al.-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meta-analysis of human genome-microbiome association studies: the MiBioGen consortium initiative</title>
-      <link>http://www.compsysmed.de/publication/wang-et-al.-2018/</link>
+      <link>/publication/wang-et-al.-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/wang-et-al.-2018/</guid>
+      <guid>/publication/wang-et-al.-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MicroRNA analysis of gastroenteropancreatic neuroendocrine tumors and metastases</title>
-      <link>http://www.compsysmed.de/publication/zimmermann-et-al.-2018/</link>
+      <link>/publication/zimmermann-et-al.-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/zimmermann-et-al.-2018/</guid>
+      <guid>/publication/zimmermann-et-al.-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence for Stress-like Alterations in the HPA-Axis in Women Taking Oral Contraceptives</title>
-      <link>http://www.compsysmed.de/publication/hertel-et-al.-2017/</link>
+      <link>/publication/hertel-et-al.-2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/hertel-et-al.-2017/</guid>
+      <guid>/publication/hertel-et-al.-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptome-Wide Analysis Identifies Novel Associations With Blood Pressure</title>
-      <link>http://www.compsysmed.de/publication/zeller-et-al.-2017/</link>
+      <link>/publication/zeller-et-al.-2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/zeller-et-al.-2017/</guid>
+      <guid>/publication/zeller-et-al.-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notions of similarity for systems biology models</title>
-      <link>http://www.compsysmed.de/publication/henkel-et-al.-2016/</link>
+      <link>/publication/henkel-et-al.-2016/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/henkel-et-al.-2016/</guid>
+      <guid>/publication/henkel-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Profiling and validation of circulating microRNAs for cardiovascular events in patients presenting with ST-segment elevation myocardial infarction</title>
-      <link>http://www.compsysmed.de/publication/jakob-et-al.-2017/</link>
+      <link>/publication/jakob-et-al.-2017/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/jakob-et-al.-2017/</guid>
+      <guid>/publication/jakob-et-al.-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exome Variant Analysis of Chronic Periodontitis in 2 Large Cohort Studies</title>
-      <link>http://www.compsysmed.de/publication/kasbohm-et-al.-2016/</link>
+      <link>/publication/kasbohm-et-al.-2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/kasbohm-et-al.-2016/</guid>
+      <guid>/publication/kasbohm-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiethnic genome-wide meta-analysis of ectopic fat depots identifies loci associated with adipocyte development and differentiation</title>
-      <link>http://www.compsysmed.de/publication/chu-et-al.-2017/</link>
+      <link>/publication/chu-et-al.-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/chu-et-al.-2017/</guid>
+      <guid>/publication/chu-et-al.-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plasma proteome and metabolome characterization of an experimental human thyrotoxicosis model</title>
-      <link>http://www.compsysmed.de/publication/pietzner-et-al.-2017/</link>
+      <link>/publication/pietzner-et-al.-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/pietzner-et-al.-2017/</guid>
+      <guid>/publication/pietzner-et-al.-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-wide association study of caffeine metabolites provides new insights to caffeine metabolism and dietary caffeine-consumption behavior</title>
-      <link>http://www.compsysmed.de/publication/cornelis-et-al.-2016/</link>
+      <link>/publication/cornelis-et-al.-2016/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/cornelis-et-al.-2016/</guid>
+      <guid>/publication/cornelis-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene-gene Interaction Analyses for Atrial Fibrillation</title>
-      <link>http://www.compsysmed.de/publication/lin-et-al.-2016/</link>
+      <link>/publication/lin-et-al.-2016/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/lin-et-al.-2016/</guid>
+      <guid>/publication/lin-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptome Alterations In X-Irradiated Human Gingiva Fibroblasts</title>
-      <link>http://www.compsysmed.de/publication/weissmann-et-al.-2016/</link>
+      <link>/publication/weissmann-et-al.-2016/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/weissmann-et-al.-2016/</guid>
+      <guid>/publication/weissmann-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exome Genotyping Identifies Pleiotropic Variants Associated with Red Blood Cell Traits</title>
-      <link>http://www.compsysmed.de/publication/chami-et-al.-2016/</link>
+      <link>/publication/chami-et-al.-2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/chami-et-al.-2016/</guid>
+      <guid>/publication/chami-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Large-Scale Exome-wide Association Analysis Identifies Loci for White Blood Cell Traits and Pleiotropy with Immune-Mediated Diseases</title>
-      <link>http://www.compsysmed.de/publication/tajuddin-et-al.-2016/</link>
+      <link>/publication/tajuddin-et-al.-2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/tajuddin-et-al.-2016/</guid>
+      <guid>/publication/tajuddin-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Platelet-Related Variants Identified by Exomechip Meta-analysis in 157,293 Individuals</title>
-      <link>http://www.compsysmed.de/publication/eicher-et-al.-2016/</link>
+      <link>/publication/eicher-et-al.-2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/eicher-et-al.-2016/</guid>
+      <guid>/publication/eicher-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novel multiple sclerosis susceptibility loci implicated in epigenetic regulation</title>
-      <link>http://www.compsysmed.de/publication/andlauer-et-al.-2016/</link>
+      <link>/publication/andlauer-et-al.-2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/andlauer-et-al.-2016/</guid>
+      <guid>/publication/andlauer-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferring causal molecular networks: empirical assessment through a community-based effort</title>
-      <link>http://www.compsysmed.de/publication/hill-et-al.-2016/</link>
+      <link>/publication/hill-et-al.-2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/hill-et-al.-2016/</guid>
+      <guid>/publication/hill-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene transcripts associated with muscle strength: a CHARGE meta-analysis of 7,781 persons</title>
-      <link>http://www.compsysmed.de/publication/pilling-et-al.-2016/</link>
+      <link>/publication/pilling-et-al.-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/pilling-et-al.-2016/</guid>
+      <guid>/publication/pilling-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Associations of circulating plasma microRNAs with age, body mass index and sex in a population-based study</title>
-      <link>http://www.compsysmed.de/publication/ameling-et-al.-2015/</link>
+      <link>/publication/ameling-et-al.-2015/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/ameling-et-al.-2015/</guid>
+      <guid>/publication/ameling-et-al.-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-Wide Association Study with Targeted and Non-targeted NMR Metabolomics Identifies 15 Novel Loci of Urinary Human Metabolic Individuality</title>
-      <link>http://www.compsysmed.de/publication/raffler-et-al.-2015/</link>
+      <link>/publication/raffler-et-al.-2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/raffler-et-al.-2015/</guid>
+      <guid>/publication/raffler-et-al.-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rare and low-frequency variants and their association with plasma levels of fibrinogen, FVII, FVIII, and vWF</title>
-      <link>http://www.compsysmed.de/publication/huffman-et-al.-2015/</link>
+      <link>/publication/huffman-et-al.-2015/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/huffman-et-al.-2015/</guid>
+      <guid>/publication/huffman-et-al.-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Directional dominance on stature and cognition in diverse human populations</title>
-      <link>http://www.compsysmed.de/publication/joshi-et-al.-2015/</link>
+      <link>/publication/joshi-et-al.-2015/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/joshi-et-al.-2015/</guid>
+      <guid>/publication/joshi-et-al.-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-omic signature of body weight change: results from a population-based cohort study</title>
-      <link>http://www.compsysmed.de/publication/wahl-et-al.-2015/</link>
+      <link>/publication/wahl-et-al.-2015/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/wahl-et-al.-2015/</guid>
+      <guid>/publication/wahl-et-al.-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene Expression Profiling in the APP/PS1KI Mouse Model of Familial Alzheimer&#39;s Disease</title>
-      <link>http://www.compsysmed.de/publication/weissmann-et-al.-2015/</link>
+      <link>/publication/weissmann-et-al.-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/weissmann-et-al.-2015/</guid>
+      <guid>/publication/weissmann-et-al.-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cohort profile: Greifswald approach to individualized medicine (GANI_MED)</title>
-      <link>http://www.compsysmed.de/publication/grabe-et-al.-2014/</link>
+      <link>/publication/grabe-et-al.-2014/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/grabe-et-al.-2014/</guid>
+      <guid>/publication/grabe-et-al.-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deciphering the molecular profile of plaques, memory decline and neuron loss in two mouse models for Alzheimer&#39;s disease by deep sequencing</title>
-      <link>http://www.compsysmed.de/publication/bouter-et-al.-2014/</link>
+      <link>/publication/bouter-et-al.-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/bouter-et-al.-2014/</guid>
+      <guid>/publication/bouter-et-al.-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of the EGFR interactome reveals associated protein complex networks and intracellular receptor dynamics</title>
-      <link>http://www.compsysmed.de/publication/foerster-et-al.-2013/</link>
+      <link>/publication/foerster-et-al.-2013/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/foerster-et-al.-2013/</guid>
+      <guid>/publication/foerster-et-al.-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NetworkPrioritizer: a versatile tool for network-based prioritization of candidate disease genes or other molecules</title>
-      <link>http://www.compsysmed.de/publication/kacprowski-et-al.-2012/</link>
+      <link>/publication/kacprowski-et-al.-2012/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/kacprowski-et-al.-2012/</guid>
+      <guid>/publication/kacprowski-et-al.-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent approaches to the prioritization of candidate disease genes</title>
-      <link>http://www.compsysmed.de/publication/doncheva-et-al.-2012/</link>
+      <link>/publication/doncheva-et-al.-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/doncheva-et-al.-2012/</guid>
+      <guid>/publication/doncheva-et-al.-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring and analyzing tissue specificity of human genes and protein complexes</title>
-      <link>http://www.compsysmed.de/publication/emig-et-al.-2011/</link>
+      <link>/publication/emig-et-al.-2011/</link>
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/publication/emig-et-al.-2011/</guid>
+      <guid>/publication/emig-et-al.-2011/</guid>
       <description></description>
     </item>
     

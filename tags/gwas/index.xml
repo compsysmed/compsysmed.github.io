@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GWAS on ResGro CompSysMed</title>
-    <link>http://www.compsysmed.de/tags/gwas/</link>
-    <description>Recent content in GWAS on ResGro CompSysMed</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 23 Feb 2019 19:39:58 +0200</lastBuildDate>
-    
-	<atom:link href="http://www.compsysmed.de/tags/gwas/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>GWAS | ResGro CompSysMed</title>
+    <link>/tags/gwas/</link>
+      <atom:link href="/tags/gwas/index.xml" rel="self" type="application/rss+xml" />
+    <description>GWAS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Feb 2019 19:39:58 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>GWAS</title>
+      <link>/tags/gwas/</link>
+    </image>
     
     <item>
       <title>Network-Based Epistasis Detection</title>
-      <link>http://www.compsysmed.de/project/epistasis/</link>
+      <link>/project/epistasis/</link>
       <pubDate>Sat, 23 Feb 2019 19:39:58 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/project/epistasis/</guid>
-      <description> More info coming soon </description>
+      <guid>/project/epistasis/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
     </item>
     
   </channel>

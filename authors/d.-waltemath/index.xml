@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Waltemath | ResGro CompSysMed</title>
+    <link>/authors/d.-waltemath/</link>
+      <atom:link href="/authors/d.-waltemath/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Waltemath</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>D. Waltemath</title>
+      <link>/authors/d.-waltemath/</link>
+    </image>
+    
+    <item>
+      <title>Notions of similarity for systems biology models</title>
+      <link>/publication/henkel-et-al.-2016/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      <guid>/publication/henkel-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

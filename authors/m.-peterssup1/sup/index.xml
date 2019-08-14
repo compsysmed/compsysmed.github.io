@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Peters&lt;sup&gt;1&lt;/sup&gt; | ResGro CompSysMed</title>
+    <link>/authors/m.-peterssup1/sup/</link>
+      <atom:link href="/authors/m.-peterssup1/sup/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Peters&lt;sup&gt;1&lt;/sup&gt;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. Peters&lt;sup&gt;1&lt;/sup&gt;</title>
+      <link>/authors/m.-peterssup1/sup/</link>
+    </image>
+    
+    <item>
+      <title>Gene transcripts associated with muscle strength: a CHARGE meta-analysis of 7,781 persons</title>
+      <link>/publication/pilling-et-al.-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <guid>/publication/pilling-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

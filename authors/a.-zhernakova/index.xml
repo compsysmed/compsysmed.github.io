@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Zhernakova | ResGro CompSysMed</title>
+    <link>/authors/a.-zhernakova/</link>
+      <atom:link href="/authors/a.-zhernakova/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Zhernakova</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. Zhernakova</title>
+      <link>/authors/a.-zhernakova/</link>
+    </image>
+    
+    <item>
+      <title>Meta-analysis of human genome-microbiome association studies: the MiBioGen consortium initiative</title>
+      <link>/publication/wang-et-al.-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>/publication/wang-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Engelmann | ResGro CompSysMed</title>
+    <link>/authors/b.-engelmann/</link>
+      <atom:link href="/authors/b.-engelmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Engelmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>B. Engelmann</title>
+      <link>/authors/b.-engelmann/</link>
+    </image>
+    
+    <item>
+      <title>Plasma proteome and metabolome characterization of an experimental human thyrotoxicosis model</title>
+      <link>/publication/pietzner-et-al.-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/pietzner-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

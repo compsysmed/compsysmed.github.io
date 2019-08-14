@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>systems medicine on ResGro CompSysMed</title>
-    <link>http://www.compsysmed.de/tags/systems-medicine/</link>
-    <description>Recent content in systems medicine on ResGro CompSysMed</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 25 Feb 2019 19:39:58 +0200</lastBuildDate>
-    
-	<atom:link href="http://www.compsysmed.de/tags/systems-medicine/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>systems medicine | ResGro CompSysMed</title>
+    <link>/tags/systems-medicine/</link>
+      <atom:link href="/tags/systems-medicine/index.xml" rel="self" type="application/rss+xml" />
+    <description>systems medicine</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Feb 2019 19:39:58 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>systems medicine</title>
+      <link>/tags/systems-medicine/</link>
+    </image>
     
     <item>
       <title>REPO-TRIAL</title>
-      <link>http://www.compsysmed.de/project/repo-trial/</link>
+      <link>/project/repo-trial/</link>
       <pubDate>Mon, 25 Feb 2019 19:39:58 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/project/repo-trial/</guid>
+      <guid>/project/repo-trial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network-Based Epistasis Detection</title>
-      <link>http://www.compsysmed.de/project/epistasis/</link>
+      <link>/project/epistasis/</link>
       <pubDate>Sat, 23 Feb 2019 19:39:58 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/project/epistasis/</guid>
-      <description> More info coming soon </description>
+      <guid>/project/epistasis/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
     </item>
     
   </channel>

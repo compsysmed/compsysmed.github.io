@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>de novo network enrichment on ResGro CompSysMed</title>
-    <link>http://www.compsysmed.de/tags/de-novo-network-enrichment/</link>
-    <description>Recent content in de novo network enrichment on ResGro CompSysMed</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 22 Feb 2019 19:39:58 +0200</lastBuildDate>
-    
-	<atom:link href="http://www.compsysmed.de/tags/de-novo-network-enrichment/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>de novo network enrichment | ResGro CompSysMed</title>
+    <link>/tags/de-novo-network-enrichment/</link>
+      <atom:link href="/tags/de-novo-network-enrichment/index.xml" rel="self" type="application/rss+xml" />
+    <description>de novo network enrichment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Feb 2019 19:39:58 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>de novo network enrichment</title>
+      <link>/tags/de-novo-network-enrichment/</link>
+    </image>
     
     <item>
       <title>De novo network enrichment</title>
-      <link>http://www.compsysmed.de/project/denovonetenrich/</link>
+      <link>/project/denovonetenrich/</link>
       <pubDate>Fri, 22 Feb 2019 19:39:58 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/project/denovonetenrich/</guid>
-      <description> More info coming soon </description>
+      <guid>/project/denovonetenrich/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
     </item>
     
   </channel>

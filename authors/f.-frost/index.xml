@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Frost | ResGro CompSysMed</title>
+    <link>/authors/f.-frost/</link>
+      <atom:link href="/authors/f.-frost/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Frost</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>F. Frost</title>
+      <link>/authors/f.-frost/</link>
+    </image>
+    
+    <item>
+      <title>Functional abdominal pain and discomfort (IBS) is not associated with faecal microbiota composition in the general population</title>
+      <link>/publication/frost-et-al.-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>/publication/frost-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ResGro CompSysMed</title>
+    <link>/authors/chit_tong_lio/</link>
+      <atom:link href="/authors/chit_tong_lio/index.xml" rel="self" type="application/rss+xml" />
+    <description>ResGro CompSysMed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>ResGro CompSysMed</title>
+      <link>/authors/chit_tong_lio/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/chit_tong_lio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/chit_tong_lio/</guid>
+      <description>&lt;p&gt;I’m a biology master student from LMU Munich, where I have experiences in
+working with sequencing data analysis. In my master thesis, I work at the Chair
+of Experimental Bioinformatics on time course network enrichment analysis on
+X-irradiated human fibroblast using TiCoNE and machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

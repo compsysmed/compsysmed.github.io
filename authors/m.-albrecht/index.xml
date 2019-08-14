@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Albrecht | ResGro CompSysMed</title>
+    <link>/authors/m.-albrecht/</link>
+      <atom:link href="/authors/m.-albrecht/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Albrecht</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. Albrecht</title>
+      <link>/authors/m.-albrecht/</link>
+    </image>
+    
+    <item>
+      <title>Deciphering the molecular profile of plaques, memory decline and neuron loss in two mouse models for Alzheimer&#39;s disease by deep sequencing</title>
+      <link>/publication/bouter-et-al.-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/bouter-et-al.-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of the EGFR interactome reveals associated protein complex networks and intracellular receptor dynamics</title>
+      <link>/publication/foerster-et-al.-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
+      <guid>/publication/foerster-et-al.-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetworkPrioritizer: a versatile tool for network-based prioritization of candidate disease genes or other molecules</title>
+      <link>/publication/kacprowski-et-al.-2012/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0200</pubDate>
+      <guid>/publication/kacprowski-et-al.-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent approaches to the prioritization of candidate disease genes</title>
+      <link>/publication/doncheva-et-al.-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>/publication/doncheva-et-al.-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and analyzing tissue specificity of human genes and protein complexes</title>
+      <link>/publication/emig-et-al.-2011/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0200</pubDate>
+      <guid>/publication/emig-et-al.-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

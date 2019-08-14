@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Weissmann | ResGro CompSysMed</title>
+    <link>/authors/r.-weissmann/</link>
+      <atom:link href="/authors/r.-weissmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Weissmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>R. Weissmann</title>
+      <link>/authors/r.-weissmann/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptome Alterations In X-Irradiated Human Gingiva Fibroblasts</title>
+      <link>/publication/weissmann-et-al.-2016/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      <guid>/publication/weissmann-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene Expression Profiling in the APP/PS1KI Mouse Model of Familial Alzheimer&#39;s Disease</title>
+      <link>/publication/weissmann-et-al.-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>/publication/weissmann-et-al.-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciphering the molecular profile of plaques, memory decline and neuron loss in two mouse models for Alzheimer&#39;s disease by deep sequencing</title>
+      <link>/publication/bouter-et-al.-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/bouter-et-al.-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

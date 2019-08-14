@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. S. Fox | ResGro CompSysMed</title>
+    <link>/authors/c.-s.-fox/</link>
+      <atom:link href="/authors/c.-s.-fox/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. S. Fox</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>C. S. Fox</title>
+      <link>/authors/c.-s.-fox/</link>
+    </image>
+    
+    <item>
+      <title>Multiethnic genome-wide meta-analysis of ectopic fat depots identifies loci associated with adipocyte development and differentiation</title>
+      <link>/publication/chu-et-al.-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/chu-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ResGro CompSysMed</title>
+    <link>/authors/nils_mehrtens/</link>
+      <atom:link href="/authors/nils_mehrtens/index.xml" rel="self" type="application/rss+xml" />
+    <description>ResGro CompSysMed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>ResGro CompSysMed</title>
+      <link>/authors/nils_mehrtens/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/nils_mehrtens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/nils_mehrtens/</guid>
+      <description>&lt;p&gt;I study bioinformatics at TUM and LMU and recently joined the Chair of
+Experimental Bioinformatics to research the relationship between miRNA
+expression levels and various phenotype data in the context of my bachelor
+thesis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

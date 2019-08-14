@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Lin | ResGro CompSysMed</title>
+    <link>/authors/h.-lin/</link>
+      <atom:link href="/authors/h.-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>H. Lin</title>
+      <link>/authors/h.-lin/</link>
+    </image>
+    
+    <item>
+      <title>Gene-gene Interaction Analyses for Atrial Fibrillation</title>
+      <link>/publication/lin-et-al.-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0100</pubDate>
+      <guid>/publication/lin-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

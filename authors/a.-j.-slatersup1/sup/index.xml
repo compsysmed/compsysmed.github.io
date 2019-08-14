@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. J. Slater&lt;sup&gt;1&lt;/sup&gt; | ResGro CompSysMed</title>
+    <link>/authors/a.-j.-slatersup1/sup/</link>
+      <atom:link href="/authors/a.-j.-slatersup1/sup/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. J. Slater&lt;sup&gt;1&lt;/sup&gt;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. J. Slater&lt;sup&gt;1&lt;/sup&gt;</title>
+      <link>/authors/a.-j.-slatersup1/sup/</link>
+    </image>
+    
+    <item>
+      <title>Exome Genotyping Identifies Pleiotropic Variants Associated with Red Blood Cell Traits</title>
+      <link>/publication/chami-et-al.-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      <guid>/publication/chami-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

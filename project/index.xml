@@ -1,51 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on ResGro CompSysMed</title>
-    <link>http://www.compsysmed.de/project/</link>
-    <description>Recent content in Projects on ResGro CompSysMed</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 25 Feb 2019 19:39:58 +0200</lastBuildDate>
-    
-	<atom:link href="http://www.compsysmed.de/project/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Projects | ResGro CompSysMed</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Feb 2019 19:39:58 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
     
     <item>
       <title>REPO-TRIAL</title>
-      <link>http://www.compsysmed.de/project/repo-trial/</link>
+      <link>/project/repo-trial/</link>
       <pubDate>Mon, 25 Feb 2019 19:39:58 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/project/repo-trial/</guid>
+      <guid>/project/repo-trial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FeatureCloud</title>
-      <link>http://www.compsysmed.de/project/featurecloud/</link>
+      <link>/project/featurecloud/</link>
       <pubDate>Sun, 24 Feb 2019 19:39:58 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/project/featurecloud/</guid>
-      <description> More info coming soon </description>
+      <guid>/project/featurecloud/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
     </item>
     
     <item>
       <title>Network-Based Epistasis Detection</title>
-      <link>http://www.compsysmed.de/project/epistasis/</link>
+      <link>/project/epistasis/</link>
       <pubDate>Sat, 23 Feb 2019 19:39:58 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/project/epistasis/</guid>
-      <description> More info coming soon </description>
+      <guid>/project/epistasis/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
     </item>
     
     <item>
       <title>De novo network enrichment</title>
-      <link>http://www.compsysmed.de/project/denovonetenrich/</link>
+      <link>/project/denovonetenrich/</link>
       <pubDate>Fri, 22 Feb 2019 19:39:58 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/project/denovonetenrich/</guid>
-      <description> More info coming soon </description>
+      <guid>/project/denovonetenrich/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
     </item>
     
   </channel>

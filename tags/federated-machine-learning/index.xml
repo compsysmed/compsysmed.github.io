@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>federated machine learning on ResGro CompSysMed</title>
-    <link>http://www.compsysmed.de/tags/federated-machine-learning/</link>
-    <description>Recent content in federated machine learning on ResGro CompSysMed</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 24 Feb 2019 19:39:58 +0200</lastBuildDate>
-    
-	<atom:link href="http://www.compsysmed.de/tags/federated-machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>federated machine learning | ResGro CompSysMed</title>
+    <link>/tags/federated-machine-learning/</link>
+      <atom:link href="/tags/federated-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>federated machine learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 24 Feb 2019 19:39:58 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>federated machine learning</title>
+      <link>/tags/federated-machine-learning/</link>
+    </image>
     
     <item>
       <title>FeatureCloud</title>
-      <link>http://www.compsysmed.de/project/featurecloud/</link>
+      <link>/project/featurecloud/</link>
       <pubDate>Sun, 24 Feb 2019 19:39:58 +0200</pubDate>
-      
-      <guid>http://www.compsysmed.de/project/featurecloud/</guid>
-      <description> More info coming soon </description>
+      <guid>/project/featurecloud/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
     </item>
     
   </channel>
