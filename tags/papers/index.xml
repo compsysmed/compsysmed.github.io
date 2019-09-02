@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers | ResGro CompSysMed</title>
+    <link>/tags/papers/</link>
+      <atom:link href="/tags/papers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Papers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2019 12:09:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Papers</title>
+      <link>/tags/papers/</link>
+    </image>
+    
+    <item>
+      <title>GWAS paper accepted in Nature Communications</title>
+      <link>/post/clark-et-al.-2019/</link>
+      <pubDate>Mon, 02 Sep 2019 12:09:00 +0200</pubDate>
+      <guid>/post/clark-et-al.-2019/</guid>
+      <description>&lt;p&gt;A GWAS paper co-authored by Tim Kacprowski has just been accepted for publication in Nature Communications. The papers descibes &amp;ldquo;Associations of autozygosity with a broad range of human phenotypes&amp;rdquo; and will shortly appear online as open access publication.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

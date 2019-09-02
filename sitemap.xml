@@ -83,25 +83,36 @@
   </url>
   
   <url>
-    <loc>/post/pmbc2019/</loc>
-    <lastmod>2019-08-13T15:46:00+02:00</lastmod>
+    <loc>/post/clark-et-al.-2019/</loc>
+    <lastmod>2019-09-02T12:09:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/papers/</loc>
+    <lastmod>2019-09-02T12:09:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-08-13T15:46:00+02:00</lastmod>
+    <lastmod>2019-09-02T12:09:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-08-13T15:46:00+02:00</lastmod>
+    <lastmod>2019-09-02T12:09:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-08-13T15:46:00+02:00</lastmod>
+    <lastmod>2019-09-02T12:09:00+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/pmbc2019/</loc>
+    <lastmod>2019-08-13T15:46:00+02:00</lastmod>
   </url>
   
   <url>
@@ -122,13 +133,13 @@
   </url>
   
   <url>
-    <loc>/authors/et-al./</loc>
+    <loc>/authors/t.-kacprowskisup1/sup/</loc>
     <lastmod>2019-03-01T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/t.-kacprowskisup1/sup/</loc>
+    <loc>/authors/et-al./</loc>
     <lastmod>2019-03-01T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
