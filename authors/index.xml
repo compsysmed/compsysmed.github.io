@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2019 12:29:00 +0200</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -281,6 +281,14 @@ scale. A bioinformatics course has inspired me to join the Chair of
 Experimental Bioinformatics for developing my thesis project, dealing with
 multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Olga Lesina</title>
+      <link>/authors/olga-lesina/</link>
+      <pubDate>Wed, 23 Oct 2019 12:29:00 +0200</pubDate>
+      <guid>/authors/olga-lesina/</guid>
+      <description></description>
     </item>
     
     <item>
