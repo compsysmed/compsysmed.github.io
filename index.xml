@@ -5,21 +5,12 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2019 12:29:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2019 12:09:00 +0200</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>ResGro CompSysMed</title>
       <link>/</link>
     </image>
-    
-    <item>
-      <title>GWAS paper accepted in Nature Genetics</title>
-      <link>/post/schlosser-et-al.-2019/</link>
-      <pubDate>Wed, 23 Oct 2019 12:29:00 +0200</pubDate>
-      <guid>/post/schlosser-et-al.-2019/</guid>
-      <description>&lt;p&gt;A GWAS paper co-authored by Tim Kacprowski has just been in principle accepted for publication in Nature Genetics. The papers descibes &amp;ldquo;Genetic Studies of Urinary Metabolites of Detoxification and Excretion in Humans&amp;rdquo; and will shortly appear online.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>GWAS paper accepted in Nature Communications</title>
