@@ -26,6 +26,15 @@ the SWISS-TAVI cohort.&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>/authors/rahel_caspar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/rahel_caspar/</guid>
+      <description>&lt;p&gt;I am a Bachelor student in Bioinformatics at the TUM and LMU since October 2016. In December 2019, I joined the Chair of Experimental Bioinformatics to work on my bachelor thesis about the landscape of alternative splicing events in a healthy population.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/tim_faro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/tim_faro/</guid>
@@ -143,6 +152,18 @@ Literature&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>/authors/chit_lio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/chit_lio/</guid>
+      <description>&lt;p&gt;I’m a biology master student from LMU Munich, where I have experiences in
+working with sequencing data analysis. In my master thesis, I work at the Chair
+of Experimental Bioinformatics on time course network enrichment analysis on
+X-irradiated human fibroblast using TiCoNE and machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/weilong_li/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/weilong_li/</guid>
@@ -164,6 +185,15 @@ thesis on GWAS simulation with twin design.&lt;/p&gt;
 Experimental Bioinformatics to research the relationship between miRNA
 expression levels and various phenotype data in the context of my bachelor
 thesis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/ertida_muka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/ertida_muka/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m rounding up my Bioinformatics studies at LMU and TUM Munich with a bachelor&amp;rsquo;s thesis at the Chair of Experimental Bioinformatics. In collaboration with the Institute of Pathology in Munich, my thesis studies the detection of Copy Number Variants using off target data, generated from targeted next-generation sequencing.&lt;/p&gt;
 </description>
     </item>
     
@@ -233,24 +263,25 @@ Hiwi.&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>/authors/evelyn_scheibling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/evelyn_scheibling/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a Bachelor student in Bioinformatics at the Technical Univerity of
+Munich an the Ludwig-Maximilian University. In October 2019 I joined the
+Chair of Experimental Bioinformatics in Weihenstephan to work on my
+bachelor thesis on the indentification of miRNA binding site enriched
+transcripts in The Cancer Genome Atlas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/andreas_stelzer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/andreas_stelzer/</guid>
       <description>&lt;p&gt;I’m a bioinformatics bachelor student at the TUM and the LMU. I joined the
 Chair of Experimental Bioinformatics for my bachelor’s thesis on the concurrent
 implementation of various statistical tests using GPUs.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/chit_tong_lio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/chit_tong_lio/</guid>
-      <description>&lt;p&gt;I’m a biology master student from LMU Munich, where I have experiences in
-working with sequencing data analysis. In my master thesis, I work at the Chair
-of Experimental Bioinformatics on time course network enrichment analysis on
-X-irradiated human fibroblast using TiCoNE and machine learning.&lt;/p&gt;
 </description>
     </item>
     
@@ -272,28 +303,6 @@ scientist, I worked in Skolkovo Institute of Science and Technology, Moscow on
     
     <item>
       <title></title>
-      <link>/authors/ertida_muka/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/ertida_muka/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m rounding up my Bioinformatics studies at LMU and TUM Munich with a bachelor&amp;rsquo;s thesis at the Chair of Experimental Bioinformatics. In collaboration with the Institute of Pathology in Munich, my thesis studies the detection of Copy Number Variants using off target data, generated from targeted next-generation sequencing.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/evelyn_scheibling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/evelyn_scheibling/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a Bachelor student in Bioinformatics at the Technical Univerity of
-Munich an the Ludwig-Maximilian University. In October 2019 I joined the
-Chair of Experimental Bioinformatics in Weihenstephan to work on my
-bachelor thesis on the indentification of miRNA binding site enriched
-transcripts in The Cancer Genome Atlas.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/authors/lorenzo_viola/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/lorenzo_viola/</guid>
@@ -302,15 +311,6 @@ Rome. My curriculum is focused on data mining and management, also on a large
 scale. A bioinformatics course has inspired me to join the Chair of
 Experimental Bioinformatics for developing my thesis project, dealing with
 multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/rahel_caspar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/rahel_caspar/</guid>
-      <description>&lt;p&gt;I am a Bachelor student in Bioinformatics at the TUM and LMU since October 2016. In December 2019, I joined the Chair of Experimental Bioinformatics to work on my bachelor thesis about the landscape of alternative splicing events in a healthy population.&lt;/p&gt;
 </description>
     </item>
     
@@ -1395,6 +1395,14 @@ multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>chit_tong_lio</title>
+      <link>/authors/chit_tong_lio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/chit_tong_lio/</guid>
+      <description></description>
     </item>
     
     <item>
