@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>/authors/rahel_caspar/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/tim_faro/</loc>
   </url>
   
@@ -39,11 +43,19 @@
   </url>
   
   <url>
+    <loc>/authors/chit_lio/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/weilong_li/</loc>
   </url>
   
   <url>
     <loc>/authors/nils_mehrtens/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/ertida_muka/</loc>
   </url>
   
   <url>
@@ -67,11 +79,11 @@
   </url>
   
   <url>
-    <loc>/authors/andreas_stelzer/</loc>
+    <loc>/authors/evelyn_scheibling/</loc>
   </url>
   
   <url>
-    <loc>/authors/chit_tong_lio/</loc>
+    <loc>/authors/andreas_stelzer/</loc>
   </url>
   
   <url>
@@ -79,19 +91,11 @@
   </url>
   
   <url>
-    <loc>/authors/ertida_muka/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/evelyn_scheibling/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/lorenzo_viola/</loc>
   </url>
   
   <url>
-    <loc>/authors/rahel_caspar/</loc>
+    <loc>/authors/zakaria_louadi/</loc>
   </url>
   
   <url>
@@ -1257,6 +1261,11 @@
   
   <url>
     <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/chit_tong_lio/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
