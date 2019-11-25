@@ -95,10 +95,13 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/authors/zakaria_louadi/</loc>
   </url>
   
   <url>
+=======
+>>>>>>> 07ff2fee8dd23b04e7cf006f8507531acefbd576
     <loc>/post/pmbc2019/</loc>
     <lastmod>2019-08-13T15:46:00+02:00</lastmod>
   </url>
