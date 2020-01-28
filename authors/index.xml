@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -326,8 +326,24 @@ multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
     <item>
       <title>***et al.***</title>
       <link>/authors/et-al./</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
       <guid>/authors/et-al./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Köttgen</title>
+      <link>/authors/anna-kottgen/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/authors/anna-kottgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pascal Schlosser</title>
+      <link>/authors/pascal-schlosser/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/authors/pascal-schlosser/</guid>
       <description></description>
     </item>
     

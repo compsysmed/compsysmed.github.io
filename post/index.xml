@@ -5,12 +5,21 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Aug 2019 15:46:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>New paper co-authored by Tim Kacprowski</title>
+      <link>/post/schlosser_paper/</link>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/post/schlosser_paper/</guid>
+      <description>&lt;p&gt;A paper co-authored by Tim Kacprowski with the title &amp;ldquo;Genetic studies of urinary metabolites illuminate mechanisms of detoxification and excretion in humans&amp;rdquo; has just been published in &lt;a href=&#34;https://www.nature.com/articles/s41588-019-0567-8&#34; target=&#34;_blank&#34;&gt;Nature Genetics&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Invited talk at PMBC2019</title>

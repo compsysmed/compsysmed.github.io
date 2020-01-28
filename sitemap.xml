@@ -99,25 +99,104 @@
   </url>
   
   <url>
-    <loc>/post/pmbc2019/</loc>
-    <lastmod>2019-08-13T15:46:00+02:00</lastmod>
+    <loc>/post/schlosser_paper/</loc>
+    <lastmod>2020-01-26T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-08-13T15:46:00+02:00</lastmod>
+    <lastmod>2020-01-26T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/publications/</loc>
+    <lastmod>2020-01-26T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-08-13T15:46:00+02:00</lastmod>
+    <lastmod>2020-01-26T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-08-13T15:46:00+02:00</lastmod>
+    <lastmod>2020-01-26T00:00:00+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/et-al./</loc>
+    <lastmod>2020-01-20T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-01-20T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/anna-kottgen/</loc>
+    <lastmod>2020-01-20T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-01-20T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/schlosser-et-al.-2020/</loc>
+    <lastmod>2020-01-20T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pascal-schlosser/</loc>
+    <lastmod>2020-01-20T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-01-20T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-01-20T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/softress/bigants/</loc>
+    <lastmod>2020-01-07T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/software/bigants/</loc>
+    <lastmod>2020-01-07T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/softress/</loc>
+    <lastmod>2020-01-07T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/software/</loc>
+    <lastmod>2020-01-07T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/pmbc2019/</loc>
+    <lastmod>2019-08-13T15:46:00+02:00</lastmod>
   </url>
   
   <url>
@@ -138,25 +217,7 @@
   </url>
   
   <url>
-    <loc>/authors/et-al./</loc>
-    <lastmod>2019-03-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/t.-kacprowskisup1/sup/</loc>
-    <lastmod>2019-03-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-03-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2019-03-01T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -176,17 +237,6 @@
     <loc>/authors/m.-m.-lerch/</loc>
     <lastmod>2019-03-01T00:00:00+01:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-03-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-03-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>

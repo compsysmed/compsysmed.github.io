@@ -5,12 +5,47 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Aug 2019 15:46:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>ResGro CompSysMed</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>New paper co-authored by Tim Kacprowski</title>
+      <link>/post/schlosser_paper/</link>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/post/schlosser_paper/</guid>
+      <description>&lt;p&gt;A paper co-authored by Tim Kacprowski with the title &amp;ldquo;Genetic studies of urinary metabolites illuminate mechanisms of detoxification and excretion in humans&amp;rdquo; has just been published in &lt;a href=&#34;https://www.nature.com/articles/s41588-019-0567-8&#34; target=&#34;_blank&#34;&gt;Nature Genetics&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genetic Studies of Urinary Metabolites Illuminate Mechanisms of Detoxification and Excretion in Humans</title>
+      <link>/publication/schlosser-et-al.-2020/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/publication/schlosser-et-al.-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiGAnts</title>
+      <link>/softress/bigants/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/softress/bigants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiGAnts</title>
+      <link>/software/bigants/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/software/bigants/</guid>
+      <description>&lt;p&gt;A package for network-constrained biclustering of patients and multi-omics data can also be used. Download and installation instructions can be found here:
+external_link = &amp;ldquo;&lt;a href=&#34;https://pypi.org/project/bigants/&amp;quot;&#34; target=&#34;_blank&#34;&gt;https://pypi.org/project/bigants/&amp;quot;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Invited talk at PMBC2019</title>
