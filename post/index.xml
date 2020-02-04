@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
+      <title>Fast Log-Rank Test: New software released</title>
+      <link>/post/flrt_software_release/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/post/flrt_software_release/</guid>
+      <description>&lt;p&gt;The C++ based implementation of the log-rank test is now available as a &lt;a href=&#34;https://pypi.org/project/fastlogranktest/&#34;&gt;Python package&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/web/packages/fastlogranktest/index.html&#34;&gt;R package&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information about the tool can be found on the &lt;a href=&#34;/softress/fast_log_rank_test/&#34;&gt;software page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New paper co-authored by Tim Kacprowski</title>
       <link>/post/schlosser_paper/</link>
       <pubDate>Sun, 26 Jan 2020 00:00:00 +0100</pubDate>
       <guid>/post/schlosser_paper/</guid>
-      <description>&lt;p&gt;A paper co-authored by Tim Kacprowski with the title &amp;ldquo;Genetic studies of urinary metabolites illuminate mechanisms of detoxification and excretion in humans&amp;rdquo; has just been published in &lt;a href=&#34;https://www.nature.com/articles/s41588-019-0567-8&#34; target=&#34;_blank&#34;&gt;Nature Genetics&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;A paper co-authored by Tim Kacprowski with the title &amp;ldquo;Genetic studies of urinary metabolites illuminate mechanisms of detoxification and excretion in humans&amp;rdquo; has just been published in &lt;a href=&#34;https://www.nature.com/articles/s41588-019-0567-8&#34;&gt;Nature Genetics&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -26,9 +36,9 @@
       <link>/post/pmbc2019/</link>
       <pubDate>Tue, 13 Aug 2019 15:46:00 +0200</pubDate>
       <guid>/post/pmbc2019/</guid>
-      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;https://www.pmbc2019.com&#34; target=&#34;_blank&#34;&gt;2nd International Congress on Precision Medicine&lt;/a&gt;, taking place on
+      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;https://www.pmbc2019.com&#34;&gt;2nd International Congress on Precision Medicine&lt;/a&gt;, taking place on
 October 14-15 at the Hilton Munich City in Munich, Germany. The talk will be about
-&lt;a href=&#34;www.pmbc2019.com/multi-omics-characterization-of-induced-thyrotoxi.aspx&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Multi-Omics Characterization of Induced Thyrotoxicosis&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;www.pmbc2019.com/multi-omics-characterization-of-induced-thyrotoxi.aspx&#34;&gt;&amp;lsquo;&amp;lsquo;Multi-Omics Characterization of Induced Thyrotoxicosis&amp;rsquo;&#39;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -46,11 +56,11 @@ October 14-15 at the Hilton Munich City in Munich, Germany. The talk will be abo
       <link>/post/igld2019/</link>
       <pubDate>Wed, 30 Jan 2019 13:39:00 +0100</pubDate>
       <guid>/post/igld2019/</guid>
-      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.igld.de/?page_id=7078&#34; target=&#34;_blank&#34;&gt;Jahressymposium der
+      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.igld.de/?page_id=7078&#34;&gt;Jahressymposium der
 Interdisziplinären Gruppe für Labor und
 Durchflussyztometrie&lt;/a&gt;, taking place from
 March 07-08 at the Congress Center in Frankfurt. The talk will be about
-&amp;ldquo;Zirkulierende miRNAs als potentielle Biomarker&amp;rdquo;.&lt;/p&gt;
+&amp;lsquo;&amp;lsquo;Zirkulierende miRNAs als potentielle Biomarker&amp;rsquo;&#39;.&lt;/p&gt;
 </description>
     </item>
     
@@ -59,10 +69,10 @@ March 07-08 at the Congress Center in Frankfurt. The talk will be about
       <link>/post/gq2019/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
       <guid>/post/gq2019/</guid>
-      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.qpcr-dpcr-ngs-2019.net&#34; target=&#34;_blank&#34;&gt;9th Gene Quantification
+      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.qpcr-dpcr-ngs-2019.net&#34;&gt;9th Gene Quantification
 Event qPCR dPCR &amp;amp; NGS 2019&lt;/a&gt;, taking place
 from March 18-22 at the TUM School of Life Sciences in Weihenstephan. The talk
-will be about &amp;ldquo;Circulating miRNAs as Potential Biomarkers&amp;rdquo;.&lt;/p&gt;
+will be about &amp;lsquo;&amp;lsquo;Circulating miRNAs as Potential Biomarkers&amp;rsquo;&#39;.&lt;/p&gt;
 </description>
     </item>
     
@@ -71,10 +81,7 @@ will be about &amp;ldquo;Circulating miRNAs as Potential Biomarkers&amp;rdquo;.&
       <link>/post/phd01/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
       <guid>/post/phd01/</guid>
-      <description>
-
-&lt;h3 id=&#34;project-description&#34;&gt;Project description&lt;/h3&gt;
-
+      <description>&lt;h3 id=&#34;project-description&#34;&gt;Project description&lt;/h3&gt;
 &lt;p&gt;Diseases are currently defined and diagnosed based on symptoms (e.g.,
 hypertension, depression) or affected organs (e.g., heart failure,
 nephropathy). Clearly, there is a lack of mechanistic understanding of diseases
@@ -84,9 +91,7 @@ integrative bioinformatics methods leveraging network analysis, machine
 learning techniques and statistical approaches. Your work will focus on the
 development of graph-based machine learning techniques to identify disease- and
 patient-specific dysregulated subnetworks.&lt;/p&gt;
-
 &lt;h3 id=&#34;you-bring&#34;&gt;You bring&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Degree in bioinformatics, molecular biology, computer science, or similar&lt;/li&gt;
 &lt;li&gt;Solid understanding of molecular biology&lt;/li&gt;
@@ -96,17 +101,14 @@ patient-specific dysregulated subnetworks.&lt;/p&gt;
 &lt;li&gt;Fluency in English in written and spoken language&lt;/li&gt;
 &lt;li&gt;Strong commitment and motivation, ability to work collaboratively&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;we-offer&#34;&gt;We offer&lt;/h3&gt;
-
 &lt;p&gt;At the Chair of Experimental Bioinformatics you will find a supportive and
 productive research environment with a young, dynamic team of more than 20
 international researchers at different stages in their career and education.
 Furthermore, you will have the chance to participate in a large EU-wide project
 and travel to international meetings with other scientists.&lt;/p&gt;
-
 &lt;p&gt;Send your application including your &lt;strong&gt;CV&lt;/strong&gt;, &lt;strong&gt;grades&lt;/strong&gt;, &lt;strong&gt;publications&lt;/strong&gt; (if any) and a
-&lt;strong&gt;reference letter&lt;/strong&gt; to tim.kacprowski@wzw.tum.de.&lt;/p&gt;
+&lt;strong&gt;reference letter&lt;/strong&gt; to &lt;a href=&#34;mailto:tim.kacprowski@wzw.tum.de&#34;&gt;tim.kacprowski@wzw.tum.de&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

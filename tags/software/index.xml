@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software | ResGro CompSysMed</title>
+    <link>/tags/software/</link>
+      <atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Software</title>
+      <link>/tags/software/</link>
+    </image>
+    
+    <item>
+      <title>Fast Log-Rank Test: New software released</title>
+      <link>/post/flrt_software_release/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/post/flrt_software_release/</guid>
+      <description>&lt;p&gt;The C++ based implementation of the log-rank test is now available as a &lt;a href=&#34;https://pypi.org/project/fastlogranktest/&#34;&gt;Python package&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/web/packages/fastlogranktest/index.html&#34;&gt;R package&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information about the tool can be found on the &lt;a href=&#34;/softress/fast_log_rank_test/&#34;&gt;software page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

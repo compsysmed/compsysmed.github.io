@@ -6,27 +6,5 @@
       <atom:link href="/authors/olga_tsoy/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>ResGro CompSysMed</title>
-      <link>/authors/olga_tsoy/</link>
-    </image>
-    
-    <item>
-      <title></title>
-      <link>/authors/olga_tsoy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/olga_tsoy/</guid>
-      <description>&lt;p&gt;I will start in summer 2019 as a Postdoc at the Chair of Experimental
-Bioinformatics. I graduated from Lomonosov Moscow State University and did PhD
-in Kharkevich Institute in Moscow at professor Gelfand lab. There I studied the
-evolution of transcriptional regulatory networks in bacteria. During my PhD I
-shortly stayed at Stowers Institute for Medical Research, Kansas-City, where I
-went on working on regulation of bacterial metabolic pathways. As a research
-scientist, I worked in Skolkovo Institute of Science and Technology, Moscow on
-3D chromatin structure analysis.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

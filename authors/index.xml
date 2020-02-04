@@ -6,12 +6,6 @@
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0100</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>Authors</title>
-      <link>/authors/</link>
-    </image>
-    
     <item>
       <title></title>
       <link>/authors/judith_bernett/</link>
@@ -1417,25 +1411,8 @@ multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>chit_tong_lio</title>
-      <link>/authors/chit_tong_lio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/chit_tong_lio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tim_kacprowski</title>
-      <link>/authors/tim_kacprowski/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/tim_kacprowski/</guid>
-      <description></description>
     </item>
     
   </channel>

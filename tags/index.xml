@@ -5,12 +5,20 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Software</title>
+      <link>/tags/software/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/tags/software/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -69,6 +77,14 @@
     </item>
     
     <item>
+      <title>epistasis</title>
+      <link>/tags/epistasis/</link>
+      <pubDate>Sat, 23 Feb 2019 19:39:58 +0200</pubDate>
+      <guid>/tags/epistasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GPU</title>
       <link>/tags/gpu/</link>
       <pubDate>Sat, 23 Feb 2019 19:39:58 +0200</pubDate>
@@ -81,14 +97,6 @@
       <link>/tags/gwas/</link>
       <pubDate>Sat, 23 Feb 2019 19:39:58 +0200</pubDate>
       <guid>/tags/gwas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>epistasis</title>
-      <link>/tags/epistasis/</link>
-      <pubDate>Sat, 23 Feb 2019 19:39:58 +0200</pubDate>
-      <guid>/tags/epistasis/</guid>
       <description></description>
     </item>
     
