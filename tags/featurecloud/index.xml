@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FeatureCloud | ResGro CompSysMed</title>
+    <link>/tags/featurecloud/</link>
+      <atom:link href="/tags/featurecloud/index.xml" rel="self" type="application/rss+xml" />
+    <description>FeatureCloud</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 24 Feb 2019 19:39:58 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>FeatureCloud</title>
+      <link>/tags/featurecloud/</link>
+    </image>
+    
+    <item>
+      <title>FeatureCloud</title>
+      <link>/project/featurecloud/</link>
+      <pubDate>Sun, 24 Feb 2019 19:39:58 +0200</pubDate>
+      <guid>/project/featurecloud/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

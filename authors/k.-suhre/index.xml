@@ -6,6 +6,12 @@
       <atom:link href="/authors/k.-suhre/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Suhre</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>K. Suhre</title>
+      <link>/authors/k.-suhre/</link>
+    </image>
+    
     <item>
       <title>Associations of circulating plasma microRNAs with age, body mass index and sex in a population-based study</title>
       <link>/publication/ameling-et-al.-2015/</link>

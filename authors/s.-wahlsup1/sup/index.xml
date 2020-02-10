@@ -6,6 +6,12 @@
       <atom:link href="/authors/s.-wahlsup1/sup/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Wahl&lt;sup&gt;1&lt;/sup&gt;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S. Wahl&lt;sup&gt;1&lt;/sup&gt;</title>
+      <link>/authors/s.-wahlsup1/sup/</link>
+    </image>
+    
     <item>
       <title>Multi-omic signature of body weight change: results from a population-based cohort study</title>
       <link>/publication/wahl-et-al.-2015/</link>

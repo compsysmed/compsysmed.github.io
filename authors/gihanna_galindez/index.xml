@@ -6,5 +6,26 @@
       <atom:link href="/authors/gihanna_galindez/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>ResGro CompSysMed</title>
+      <link>/authors/gihanna_galindez/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/gihanna_galindez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/gihanna_galindez/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD student at the Chair of Experimental Bioinformatics at TU Munich. I
+obtained my bachelor&amp;rsquo;s degree in Molecular Biology and Biotechnology from the
+University of the Philippines. Then, I studied Life Science Informatics at
+the University of Bonn in Germany. In my master&amp;rsquo;s thesis, I used machine
+learning to identify chromatin features involved in immunity-related
+transcriptional reprogramming in plants. I am working under the REPO-TRIAL
+project to apply network analysis and machine learning for drug repurposing.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

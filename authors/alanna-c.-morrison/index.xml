@@ -6,6 +6,12 @@
       <atom:link href="/authors/alanna-c.-morrison/index.xml" rel="self" type="application/rss+xml" />
     <description>Alanna C. Morrison</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Alanna C. Morrison</title>
+      <link>/authors/alanna-c.-morrison/</link>
+    </image>
+    
     <item>
       <title>Mendelian randomization evaluation of causal effects of fibrinogen on incident coronary heart disease.</title>
       <link>/publication/ward-caviness-et-al.-2019/</link>

@@ -5,7 +5,7 @@
     <link>/tags/networks/</link>
       <atom:link href="/tags/networks/index.xml" rel="self" type="application/rss+xml" />
     <description>networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Feb 2019 19:39:58 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>networks</title>
@@ -13,11 +13,40 @@
     </image>
     
     <item>
+      <title>BiCoN</title>
+      <link>/softress/bicon/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/softress/bicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REPO-TRIAL</title>
+      <link>/project/repo-trial/</link>
+      <pubDate>Mon, 25 Feb 2019 19:39:58 +0200</pubDate>
+      <guid>/project/repo-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Network-Based Epistasis Detection</title>
       <link>/project/epistasis/</link>
       <pubDate>Sat, 23 Feb 2019 19:39:58 +0200</pubDate>
       <guid>/project/epistasis/</guid>
-      <description>&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>De novo network enrichment</title>
+      <link>/project/denovonetenrich/</link>
+      <pubDate>Fri, 22 Feb 2019 19:39:58 +0200</pubDate>
+      <guid>/project/denovonetenrich/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/tags/epistasis/</link>
       <atom:link href="/tags/epistasis/index.xml" rel="self" type="application/rss+xml" />
     <description>epistasis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Feb 2019 19:39:58 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>epistasis</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
+      <title>EpiGEN</title>
+      <link>/softress/epigen/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>/softress/epigen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Network-Based Epistasis Detection</title>
       <link>/project/epistasis/</link>
       <pubDate>Sat, 23 Feb 2019 19:39:58 +0200</pubDate>
       <guid>/project/epistasis/</guid>
-      <description>&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
 </description>
     </item>
     

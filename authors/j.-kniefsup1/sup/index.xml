@@ -6,6 +6,12 @@
       <atom:link href="/authors/j.-kniefsup1/sup/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Knief&lt;sup&gt;1&lt;/sup&gt;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>J. Knief&lt;sup&gt;1&lt;/sup&gt;</title>
+      <link>/authors/j.-kniefsup1/sup/</link>
+    </image>
+    
     <item>
       <title>MicroRNA analysis of gastroenteropancreatic neuroendocrine tumors and metastases</title>
       <link>/publication/zimmermann-et-al.-2018/</link>

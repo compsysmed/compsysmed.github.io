@@ -6,6 +6,12 @@
       <atom:link href="/authors/b.-muller-myhsok/index.xml" rel="self" type="application/rss+xml" />
     <description>B. Muller-Myhsok</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>B. Muller-Myhsok</title>
+      <link>/authors/b.-muller-myhsok/</link>
+    </image>
+    
     <item>
       <title>Novel multiple sclerosis susceptibility loci implicated in epigenetic regulation</title>
       <link>/publication/andlauer-et-al.-2016/</link>

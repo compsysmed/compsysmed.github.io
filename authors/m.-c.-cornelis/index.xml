@@ -6,6 +6,12 @@
       <atom:link href="/authors/m.-c.-cornelis/index.xml" rel="self" type="application/rss+xml" />
     <description>M. C. Cornelis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. C. Cornelis</title>
+      <link>/authors/m.-c.-cornelis/</link>
+    </image>
+    
     <item>
       <title>Genome-wide association study of caffeine metabolites provides new insights to caffeine metabolism and dietary caffeine-consumption behavior</title>
       <link>/publication/cornelis-et-al.-2016/</link>

@@ -6,5 +6,23 @@
       <atom:link href="/authors/tim_faro/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>ResGro CompSysMed</title>
+      <link>/authors/tim_faro/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/tim_faro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/tim_faro/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m in my third year of studies towards a bachelor&amp;rsquo;s degree in Bioinformatics
+at the LMU and Technical University of Munich. Recently, I joined the Chair of
+Experimental Bioinformatics in Weihenstephan for my bachelor&amp;rsquo;s thesis on deep
+learning for radiomics.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

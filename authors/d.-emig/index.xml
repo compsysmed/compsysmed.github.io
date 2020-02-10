@@ -6,6 +6,12 @@
       <atom:link href="/authors/d.-emig/index.xml" rel="self" type="application/rss+xml" />
     <description>D. Emig</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2011 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>D. Emig</title>
+      <link>/authors/d.-emig/</link>
+    </image>
+    
     <item>
       <title>Measuring and analyzing tissue specificity of human genes and protein complexes</title>
       <link>/publication/emig-et-al.-2011/</link>

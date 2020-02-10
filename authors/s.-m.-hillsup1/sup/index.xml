@@ -6,6 +6,12 @@
       <atom:link href="/authors/s.-m.-hillsup1/sup/index.xml" rel="self" type="application/rss+xml" />
     <description>S. M. Hill&lt;sup&gt;1&lt;/sup&gt;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S. M. Hill&lt;sup&gt;1&lt;/sup&gt;</title>
+      <link>/authors/s.-m.-hillsup1/sup/</link>
+    </image>
+    
     <item>
       <title>Inferring causal molecular networks: empirical assessment through a community-based effort</title>
       <link>/publication/hill-et-al.-2016/</link>

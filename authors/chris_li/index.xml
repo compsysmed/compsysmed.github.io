@@ -6,5 +6,27 @@
       <atom:link href="/authors/chris_li/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>ResGro CompSysMed</title>
+      <link>/authors/chris_li/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/chris_li/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/chris_li/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m an undergraduate student from Edmonton, Alberta! I&amp;rsquo;m midway through my
+bachelors studies at the University of Michigan, Ann Arbor. My main line of
+work/interests are regarding cultural psychology and psychopathology, with a
+neuroscience emphasis. I&amp;rsquo;ll be joining the lab this summer under the PREP
+program, working on the general architecture of the Diseasome, and using it to
+examine genetic and physiological mechanisms behind psychological disorders.
+Other interests include: Sociology, Basketball, Handball, Ethics, Traveling,
+Literature&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -6,6 +6,12 @@
       <atom:link href="/authors/m.-port/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Port</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>M. Port</title>
+      <link>/authors/m.-port/</link>
+    </image>
+    
     <item>
       <title>Transcriptome Alterations In X-Irradiated Human Gingiva Fibroblasts</title>
       <link>/publication/weissmann-et-al.-2016/</link>
