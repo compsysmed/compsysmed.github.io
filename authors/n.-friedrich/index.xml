@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N. Friedrich | ResGro CompSysMed</title>
-    <link>/authors/n.-friedrich/</link>
-      <atom:link href="/authors/n.-friedrich/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/n.-friedrich/</link>
+      <atom:link href="https://compsysmed.de/authors/n.-friedrich/index.xml" rel="self" type="application/rss+xml" />
     <description>N. Friedrich</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>N. Friedrich</title>
-      <link>/authors/n.-friedrich/</link>
+      <link>https://compsysmed.de/authors/n.-friedrich/</link>
     </image>
     
     <item>
       <title>Empowering thyroid hormone research in human subjects using OMICs technologies</title>
-      <link>/publication/pietzner-et-al.-2018/</link>
+      <link>https://compsysmed.de/publication/pietzner-et-al.-2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
-      <guid>/publication/pietzner-et-al.-2018/</guid>
+      <guid>https://compsysmed.de/publication/pietzner-et-al.-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Associations of circulating plasma microRNAs with age, body mass index and sex in a population-based study</title>
-      <link>/publication/ameling-et-al.-2015/</link>
+      <link>https://compsysmed.de/publication/ameling-et-al.-2015/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
-      <guid>/publication/ameling-et-al.-2015/</guid>
+      <guid>https://compsysmed.de/publication/ameling-et-al.-2015/</guid>
       <description></description>
     </item>
     

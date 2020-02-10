@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>**T. Kacprowski** | ResGro CompSysMed</title>
-    <link>/authors/t.-kacprowski/</link>
-      <atom:link href="/authors/t.-kacprowski/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/t.-kacprowski/</link>
+      <atom:link href="https://compsysmed.de/authors/t.-kacprowski/index.xml" rel="self" type="application/rss+xml" />
     <description>**T. Kacprowski**</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>**T. Kacprowski**</title>
-      <link>/authors/t.-kacprowski/</link>
+      <link>https://compsysmed.de/authors/t.-kacprowski/</link>
     </image>
     
     <item>
       <title>Empowering thyroid hormone research in human subjects using OMICs technologies</title>
-      <link>/publication/pietzner-et-al.-2018/</link>
+      <link>https://compsysmed.de/publication/pietzner-et-al.-2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
-      <guid>/publication/pietzner-et-al.-2018/</guid>
+      <guid>https://compsysmed.de/publication/pietzner-et-al.-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional abdominal pain and discomfort (IBS) is not associated with faecal microbiota composition in the general population</title>
-      <link>/publication/frost-et-al.-2018/</link>
+      <link>https://compsysmed.de/publication/frost-et-al.-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>/publication/frost-et-al.-2018/</guid>
+      <guid>https://compsysmed.de/publication/frost-et-al.-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notions of similarity for systems biology models</title>
-      <link>/publication/henkel-et-al.-2016/</link>
+      <link>https://compsysmed.de/publication/henkel-et-al.-2016/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
-      <guid>/publication/henkel-et-al.-2016/</guid>
+      <guid>https://compsysmed.de/publication/henkel-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Profiling and validation of circulating microRNAs for cardiovascular events in patients presenting with ST-segment elevation myocardial infarction</title>
-      <link>/publication/jakob-et-al.-2017/</link>
+      <link>https://compsysmed.de/publication/jakob-et-al.-2017/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
-      <guid>/publication/jakob-et-al.-2017/</guid>
+      <guid>https://compsysmed.de/publication/jakob-et-al.-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exome Variant Analysis of Chronic Periodontitis in 2 Large Cohort Studies</title>
-      <link>/publication/kasbohm-et-al.-2016/</link>
+      <link>https://compsysmed.de/publication/kasbohm-et-al.-2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/publication/kasbohm-et-al.-2016/</guid>
+      <guid>https://compsysmed.de/publication/kasbohm-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plasma proteome and metabolome characterization of an experimental human thyrotoxicosis model</title>
-      <link>/publication/pietzner-et-al.-2017/</link>
+      <link>https://compsysmed.de/publication/pietzner-et-al.-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/publication/pietzner-et-al.-2017/</guid>
+      <guid>https://compsysmed.de/publication/pietzner-et-al.-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-wide association study of caffeine metabolites provides new insights to caffeine metabolism and dietary caffeine-consumption behavior</title>
-      <link>/publication/cornelis-et-al.-2016/</link>
+      <link>https://compsysmed.de/publication/cornelis-et-al.-2016/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-      <guid>/publication/cornelis-et-al.-2016/</guid>
+      <guid>https://compsysmed.de/publication/cornelis-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptome Alterations In X-Irradiated Human Gingiva Fibroblasts</title>
-      <link>/publication/weissmann-et-al.-2016/</link>
+      <link>https://compsysmed.de/publication/weissmann-et-al.-2016/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
-      <guid>/publication/weissmann-et-al.-2016/</guid>
+      <guid>https://compsysmed.de/publication/weissmann-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene Expression Profiling in the APP/PS1KI Mouse Model of Familial Alzheimer&#39;s Disease</title>
-      <link>/publication/weissmann-et-al.-2015/</link>
+      <link>https://compsysmed.de/publication/weissmann-et-al.-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      <guid>/publication/weissmann-et-al.-2015/</guid>
+      <guid>https://compsysmed.de/publication/weissmann-et-al.-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of the EGFR interactome reveals associated protein complex networks and intracellular receptor dynamics</title>
-      <link>/publication/foerster-et-al.-2013/</link>
+      <link>https://compsysmed.de/publication/foerster-et-al.-2013/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
-      <guid>/publication/foerster-et-al.-2013/</guid>
+      <guid>https://compsysmed.de/publication/foerster-et-al.-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NetworkPrioritizer: a versatile tool for network-based prioritization of candidate disease genes or other molecules</title>
-      <link>/publication/kacprowski-et-al.-2012/</link>
+      <link>https://compsysmed.de/publication/kacprowski-et-al.-2012/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0200</pubDate>
-      <guid>/publication/kacprowski-et-al.-2012/</guid>
+      <guid>https://compsysmed.de/publication/kacprowski-et-al.-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring and analyzing tissue specificity of human genes and protein complexes</title>
-      <link>/publication/emig-et-al.-2011/</link>
+      <link>https://compsysmed.de/publication/emig-et-al.-2011/</link>
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0200</pubDate>
-      <guid>/publication/emig-et-al.-2011/</guid>
+      <guid>https://compsysmed.de/publication/emig-et-al.-2011/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N. Zimmermann&lt;sup&gt;1&lt;/sup&gt; | ResGro CompSysMed</title>
-    <link>/authors/n.-zimmermannsup1/sup/</link>
-      <atom:link href="/authors/n.-zimmermannsup1/sup/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/n.-zimmermannsup1/sup/</link>
+      <atom:link href="https://compsysmed.de/authors/n.-zimmermannsup1/sup/index.xml" rel="self" type="application/rss+xml" />
     <description>N. Zimmermann&lt;sup&gt;1&lt;/sup&gt;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>N. Zimmermann&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/n.-zimmermannsup1/sup/</link>
+      <link>https://compsysmed.de/authors/n.-zimmermannsup1/sup/</link>
     </image>
     
     <item>
       <title>MicroRNA analysis of gastroenteropancreatic neuroendocrine tumors and metastases</title>
-      <link>/publication/zimmermann-et-al.-2018/</link>
+      <link>https://compsysmed.de/publication/zimmermann-et-al.-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>/publication/zimmermann-et-al.-2018/</guid>
+      <guid>https://compsysmed.de/publication/zimmermann-et-al.-2018/</guid>
       <description></description>
     </item>
     

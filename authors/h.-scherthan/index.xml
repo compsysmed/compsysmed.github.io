@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>H. Scherthan | ResGro CompSysMed</title>
-    <link>/authors/h.-scherthan/</link>
-      <atom:link href="/authors/h.-scherthan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/h.-scherthan/</link>
+      <atom:link href="https://compsysmed.de/authors/h.-scherthan/index.xml" rel="self" type="application/rss+xml" />
     <description>H. Scherthan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>H. Scherthan</title>
-      <link>/authors/h.-scherthan/</link>
+      <link>https://compsysmed.de/authors/h.-scherthan/</link>
     </image>
     
     <item>
       <title>Transcriptome Alterations In X-Irradiated Human Gingiva Fibroblasts</title>
-      <link>/publication/weissmann-et-al.-2016/</link>
+      <link>https://compsysmed.de/publication/weissmann-et-al.-2016/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
-      <guid>/publication/weissmann-et-al.-2016/</guid>
+      <guid>https://compsysmed.de/publication/weissmann-et-al.-2016/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. Foerster | ResGro CompSysMed</title>
-    <link>/authors/s.-foerster/</link>
-      <atom:link href="/authors/s.-foerster/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/s.-foerster/</link>
+      <atom:link href="https://compsysmed.de/authors/s.-foerster/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Foerster</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2013 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>S. Foerster</title>
-      <link>/authors/s.-foerster/</link>
+      <link>https://compsysmed.de/authors/s.-foerster/</link>
     </image>
     
     <item>
       <title>Characterization of the EGFR interactome reveals associated protein complex networks and intracellular receptor dynamics</title>
-      <link>/publication/foerster-et-al.-2013/</link>
+      <link>https://compsysmed.de/publication/foerster-et-al.-2013/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
-      <guid>/publication/foerster-et-al.-2013/</guid>
+      <guid>https://compsysmed.de/publication/foerster-et-al.-2013/</guid>
       <description></description>
     </item>
     

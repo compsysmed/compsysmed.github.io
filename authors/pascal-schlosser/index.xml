@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pascal Schlosser | ResGro CompSysMed</title>
-    <link>/authors/pascal-schlosser/</link>
-      <atom:link href="/authors/pascal-schlosser/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/pascal-schlosser/</link>
+      <atom:link href="https://compsysmed.de/authors/pascal-schlosser/index.xml" rel="self" type="application/rss+xml" />
     <description>Pascal Schlosser</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Pascal Schlosser</title>
-      <link>/authors/pascal-schlosser/</link>
+      <link>https://compsysmed.de/authors/pascal-schlosser/</link>
     </image>
     
     <item>
       <title>Genetic Studies of Urinary Metabolites Illuminate Mechanisms of Detoxification and Excretion in Humans</title>
-      <link>/publication/schlosser-et-al.-2020/</link>
+      <link>https://compsysmed.de/publication/schlosser-et-al.-2020/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
-      <guid>/publication/schlosser-et-al.-2020/</guid>
+      <guid>https://compsysmed.de/publication/schlosser-et-al.-2020/</guid>
       <description></description>
     </item>
     

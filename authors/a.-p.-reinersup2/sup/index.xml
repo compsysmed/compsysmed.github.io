@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. P. Reiner&lt;sup&gt;2&lt;/sup&gt; | ResGro CompSysMed</title>
-    <link>/authors/a.-p.-reinersup2/sup/</link>
-      <atom:link href="/authors/a.-p.-reinersup2/sup/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/a.-p.-reinersup2/sup/</link>
+      <atom:link href="https://compsysmed.de/authors/a.-p.-reinersup2/sup/index.xml" rel="self" type="application/rss+xml" />
     <description>A. P. Reiner&lt;sup&gt;2&lt;/sup&gt;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>A. P. Reiner&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/a.-p.-reinersup2/sup/</link>
+      <link>https://compsysmed.de/authors/a.-p.-reinersup2/sup/</link>
     </image>
     
     <item>
       <title>Exome Genotyping Identifies Pleiotropic Variants Associated with Red Blood Cell Traits</title>
-      <link>/publication/chami-et-al.-2016/</link>
+      <link>https://compsysmed.de/publication/chami-et-al.-2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/publication/chami-et-al.-2016/</guid>
+      <guid>https://compsysmed.de/publication/chami-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Large-Scale Exome-wide Association Analysis Identifies Loci for White Blood Cell Traits and Pleiotropy with Immune-Mediated Diseases</title>
-      <link>/publication/tajuddin-et-al.-2016/</link>
+      <link>https://compsysmed.de/publication/tajuddin-et-al.-2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/publication/tajuddin-et-al.-2016/</guid>
+      <guid>https://compsysmed.de/publication/tajuddin-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Platelet-Related Variants Identified by Exomechip Meta-analysis in 157,293 Individuals</title>
-      <link>/publication/eicher-et-al.-2016/</link>
+      <link>https://compsysmed.de/publication/eicher-et-al.-2016/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/publication/eicher-et-al.-2016/</guid>
+      <guid>https://compsysmed.de/publication/eicher-et-al.-2016/</guid>
       <description></description>
     </item>
     

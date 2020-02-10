@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ResGro CompSysMed</title>
-    <link>/authors/olga_lesina/</link>
-      <atom:link href="/authors/olga_lesina/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/olga_lesina/</link>
+      <atom:link href="https://compsysmed.de/authors/olga_lesina/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>ResGro CompSysMed</title>
-      <link>/authors/olga_lesina/</link>
+      <link>https://compsysmed.de/authors/olga_lesina/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/olga_lesina/</link>
+      <link>https://compsysmed.de/authors/olga_lesina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/olga_lesina/</guid>
+      <guid>https://compsysmed.de/authors/olga_lesina/</guid>
       <description>&lt;p&gt;I study bioinformatics since Oct‘2018 in Munich with a research interest in
 human genetics and cancer biology. Before that I received a master’s degree in
 biology at the LMU Munich. During my studies, I focused on molecular and cell

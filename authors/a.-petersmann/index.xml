@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Petersmann | ResGro CompSysMed</title>
-    <link>/authors/a.-petersmann/</link>
-      <atom:link href="/authors/a.-petersmann/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/a.-petersmann/</link>
+      <atom:link href="https://compsysmed.de/authors/a.-petersmann/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Petersmann</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>A. Petersmann</title>
-      <link>/authors/a.-petersmann/</link>
+      <link>https://compsysmed.de/authors/a.-petersmann/</link>
     </image>
     
     <item>
       <title>Exome Variant Analysis of Chronic Periodontitis in 2 Large Cohort Studies</title>
-      <link>/publication/kasbohm-et-al.-2016/</link>
+      <link>https://compsysmed.de/publication/kasbohm-et-al.-2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/publication/kasbohm-et-al.-2016/</guid>
+      <guid>https://compsysmed.de/publication/kasbohm-et-al.-2016/</guid>
       <description></description>
     </item>
     

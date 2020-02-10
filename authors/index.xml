@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | ResGro CompSysMed</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/</link>
+      <atom:link href="https://compsysmed.de/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://compsysmed.de/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/judith_bernett/</link>
+      <link>https://compsysmed.de/authors/judith_bernett/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/judith_bernett/</guid>
+      <guid>https://compsysmed.de/authors/judith_bernett/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been studying Bioinformatics at the Technical University of Munich and the LMU since
 October 2016. Recently, I joined the Chair of Experimental Bioinformatics for
 my bachelor&amp;rsquo;s thesis on putative biomarkers for major cardiovascular events in
@@ -26,18 +26,18 @@ the SWISS-TAVI cohort.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/rahel_caspar/</link>
+      <link>https://compsysmed.de/authors/rahel_caspar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/rahel_caspar/</guid>
+      <guid>https://compsysmed.de/authors/rahel_caspar/</guid>
       <description>&lt;p&gt;I am a Bachelor student in Bioinformatics at the TUM and LMU since October 2016. In December 2019, I joined the Chair of Experimental Bioinformatics to work on my bachelor thesis about the landscape of alternative splicing events in a healthy population.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/tim_faro/</link>
+      <link>https://compsysmed.de/authors/tim_faro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/tim_faro/</guid>
+      <guid>https://compsysmed.de/authors/tim_faro/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m in my third year of studies towards a bachelor&amp;rsquo;s degree in Bioinformatics
 at the LMU and Technical University of Munich. Recently, I joined the Chair of
 Experimental Bioinformatics in Weihenstephan for my bachelor&amp;rsquo;s thesis on deep
@@ -47,9 +47,9 @@ learning for radiomics.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/amit_fenn/</link>
+      <link>https://compsysmed.de/authors/amit_fenn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/amit_fenn/</guid>
+      <guid>https://compsysmed.de/authors/amit_fenn/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a PhD candidate at the chair of Experimental Bioinformatics at TUM. My
 project is the study of alternative splicing in heart and kidney using machine
 learning to analyze multi-omics data. I studied cellular biology, specializing
@@ -61,9 +61,9 @@ biogenesis of mitochondria.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/gihanna_galindez/</link>
+      <link>https://compsysmed.de/authors/gihanna_galindez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/gihanna_galindez/</guid>
+      <guid>https://compsysmed.de/authors/gihanna_galindez/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a PhD student at the Chair of Experimental Bioinformatics at TU Munich. I
 obtained my bachelor&amp;rsquo;s degree in Molecular Biology and Biotechnology from the
 University of the Philippines. Then, I studied Life Science Informatics at
@@ -76,9 +76,9 @@ project to apply network analysis and machine learning for drug repurposing.&lt;
     
     <item>
       <title></title>
-      <link>/authors/tim_kacprowksi/</link>
+      <link>https://compsysmed.de/authors/tim_kacprowksi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/tim_kacprowksi/</guid>
+      <guid>https://compsysmed.de/authors/tim_kacprowksi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a research group leader at the Chair of Experimental Bioinformatics.  My
 group works on network biology, multi omics integration and machine learning in
 the context of systems medicine.  Previously, I spent some time in Odense,
@@ -95,9 +95,9 @@ Max-Planck-Institute for Informatics.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/christoph_kloppert/</link>
+      <link>https://compsysmed.de/authors/christoph_kloppert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/christoph_kloppert/</guid>
+      <guid>https://compsysmed.de/authors/christoph_kloppert/</guid>
       <description>&lt;p&gt;I’m a bioinformatics bachelor student at the Technical University of Munich and
 the LMU. I joined the Chair of Experimental Bioinformatics for my bachelor’s
 thesis on the cardiovascular outcome and timing of coronary angiography in high
@@ -107,9 +107,9 @@ risk groups.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/manuela_lautizi/</link>
+      <link>https://compsysmed.de/authors/manuela_lautizi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/manuela_lautizi/</guid>
+      <guid>https://compsysmed.de/authors/manuela_lautizi/</guid>
       <description>&lt;p&gt;I’m a PhD student in the Chair of Experimental Bioinformatics in collaboration
 with the Institute of Pathology, both at TUM. I’ve originally joined Prof.
 Baumbach’s lab to work on my master’s thesis in bioinformatics, focused to
@@ -122,9 +122,9 @@ data from a statistical point of view.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/olga_lesina/</link>
+      <link>https://compsysmed.de/authors/olga_lesina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/olga_lesina/</guid>
+      <guid>https://compsysmed.de/authors/olga_lesina/</guid>
       <description>&lt;p&gt;I study bioinformatics since Oct‘2018 in Munich with a research interest in
 human genetics and cancer biology. Before that I received a master’s degree in
 biology at the LMU Munich. During my studies, I focused on molecular and cell
@@ -136,9 +136,9 @@ understanding of a disease-gene interactions.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/chris_li/</link>
+      <link>https://compsysmed.de/authors/chris_li/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/chris_li/</guid>
+      <guid>https://compsysmed.de/authors/chris_li/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m an undergraduate student from Edmonton, Alberta! I&amp;rsquo;m midway through my
 bachelors studies at the University of Michigan, Ann Arbor. My main line of
 work/interests are regarding cultural psychology and psychopathology, with a
@@ -152,9 +152,9 @@ Literature&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/chit_lio/</link>
+      <link>https://compsysmed.de/authors/chit_lio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/chit_lio/</guid>
+      <guid>https://compsysmed.de/authors/chit_lio/</guid>
       <description>&lt;p&gt;I’m a biology master student from LMU Munich, where I have experiences in
 working with sequencing data analysis. In my master thesis, I work at the Chair
 of Experimental Bioinformatics on time course network enrichment analysis on
@@ -164,9 +164,9 @@ X-irradiated human fibroblast using TiCoNE and machine learning.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/weilong_li/</link>
+      <link>https://compsysmed.de/authors/weilong_li/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/weilong_li/</guid>
+      <guid>https://compsysmed.de/authors/weilong_li/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a PhD student in research unit of Epidemiology, Biostatistics &amp;amp;
 Biodemography in University of Southern Denmark, and a member of the
 Computational Biology group since October 2016. Currently, I am involved in
@@ -178,9 +178,9 @@ thesis on GWAS simulation with twin design.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/nils_mehrtens/</link>
+      <link>https://compsysmed.de/authors/nils_mehrtens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/nils_mehrtens/</guid>
+      <guid>https://compsysmed.de/authors/nils_mehrtens/</guid>
       <description>&lt;p&gt;I study bioinformatics at TUM and LMU and recently joined the Chair of
 Experimental Bioinformatics to research the relationship between miRNA
 expression levels and various phenotype data in the context of my bachelor
@@ -190,18 +190,18 @@ thesis.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/ertida_muka/</link>
+      <link>https://compsysmed.de/authors/ertida_muka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/ertida_muka/</guid>
+      <guid>https://compsysmed.de/authors/ertida_muka/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m rounding up my Bioinformatics studies at LMU and TUM Munich with a bachelor&amp;rsquo;s thesis at the Chair of Experimental Bioinformatics. In collaboration with the Institute of Pathology in Munich, my thesis studies the detection of Copy Number Variants using off target data, generated from targeted next-generation sequencing.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/pauline_nickel/</link>
+      <link>https://compsysmed.de/authors/pauline_nickel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/pauline_nickel/</guid>
+      <guid>https://compsysmed.de/authors/pauline_nickel/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a bachelor student in Bioinformatics at LMU and TUM in Munich. Recently, I
 joined the Chair of Experimental Bioinformatics in Weihenstephan for my
 bachelor thesis on the Cytoscape tool NetworkPriotizer. This application was
@@ -211,9 +211,9 @@ primary developed for Cytoscape 2 and is now adapted to the new version.&lt;/p&g
     
     <item>
       <title></title>
-      <link>/authors/niklas_probul/</link>
+      <link>https://compsysmed.de/authors/niklas_probul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/niklas_probul/</guid>
+      <guid>https://compsysmed.de/authors/niklas_probul/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a bachelor student in Bioinformatics at TUM and LMU in Munich and recently
 joined the Chair of Experimental Bioinformatics in Weihenstephan for my
 bachelor thesis on the harmonisation of GWAS data for machine learning
@@ -223,9 +223,9 @@ purposes.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/fanny_roessler/</link>
+      <link>https://compsysmed.de/authors/fanny_roessler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/fanny_roessler/</guid>
+      <guid>https://compsysmed.de/authors/fanny_roessler/</guid>
       <description>&lt;p&gt;I’m a Bioinformatics Bachelor student at the Technical University of Munich and
 the LMU since October 2016. I joined the Chair of Experimental Bioinformatics
 as a HiWi to gain more practical experience in bioinformatics. Since April 2019
@@ -236,9 +236,9 @@ analysis of thyrotoxicosis using TiCoNE.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/sepideh_sadegh/</link>
+      <link>https://compsysmed.de/authors/sepideh_sadegh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/sepideh_sadegh/</guid>
+      <guid>https://compsysmed.de/authors/sepideh_sadegh/</guid>
       <description>&lt;p&gt;I am a PhD student in the Chair of Experimental Bioinformatics at TU Munich. I
 received my Bachelor’s degree in Biomedical Engineering from Amirkabir
 University of Technology (Tehran, Iran) and my Master’s degree in
@@ -252,9 +252,9 @@ repurposing project.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/jonas_schaefer/</link>
+      <link>https://compsysmed.de/authors/jonas_schaefer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/jonas_schaefer/</guid>
+      <guid>https://compsysmed.de/authors/jonas_schaefer/</guid>
       <description>&lt;p&gt;I study bioinformatics at the TUM and LMU since October 2018. To apply some of
 my learned knowledge, I joined the chair of Experimental Bioinformatics as a
 Hiwi.&lt;/p&gt;
@@ -263,9 +263,9 @@ Hiwi.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/evelyn_scheibling/</link>
+      <link>https://compsysmed.de/authors/evelyn_scheibling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/evelyn_scheibling/</guid>
+      <guid>https://compsysmed.de/authors/evelyn_scheibling/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Bachelor student in Bioinformatics at the Technical Univerity of
 Munich an the Ludwig-Maximilian University. In October 2019 I joined the
 Chair of Experimental Bioinformatics in Weihenstephan to work on my
@@ -276,9 +276,9 @@ transcripts in The Cancer Genome Atlas.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/andreas_stelzer/</link>
+      <link>https://compsysmed.de/authors/andreas_stelzer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/andreas_stelzer/</guid>
+      <guid>https://compsysmed.de/authors/andreas_stelzer/</guid>
       <description>&lt;p&gt;I’m a bioinformatics bachelor student at the TUM and the LMU. I joined the
 Chair of Experimental Bioinformatics for my bachelor’s thesis on the concurrent
 implementation of various statistical tests using GPUs.&lt;/p&gt;
@@ -287,9 +287,9 @@ implementation of various statistical tests using GPUs.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/olga_tsoy/</link>
+      <link>https://compsysmed.de/authors/olga_tsoy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/olga_tsoy/</guid>
+      <guid>https://compsysmed.de/authors/olga_tsoy/</guid>
       <description>&lt;p&gt;I will start in summer 2019 as a Postdoc at the Chair of Experimental
 Bioinformatics. I graduated from Lomonosov Moscow State University and did PhD
 in Kharkevich Institute in Moscow at professor Gelfand lab. There I studied the
@@ -303,9 +303,9 @@ scientist, I worked in Skolkovo Institute of Science and Technology, Moscow on
     
     <item>
       <title></title>
-      <link>/authors/lorenzo_viola/</link>
+      <link>https://compsysmed.de/authors/lorenzo_viola/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/lorenzo_viola/</guid>
+      <guid>https://compsysmed.de/authors/lorenzo_viola/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a master student in Engineering in Computer Science at Sapienza University,
 Rome. My curriculum is focused on data mining and management, also on a large
 scale. A bioinformatics course has inspired me to join the Chair of
@@ -316,1106 +316,1106 @@ multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/authors/zakaria_louadi/</link>
+      <link>https://compsysmed.de/authors/zakaria_louadi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/zakaria_louadi/</guid>
+      <guid>https://compsysmed.de/authors/zakaria_louadi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Ph.D student in the Chair of Experimental Bioinformatics involved in Sys_CARE project. I received a Bachelor&amp;rsquo;s degree in Electrical Engineering from Cadi Ayyad University in Marrakesh and a MSc with a focus on AI and deep learning from Jeonbuk National University in South Korea. In my master thesis, I worked on developing Deep Splicing Code a sequence-based tool for the classification of alternative splicing events. My research interests include machine learning and its applications in computational biology.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>***et al.***</title>
-      <link>/authors/et-al./</link>
+      <link>https://compsysmed.de/authors/et-al./</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
-      <guid>/authors/et-al./</guid>
+      <guid>https://compsysmed.de/authors/et-al./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anna Köttgen</title>
-      <link>/authors/anna-kottgen/</link>
+      <link>https://compsysmed.de/authors/anna-kottgen/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
-      <guid>/authors/anna-kottgen/</guid>
+      <guid>https://compsysmed.de/authors/anna-kottgen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pascal Schlosser</title>
-      <link>/authors/pascal-schlosser/</link>
+      <link>https://compsysmed.de/authors/pascal-schlosser/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
-      <guid>/authors/pascal-schlosser/</guid>
+      <guid>https://compsysmed.de/authors/pascal-schlosser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>**T. Kacprowski&lt;sup&gt;1&lt;/sup&gt;**</title>
-      <link>/authors/t.-kacprowskisup1/sup/</link>
+      <link>https://compsysmed.de/authors/t.-kacprowskisup1/sup/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>/authors/t.-kacprowskisup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/t.-kacprowskisup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. Frost&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/f.-frostsup1/sup/</link>
+      <link>https://compsysmed.de/authors/f.-frostsup1/sup/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>/authors/f.-frostsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/f.-frostsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. M. Lerch</title>
-      <link>/authors/m.-m.-lerch/</link>
+      <link>https://compsysmed.de/authors/m.-m.-lerch/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>/authors/m.-m.-lerch/</guid>
+      <guid>https://compsysmed.de/authors/m.-m.-lerch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alanna C. Morrison</title>
-      <link>/authors/alanna-c.-morrison/</link>
+      <link>https://compsysmed.de/authors/alanna-c.-morrison/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      <guid>/authors/alanna-c.-morrison/</guid>
+      <guid>https://compsysmed.de/authors/alanna-c.-morrison/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cavin K. Ward-Caviness</title>
-      <link>/authors/cavin-k.-ward-caviness/</link>
+      <link>https://compsysmed.de/authors/cavin-k.-ward-caviness/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      <guid>/authors/cavin-k.-ward-caviness/</guid>
+      <guid>https://compsysmed.de/authors/cavin-k.-ward-caviness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Dehghan&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/a.-dehghansup2/sup/</link>
+      <link>https://compsysmed.de/authors/a.-dehghansup2/sup/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      <guid>/authors/a.-dehghansup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/a.-dehghansup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Z. Alizadeh&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/b.-z.-alizadehsup2/sup/</link>
+      <link>https://compsysmed.de/authors/b.-z.-alizadehsup2/sup/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      <guid>/authors/b.-z.-alizadehsup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/b.-z.-alizadehsup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Ligthart</title>
-      <link>/authors/s.-ligthart/</link>
+      <link>https://compsysmed.de/authors/s.-ligthart/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
-      <guid>/authors/s.-ligthart/</guid>
+      <guid>https://compsysmed.de/authors/s.-ligthart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. Bonfiglio</title>
-      <link>/authors/f.-bonfiglio/</link>
+      <link>https://compsysmed.de/authors/f.-bonfiglio/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/f.-bonfiglio/</guid>
+      <guid>https://compsysmed.de/authors/f.-bonfiglio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. D&#39;Amato</title>
-      <link>/authors/m.-damato/</link>
+      <link>https://compsysmed.de/authors/m.-damato/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/m.-damato/</guid>
+      <guid>https://compsysmed.de/authors/m.-damato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>**T. Kacprowski**</title>
-      <link>/authors/t.-kacprowski/</link>
+      <link>https://compsysmed.de/authors/t.-kacprowski/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/t.-kacprowski/</guid>
+      <guid>https://compsysmed.de/authors/t.-kacprowski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Pietzner</title>
-      <link>/authors/m.-pietzner/</link>
+      <link>https://compsysmed.de/authors/m.-pietzner/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/m.-pietzner/</guid>
+      <guid>https://compsysmed.de/authors/m.-pietzner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. Friedrich</title>
-      <link>/authors/n.-friedrich/</link>
+      <link>https://compsysmed.de/authors/n.-friedrich/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/n.-friedrich/</guid>
+      <guid>https://compsysmed.de/authors/n.-friedrich/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Kurilshikov&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/a.-kurilshikovsup1/sup/</link>
+      <link>https://compsysmed.de/authors/a.-kurilshikovsup1/sup/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/a.-kurilshikovsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/a.-kurilshikovsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Zhernakova</title>
-      <link>/authors/a.-zhernakova/</link>
+      <link>https://compsysmed.de/authors/a.-zhernakova/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/a.-zhernakova/</guid>
+      <guid>https://compsysmed.de/authors/a.-zhernakova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Thorns&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/c.-thornssup2/sup/</link>
+      <link>https://compsysmed.de/authors/c.-thornssup2/sup/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/c.-thornssup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/c.-thornssup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F. Frost</title>
-      <link>/authors/f.-frost/</link>
+      <link>https://compsysmed.de/authors/f.-frost/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/f.-frost/</guid>
+      <guid>https://compsysmed.de/authors/f.-frost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Brabant&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/g.-brabantsup2/sup/</link>
+      <link>https://compsysmed.de/authors/g.-brabantsup2/sup/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/g.-brabantsup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/g.-brabantsup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Knief&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/j.-kniefsup1/sup/</link>
+      <link>https://compsysmed.de/authors/j.-kniefsup1/sup/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/j.-kniefsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/j.-kniefsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Wang&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/j.-wangsup1/sup/</link>
+      <link>https://compsysmed.de/authors/j.-wangsup1/sup/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/j.-wangsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/j.-wangsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Kular</title>
-      <link>/authors/l.-kular/</link>
+      <link>https://compsysmed.de/authors/l.-kular/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/l.-kular/</guid>
+      <guid>https://compsysmed.de/authors/l.-kular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Jagodic</title>
-      <link>/authors/m.-jagodic/</link>
+      <link>https://compsysmed.de/authors/m.-jagodic/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/m.-jagodic/</guid>
+      <guid>https://compsysmed.de/authors/m.-jagodic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. Zimmermann&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/n.-zimmermannsup1/sup/</link>
+      <link>https://compsysmed.de/authors/n.-zimmermannsup1/sup/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>/authors/n.-zimmermannsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/n.-zimmermannsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Herder&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/c.-herdersup2/sup/</link>
+      <link>https://compsysmed.de/authors/c.-herdersup2/sup/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/c.-herdersup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/c.-herdersup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Muller&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/c.-mullersup1/sup/</link>
+      <link>https://compsysmed.de/authors/c.-mullersup1/sup/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/c.-mullersup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/c.-mullersup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Schurmann&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/c.-schurmannsup1/sup/</link>
+      <link>https://compsysmed.de/authors/c.-schurmannsup1/sup/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/c.-schurmannsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/c.-schurmannsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Homuth&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/g.-homuthsup2/sup/</link>
+      <link>https://compsysmed.de/authors/g.-homuthsup2/sup/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/g.-homuthsup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/g.-homuthsup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. J. Grabe</title>
-      <link>/authors/h.-j.-grabe/</link>
+      <link>https://compsysmed.de/authors/h.-j.-grabe/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/h.-j.-grabe/</guid>
+      <guid>https://compsysmed.de/authors/h.-j.-grabe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Hertel</title>
-      <link>/authors/j.-hertel/</link>
+      <link>https://compsysmed.de/authors/j.-hertel/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/j.-hertel/</guid>
+      <guid>https://compsysmed.de/authors/j.-hertel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Schramm&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/k.-schrammsup1/sup/</link>
+      <link>https://compsysmed.de/authors/k.-schrammsup1/sup/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/k.-schrammsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/k.-schrammsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Blankenberg&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/s.-blankenbergsup2/sup/</link>
+      <link>https://compsysmed.de/authors/s.-blankenbergsup2/sup/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/s.-blankenbergsup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/s.-blankenbergsup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Kwon&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/s.-kwonsup1/sup/</link>
+      <link>https://compsysmed.de/authors/s.-kwonsup1/sup/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/s.-kwonsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/s.-kwonsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Zeller&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/t.-zellersup1/sup/</link>
+      <link>https://compsysmed.de/authors/t.-zellersup1/sup/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/t.-zellersup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/t.-zellersup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>X. Guo&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/x.-guosup2/sup/</link>
+      <link>https://compsysmed.de/authors/x.-guosup2/sup/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/x.-guosup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/x.-guosup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Knupfer</title>
-      <link>/authors/c.-knupfer/</link>
+      <link>https://compsysmed.de/authors/c.-knupfer/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/c.-knupfer/</guid>
+      <guid>https://compsysmed.de/authors/c.-knupfer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Waltemath</title>
-      <link>/authors/d.-waltemath/</link>
+      <link>https://compsysmed.de/authors/d.-waltemath/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/d.-waltemath/</guid>
+      <guid>https://compsysmed.de/authors/d.-waltemath/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Henkel</title>
-      <link>/authors/r.-henkel/</link>
+      <link>https://compsysmed.de/authors/r.-henkel/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/r.-henkel/</guid>
+      <guid>https://compsysmed.de/authors/r.-henkel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Hoehndorf</title>
-      <link>/authors/r.-hoehndorf/</link>
+      <link>https://compsysmed.de/authors/r.-hoehndorf/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/r.-hoehndorf/</guid>
+      <guid>https://compsysmed.de/authors/r.-hoehndorf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>W. Liebermeister</title>
-      <link>/authors/w.-liebermeister/</link>
+      <link>https://compsysmed.de/authors/w.-liebermeister/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
-      <guid>/authors/w.-liebermeister/</guid>
+      <guid>https://compsysmed.de/authors/w.-liebermeister/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. Jakob</title>
-      <link>/authors/p.-jakob/</link>
+      <link>https://compsysmed.de/authors/p.-jakob/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/p.-jakob/</guid>
+      <guid>https://compsysmed.de/authors/p.-jakob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>U. Landmesser</title>
-      <link>/authors/u.-landmesser/</link>
+      <link>https://compsysmed.de/authors/u.-landmesser/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/u.-landmesser/</guid>
+      <guid>https://compsysmed.de/authors/u.-landmesser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Petersmann</title>
-      <link>/authors/a.-petersmann/</link>
+      <link>https://compsysmed.de/authors/a.-petersmann/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/a.-petersmann/</guid>
+      <guid>https://compsysmed.de/authors/a.-petersmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Teumer</title>
-      <link>/authors/a.-teumer/</link>
+      <link>https://compsysmed.de/authors/a.-teumer/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/a.-teumer/</guid>
+      <guid>https://compsysmed.de/authors/a.-teumer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Y. Chu</title>
-      <link>/authors/a.-y.-chu/</link>
+      <link>https://compsysmed.de/authors/a.-y.-chu/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/a.-y.-chu/</guid>
+      <guid>https://compsysmed.de/authors/a.-y.-chu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Engelmann</title>
-      <link>/authors/b.-engelmann/</link>
+      <link>https://compsysmed.de/authors/b.-engelmann/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/b.-engelmann/</guid>
+      <guid>https://compsysmed.de/authors/b.-engelmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Holtfreter</title>
-      <link>/authors/b.-holtfreter/</link>
+      <link>https://compsysmed.de/authors/b.-holtfreter/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/b.-holtfreter/</guid>
+      <guid>https://compsysmed.de/authors/b.-holtfreter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. S. Fox</title>
-      <link>/authors/c.-s.-fox/</link>
+      <link>https://compsysmed.de/authors/c.-s.-fox/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/c.-s.-fox/</guid>
+      <guid>https://compsysmed.de/authors/c.-s.-fox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Kasbohm</title>
-      <link>/authors/e.-kasbohm/</link>
+      <link>https://compsysmed.de/authors/e.-kasbohm/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/e.-kasbohm/</guid>
+      <guid>https://compsysmed.de/authors/e.-kasbohm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Homuth</title>
-      <link>/authors/g.-homuth/</link>
+      <link>https://compsysmed.de/authors/g.-homuth/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/g.-homuth/</guid>
+      <guid>https://compsysmed.de/authors/g.-homuth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Volzke</title>
-      <link>/authors/h.-volzke/</link>
+      <link>https://compsysmed.de/authors/h.-volzke/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/h.-volzke/</guid>
+      <guid>https://compsysmed.de/authors/h.-volzke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. Meisel</title>
-      <link>/authors/p.-meisel/</link>
+      <link>https://compsysmed.de/authors/p.-meisel/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/p.-meisel/</guid>
+      <guid>https://compsysmed.de/authors/p.-meisel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Biffar</title>
-      <link>/authors/r.-biffar/</link>
+      <link>https://compsysmed.de/authors/r.-biffar/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/r.-biffar/</guid>
+      <guid>https://compsysmed.de/authors/r.-biffar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Samietz</title>
-      <link>/authors/s.-samietz/</link>
+      <link>https://compsysmed.de/authors/s.-samietz/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/s.-samietz/</guid>
+      <guid>https://compsysmed.de/authors/s.-samietz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Kocher</title>
-      <link>/authors/t.-kocher/</link>
+      <link>https://compsysmed.de/authors/t.-kocher/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/t.-kocher/</guid>
+      <guid>https://compsysmed.de/authors/t.-kocher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>U. Volker</title>
-      <link>/authors/u.-volker/</link>
+      <link>https://compsysmed.de/authors/u.-volker/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/authors/u.-volker/</guid>
+      <guid>https://compsysmed.de/authors/u.-volker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Ingelsson</title>
-      <link>/authors/e.-ingelsson/</link>
+      <link>https://compsysmed.de/authors/e.-ingelsson/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/e.-ingelsson/</guid>
+      <guid>https://compsysmed.de/authors/e.-ingelsson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. C. Cornelis</title>
-      <link>/authors/m.-c.-cornelis/</link>
+      <link>https://compsysmed.de/authors/m.-c.-cornelis/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/m.-c.-cornelis/</guid>
+      <guid>https://compsysmed.de/authors/m.-c.-cornelis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Lin</title>
-      <link>/authors/h.-lin/</link>
+      <link>https://compsysmed.de/authors/h.-lin/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/h.-lin/</guid>
+      <guid>https://compsysmed.de/authors/h.-lin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. T. Ellinor</title>
-      <link>/authors/p.-t.-ellinor/</link>
+      <link>https://compsysmed.de/authors/p.-t.-ellinor/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/p.-t.-ellinor/</guid>
+      <guid>https://compsysmed.de/authors/p.-t.-ellinor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. W. Kuss</title>
-      <link>/authors/a.-w.-kuss/</link>
+      <link>https://compsysmed.de/authors/a.-w.-kuss/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/a.-w.-kuss/</guid>
+      <guid>https://compsysmed.de/authors/a.-w.-kuss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Scherthan</title>
-      <link>/authors/h.-scherthan/</link>
+      <link>https://compsysmed.de/authors/h.-scherthan/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/h.-scherthan/</guid>
+      <guid>https://compsysmed.de/authors/h.-scherthan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Esche</title>
-      <link>/authors/j.-esche/</link>
+      <link>https://compsysmed.de/authors/j.-esche/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/j.-esche/</guid>
+      <guid>https://compsysmed.de/authors/j.-esche/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. R. Jensen</title>
-      <link>/authors/l.-r.-jensen/</link>
+      <link>https://compsysmed.de/authors/l.-r.-jensen/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/l.-r.-jensen/</guid>
+      <guid>https://compsysmed.de/authors/l.-r.-jensen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. van Diepen</title>
-      <link>/authors/l.-van-diepen/</link>
+      <link>https://compsysmed.de/authors/l.-van-diepen/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/l.-van-diepen/</guid>
+      <guid>https://compsysmed.de/authors/l.-van-diepen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Peper</title>
-      <link>/authors/m.-peper/</link>
+      <link>https://compsysmed.de/authors/m.-peper/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/m.-peper/</guid>
+      <guid>https://compsysmed.de/authors/m.-peper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Port</title>
-      <link>/authors/m.-port/</link>
+      <link>https://compsysmed.de/authors/m.-port/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/m.-port/</guid>
+      <guid>https://compsysmed.de/authors/m.-port/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Weissmann</title>
-      <link>/authors/r.-weissmann/</link>
+      <link>https://compsysmed.de/authors/r.-weissmann/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/r.-weissmann/</guid>
+      <guid>https://compsysmed.de/authors/r.-weissmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. D. Johnson&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/a.-d.-johnsonsup2/sup/</link>
+      <link>https://compsysmed.de/authors/a.-d.-johnsonsup2/sup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/a.-d.-johnsonsup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/a.-d.-johnsonsup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. J. Slater&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/a.-j.-slatersup1/sup/</link>
+      <link>https://compsysmed.de/authors/a.-j.-slatersup1/sup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/a.-j.-slatersup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/a.-j.-slatersup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Nomura&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/a.-nomurasup1/sup/</link>
+      <link>https://compsysmed.de/authors/a.-nomurasup1/sup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/a.-nomurasup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/a.-nomurasup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. P. Reiner&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/a.-p.-reinersup2/sup/</link>
+      <link>https://compsysmed.de/authors/a.-p.-reinersup2/sup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/a.-p.-reinersup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/a.-p.-reinersup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G. Lettre&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/g.-lettresup2/sup/</link>
+      <link>https://compsysmed.de/authors/g.-lettresup2/sup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/g.-lettresup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/g.-lettresup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. D. Eicher&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/j.-d.-eichersup1/sup/</link>
+      <link>https://compsysmed.de/authors/j.-d.-eichersup1/sup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/j.-d.-eichersup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/j.-d.-eichersup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. H. Chen&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/m.-h.-chensup1/sup/</link>
+      <link>https://compsysmed.de/authors/m.-h.-chensup1/sup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/m.-h.-chensup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/m.-h.-chensup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. Chami&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/n.-chamisup1/sup/</link>
+      <link>https://compsysmed.de/authors/n.-chamisup1/sup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/n.-chamisup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/n.-chamisup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. Faraday&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/n.-faradaysup2/sup/</link>
+      <link>https://compsysmed.de/authors/n.-faradaysup2/sup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/n.-faradaysup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/n.-faradaysup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. L. Auer&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/p.-l.-auersup2/sup/</link>
+      <link>https://compsysmed.de/authors/p.-l.-auersup2/sup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/p.-l.-auersup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/p.-l.-auersup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. K. Ganesh&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/s.-k.-ganeshsup2/sup/</link>
+      <link>https://compsysmed.de/authors/s.-k.-ganeshsup2/sup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/s.-k.-ganeshsup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/s.-k.-ganeshsup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. M. Tajuddin&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/s.-m.-tajuddinsup1/sup/</link>
+      <link>https://compsysmed.de/authors/s.-m.-tajuddinsup1/sup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/s.-m.-tajuddinsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/s.-m.-tajuddinsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>U. M. Schick&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/u.-m.-schicksup1/sup/</link>
+      <link>https://compsysmed.de/authors/u.-m.-schicksup1/sup/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/u.-m.-schicksup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/u.-m.-schicksup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Muller-Myhsok</title>
-      <link>/authors/b.-muller-myhsok/</link>
+      <link>https://compsysmed.de/authors/b.-muller-myhsok/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/b.-muller-myhsok/</guid>
+      <guid>https://compsysmed.de/authors/b.-muller-myhsok/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Buck&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/d.-bucksup1/sup/</link>
+      <link>https://compsysmed.de/authors/d.-bucksup1/sup/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/d.-bucksup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/d.-bucksup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. F. Andlauer&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/t.-f.-andlauersup1/sup/</link>
+      <link>https://compsysmed.de/authors/t.-f.-andlauersup1/sup/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/t.-f.-andlauersup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/t.-f.-andlauersup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. M. Heiser&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/l.-m.-heisersup1/sup/</link>
+      <link>https://compsysmed.de/authors/l.-m.-heisersup1/sup/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/l.-m.-heisersup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/l.-m.-heisersup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. M. Hill&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/s.-m.-hillsup1/sup/</link>
+      <link>https://compsysmed.de/authors/s.-m.-hillsup1/sup/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/s.-m.-hillsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/s.-m.-hillsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Mukherjee</title>
-      <link>/authors/s.-mukherjee/</link>
+      <link>https://compsysmed.de/authors/s.-mukherjee/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>/authors/s.-mukherjee/</guid>
+      <guid>https://compsysmed.de/authors/s.-mukherjee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B. Penninx&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/b.-penninxsup2/sup/</link>
+      <link>https://compsysmed.de/authors/b.-penninxsup2/sup/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/b.-penninxsup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/b.-penninxsup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Melzer&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/d.-melzersup2/sup/</link>
+      <link>https://compsysmed.de/authors/d.-melzersup2/sup/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/d.-melzersup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/d.-melzersup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. B. van Meurs&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/j.-b.-van-meurssup2/sup/</link>
+      <link>https://compsysmed.de/authors/j.-b.-van-meurssup2/sup/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/j.-b.-van-meurssup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/j.-b.-van-meurssup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Murabito&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/j.-murabitosup2/sup/</link>
+      <link>https://compsysmed.de/authors/j.-murabitosup2/sup/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/j.-murabitosup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/j.-murabitosup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. C. Pilling&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/l.-c.-pillingsup1/sup/</link>
+      <link>https://compsysmed.de/authors/l.-c.-pillingsup1/sup/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/l.-c.-pillingsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/l.-c.-pillingsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Ferrucci&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/l.-ferruccisup2/sup/</link>
+      <link>https://compsysmed.de/authors/l.-ferruccisup2/sup/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/l.-ferruccisup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/l.-ferruccisup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Peters&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/m.-peterssup1/sup/</link>
+      <link>https://compsysmed.de/authors/m.-peterssup1/sup/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/m.-peterssup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/m.-peterssup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Jansen&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/r.-jansensup1/sup/</link>
+      <link>https://compsysmed.de/authors/r.-jansensup1/sup/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/r.-jansensup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/r.-jansensup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Joehanes&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/r.-joehanessup1/sup/</link>
+      <link>https://compsysmed.de/authors/r.-joehanessup1/sup/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/r.-joehanessup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/r.-joehanessup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Kocher&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/t.-kochersup2/sup/</link>
+      <link>https://compsysmed.de/authors/t.-kochersup2/sup/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>/authors/t.-kochersup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/t.-kochersup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Malsch</title>
-      <link>/authors/c.-malsch/</link>
+      <link>https://compsysmed.de/authors/c.-malsch/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
-      <guid>/authors/c.-malsch/</guid>
+      <guid>https://compsysmed.de/authors/c.-malsch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E. Hammer</title>
-      <link>/authors/e.-hammer/</link>
+      <link>https://compsysmed.de/authors/e.-hammer/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
-      <guid>/authors/e.-hammer/</guid>
+      <guid>https://compsysmed.de/authors/e.-hammer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Suhre</title>
-      <link>/authors/k.-suhre/</link>
+      <link>https://compsysmed.de/authors/k.-suhre/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
-      <guid>/authors/k.-suhre/</guid>
+      <guid>https://compsysmed.de/authors/k.-suhre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. K. Chilukoti&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/r.-k.-chilukotisup1/sup/</link>
+      <link>https://compsysmed.de/authors/r.-k.-chilukotisup1/sup/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
-      <guid>/authors/r.-k.-chilukotisup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/r.-k.-chilukotisup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Ameling&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/s.-amelingsup1/sup/</link>
+      <link>https://compsysmed.de/authors/s.-amelingsup1/sup/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
-      <guid>/authors/s.-amelingsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/s.-amelingsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V. Liebscher</title>
-      <link>/authors/v.-liebscher/</link>
+      <link>https://compsysmed.de/authors/v.-liebscher/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
-      <guid>/authors/v.-liebscher/</guid>
+      <guid>https://compsysmed.de/authors/v.-liebscher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. E. Huffman</title>
-      <link>/authors/j.-e.-huffman/</link>
+      <link>https://compsysmed.de/authors/j.-e.-huffman/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      <guid>/authors/j.-e.-huffman/</guid>
+      <guid>https://compsysmed.de/authors/j.-e.-huffman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Raffler</title>
-      <link>/authors/j.-raffler/</link>
+      <link>https://compsysmed.de/authors/j.-raffler/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      <guid>/authors/j.-raffler/</guid>
+      <guid>https://compsysmed.de/authors/j.-raffler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. L. Smith</title>
-      <link>/authors/n.-l.-smith/</link>
+      <link>https://compsysmed.de/authors/n.-l.-smith/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-      <guid>/authors/n.-l.-smith/</guid>
+      <guid>https://compsysmed.de/authors/n.-l.-smith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. F. Wilson&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/j.-f.-wilsonsup2/sup/</link>
+      <link>https://compsysmed.de/authors/j.-f.-wilsonsup2/sup/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
-      <guid>/authors/j.-f.-wilsonsup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/j.-f.-wilsonsup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>O. Polasek&lt;sup&gt;2&lt;/sup&gt;</title>
-      <link>/authors/o.-polaseksup2/sup/</link>
+      <link>https://compsysmed.de/authors/o.-polaseksup2/sup/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
-      <guid>/authors/o.-polaseksup2/sup/</guid>
+      <guid>https://compsysmed.de/authors/o.-polaseksup2/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. K. Joshi&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/p.-k.-joshisup1/sup/</link>
+      <link>https://compsysmed.de/authors/p.-k.-joshisup1/sup/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
-      <guid>/authors/p.-k.-joshisup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/p.-k.-joshisup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. Esko&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/t.-eskosup1/sup/</link>
+      <link>https://compsysmed.de/authors/t.-eskosup1/sup/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
-      <guid>/authors/t.-eskosup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/t.-eskosup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Grallert</title>
-      <link>/authors/h.-grallert/</link>
+      <link>https://compsysmed.de/authors/h.-grallert/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
-      <guid>/authors/h.-grallert/</guid>
+      <guid>https://compsysmed.de/authors/h.-grallert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Vogt&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/s.-vogtsup1/sup/</link>
+      <link>https://compsysmed.de/authors/s.-vogtsup1/sup/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
-      <guid>/authors/s.-vogtsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/s.-vogtsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Wahl&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/s.-wahlsup1/sup/</link>
+      <link>https://compsysmed.de/authors/s.-wahlsup1/sup/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
-      <guid>/authors/s.-wahlsup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/s.-wahlsup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>L. Pradier</title>
-      <link>/authors/l.-pradier/</link>
+      <link>https://compsysmed.de/authors/l.-pradier/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      <guid>/authors/l.-pradier/</guid>
+      <guid>https://compsysmed.de/authors/l.-pradier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Huttenrauch</title>
-      <link>/authors/m.-huttenrauch/</link>
+      <link>https://compsysmed.de/authors/m.-huttenrauch/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      <guid>/authors/m.-huttenrauch/</guid>
+      <guid>https://compsysmed.de/authors/m.-huttenrauch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>O. Wirths</title>
-      <link>/authors/o.-wirths/</link>
+      <link>https://compsysmed.de/authors/o.-wirths/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      <guid>/authors/o.-wirths/</guid>
+      <guid>https://compsysmed.de/authors/o.-wirths/</guid>
       <description></description>
     </item>
     
     <item>
       <title>T. A. Bayer</title>
-      <link>/authors/t.-a.-bayer/</link>
+      <link>https://compsysmed.de/authors/t.-a.-bayer/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      <guid>/authors/t.-a.-bayer/</guid>
+      <guid>https://compsysmed.de/authors/t.-a.-bayer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y. Bouter</title>
-      <link>/authors/y.-bouter/</link>
+      <link>https://compsysmed.de/authors/y.-bouter/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      <guid>/authors/y.-bouter/</guid>
+      <guid>https://compsysmed.de/authors/y.-bouter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. K. Kroemer</title>
-      <link>/authors/h.-k.-kroemer/</link>
+      <link>https://compsysmed.de/authors/h.-k.-kroemer/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
-      <guid>/authors/h.-k.-kroemer/</guid>
+      <guid>https://compsysmed.de/authors/h.-k.-kroemer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A. Brauss</title>
-      <link>/authors/a.-brauss/</link>
+      <link>https://compsysmed.de/authors/a.-brauss/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      <guid>/authors/a.-brauss/</guid>
+      <guid>https://compsysmed.de/authors/a.-brauss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. Sperling</title>
-      <link>/authors/c.-sperling/</link>
+      <link>https://compsysmed.de/authors/c.-sperling/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      <guid>/authors/c.-sperling/</guid>
+      <guid>https://compsysmed.de/authors/c.-sperling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Borgers</title>
-      <link>/authors/h.-borgers/</link>
+      <link>https://compsysmed.de/authors/h.-borgers/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      <guid>/authors/h.-borgers/</guid>
+      <guid>https://compsysmed.de/authors/h.-borgers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Dietrich</title>
-      <link>/authors/k.-dietrich/</link>
+      <link>https://compsysmed.de/authors/k.-dietrich/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      <guid>/authors/k.-dietrich/</guid>
+      <guid>https://compsysmed.de/authors/k.-dietrich/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Albrecht</title>
-      <link>/authors/m.-albrecht/</link>
+      <link>https://compsysmed.de/authors/m.-albrecht/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      <guid>/authors/m.-albrecht/</guid>
+      <guid>https://compsysmed.de/authors/m.-albrecht/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y. Bouter&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/y.-boutersup1/sup/</link>
+      <link>https://compsysmed.de/authors/y.-boutersup1/sup/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      <guid>/authors/y.-boutersup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/y.-boutersup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. A. Ritter</title>
-      <link>/authors/c.-a.-ritter/</link>
+      <link>https://compsysmed.de/authors/c.-a.-ritter/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
-      <guid>/authors/c.-a.-ritter/</guid>
+      <guid>https://compsysmed.de/authors/c.-a.-ritter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H. Saafan</title>
-      <link>/authors/h.-saafan/</link>
+      <link>https://compsysmed.de/authors/h.-saafan/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
-      <guid>/authors/h.-saafan/</guid>
+      <guid>https://compsysmed.de/authors/h.-saafan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Bien-Moller</title>
-      <link>/authors/s.-bien-moller/</link>
+      <link>https://compsysmed.de/authors/s.-bien-moller/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
-      <guid>/authors/s.-bien-moller/</guid>
+      <guid>https://compsysmed.de/authors/s.-bien-moller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Foerster</title>
-      <link>/authors/s.-foerster/</link>
+      <link>https://compsysmed.de/authors/s.-foerster/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
-      <guid>/authors/s.-foerster/</guid>
+      <guid>https://compsysmed.de/authors/s.-foerster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S. Herzog</title>
-      <link>/authors/s.-herzog/</link>
+      <link>https://compsysmed.de/authors/s.-herzog/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
-      <guid>/authors/s.-herzog/</guid>
+      <guid>https://compsysmed.de/authors/s.-herzog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V. M. Dhople</title>
-      <link>/authors/v.-m.-dhople/</link>
+      <link>https://compsysmed.de/authors/v.-m.-dhople/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
-      <guid>/authors/v.-m.-dhople/</guid>
+      <guid>https://compsysmed.de/authors/v.-m.-dhople/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. T. Doncheva</title>
-      <link>/authors/n.-t.-doncheva/</link>
+      <link>https://compsysmed.de/authors/n.-t.-doncheva/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0200</pubDate>
-      <guid>/authors/n.-t.-doncheva/</guid>
+      <guid>https://compsysmed.de/authors/n.-t.-doncheva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N. T. Doncheva&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/n.-t.-donchevasup1/sup/</link>
+      <link>https://compsysmed.de/authors/n.-t.-donchevasup1/sup/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      <guid>/authors/n.-t.-donchevasup1/sup/</guid>
+      <guid>https://compsysmed.de/authors/n.-t.-donchevasup1/sup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Emig</title>
-      <link>/authors/d.-emig/</link>
+      <link>https://compsysmed.de/authors/d.-emig/</link>
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0200</pubDate>
-      <guid>/authors/d.-emig/</guid>
+      <guid>https://compsysmed.de/authors/d.-emig/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://compsysmed.de/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://compsysmed.de/authors/admin/</guid>
       <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
@@ -1424,17 +1424,17 @@ multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
     
     <item>
       <title>chit_tong_lio</title>
-      <link>/authors/chit_tong_lio/</link>
+      <link>https://compsysmed.de/authors/chit_tong_lio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/chit_tong_lio/</guid>
+      <guid>https://compsysmed.de/authors/chit_tong_lio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tim_kacprowski</title>
-      <link>/authors/tim_kacprowski/</link>
+      <link>https://compsysmed.de/authors/tim_kacprowski/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/tim_kacprowski/</guid>
+      <guid>https://compsysmed.de/authors/tim_kacprowski/</guid>
       <description></description>
     </item>
     

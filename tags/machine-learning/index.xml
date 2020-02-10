@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine learning | ResGro CompSysMed</title>
-    <link>/tags/machine-learning/</link>
-      <atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/tags/machine-learning/</link>
+      <atom:link href="https://compsysmed.de/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>machine learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Feb 2019 19:39:58 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>machine learning</title>
-      <link>/tags/machine-learning/</link>
+      <link>https://compsysmed.de/tags/machine-learning/</link>
     </image>
     
     <item>
       <title>REPO-TRIAL</title>
-      <link>/project/repo-trial/</link>
+      <link>https://compsysmed.de/project/repo-trial/</link>
       <pubDate>Mon, 25 Feb 2019 19:39:58 +0200</pubDate>
-      <guid>/project/repo-trial/</guid>
+      <guid>https://compsysmed.de/project/repo-trial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FeatureCloud</title>
-      <link>/project/featurecloud/</link>
+      <link>https://compsysmed.de/project/featurecloud/</link>
       <pubDate>Sun, 24 Feb 2019 19:39:58 +0200</pubDate>
-      <guid>/project/featurecloud/</guid>
+      <guid>https://compsysmed.de/project/featurecloud/</guid>
       <description>
 
 &lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;

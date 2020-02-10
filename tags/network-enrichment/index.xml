@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>network enrichment | ResGro CompSysMed</title>
-    <link>/tags/network-enrichment/</link>
-      <atom:link href="/tags/network-enrichment/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/tags/network-enrichment/</link>
+      <atom:link href="https://compsysmed.de/tags/network-enrichment/index.xml" rel="self" type="application/rss+xml" />
     <description>network enrichment</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Feb 2019 19:39:58 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>network enrichment</title>
-      <link>/tags/network-enrichment/</link>
+      <link>https://compsysmed.de/tags/network-enrichment/</link>
     </image>
     
     <item>
       <title>De novo network enrichment</title>
-      <link>/project/denovonetenrich/</link>
+      <link>https://compsysmed.de/project/denovonetenrich/</link>
       <pubDate>Fri, 22 Feb 2019 19:39:58 +0200</pubDate>
-      <guid>/project/denovonetenrich/</guid>
+      <guid>https://compsysmed.de/project/denovonetenrich/</guid>
       <description>
 
 &lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;

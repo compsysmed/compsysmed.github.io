@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. Jansen&lt;sup&gt;1&lt;/sup&gt; | ResGro CompSysMed</title>
-    <link>/authors/r.-jansensup1/sup/</link>
-      <atom:link href="/authors/r.-jansensup1/sup/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/r.-jansensup1/sup/</link>
+      <atom:link href="https://compsysmed.de/authors/r.-jansensup1/sup/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Jansen&lt;sup&gt;1&lt;/sup&gt;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>R. Jansen&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/r.-jansensup1/sup/</link>
+      <link>https://compsysmed.de/authors/r.-jansensup1/sup/</link>
     </image>
     
     <item>
       <title>Gene transcripts associated with muscle strength: a CHARGE meta-analysis of 7,781 persons</title>
-      <link>/publication/pilling-et-al.-2016/</link>
+      <link>https://compsysmed.de/publication/pilling-et-al.-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      <guid>/publication/pilling-et-al.-2016/</guid>
+      <guid>https://compsysmed.de/publication/pilling-et-al.-2016/</guid>
       <description></description>
     </item>
     

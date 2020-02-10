@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>chit_tong_lio | ResGro CompSysMed</title>
-    <link>/authors/chit_tong_lio/</link>
-      <atom:link href="/authors/chit_tong_lio/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/chit_tong_lio/</link>
+      <atom:link href="https://compsysmed.de/authors/chit_tong_lio/index.xml" rel="self" type="application/rss+xml" />
     <description>chit_tong_lio</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>chit_tong_lio</title>
-      <link>/authors/chit_tong_lio/</link>
+      <link>https://compsysmed.de/authors/chit_tong_lio/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/chit_lio/</link>
+      <link>https://compsysmed.de/authors/chit_lio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/chit_lio/</guid>
+      <guid>https://compsysmed.de/authors/chit_lio/</guid>
       <description>&lt;p&gt;I’m a biology master student from LMU Munich, where I have experiences in
 working with sequencing data analysis. In my master thesis, I work at the Chair
 of Experimental Bioinformatics on time course network enrichment analysis on

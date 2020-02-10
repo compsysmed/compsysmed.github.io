@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ResGro CompSysMed</title>
-    <link>/authors/manuela_lautizi/</link>
-      <atom:link href="/authors/manuela_lautizi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/manuela_lautizi/</link>
+      <atom:link href="https://compsysmed.de/authors/manuela_lautizi/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>ResGro CompSysMed</title>
-      <link>/authors/manuela_lautizi/</link>
+      <link>https://compsysmed.de/authors/manuela_lautizi/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/manuela_lautizi/</link>
+      <link>https://compsysmed.de/authors/manuela_lautizi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/manuela_lautizi/</guid>
+      <guid>https://compsysmed.de/authors/manuela_lautizi/</guid>
       <description>&lt;p&gt;I’m a PhD student in the Chair of Experimental Bioinformatics in collaboration
 with the Institute of Pathology, both at TUM. I’ve originally joined Prof.
 Baumbach’s lab to work on my master’s thesis in bioinformatics, focused to

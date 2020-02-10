@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>renal diseases | ResGro CompSysMed</title>
-    <link>/tags/renal-diseases/</link>
-      <atom:link href="/tags/renal-diseases/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/tags/renal-diseases/</link>
+      <atom:link href="https://compsysmed.de/tags/renal-diseases/index.xml" rel="self" type="application/rss+xml" />
     <description>renal diseases</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2020 19:39:58 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>renal diseases</title>
-      <link>/tags/renal-diseases/</link>
+      <link>https://compsysmed.de/tags/renal-diseases/</link>
     </image>
     
     <item>
       <title>Sys_CARE</title>
-      <link>/project/sys_care/</link>
+      <link>https://compsysmed.de/project/sys_care/</link>
       <pubDate>Mon, 03 Feb 2020 19:39:58 +0200</pubDate>
-      <guid>/project/sys_care/</guid>
+      <guid>https://compsysmed.de/project/sys_care/</guid>
       <description>&lt;p&gt;Sys_CARE - Systems Medicine Investigation of Alternative Splicing in Cardiac and Renal Diseases - is a collaborative research project between the Technical University of Munich, Greifswald University, and the Saarland University. The overall goal of the project is to elucidate the role of alternative splicing in cardiac and renal diseases using systems medicine approaches and molecular big data.&lt;/p&gt;
 
 &lt;p&gt;More information can be found &lt;a href=&#34;http://www.sys-med.de/en/consortia/sys-care/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>F. Frost&lt;sup&gt;1&lt;/sup&gt; | ResGro CompSysMed</title>
-    <link>/authors/f.-frostsup1/sup/</link>
-      <atom:link href="/authors/f.-frostsup1/sup/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/f.-frostsup1/sup/</link>
+      <atom:link href="https://compsysmed.de/authors/f.-frostsup1/sup/index.xml" rel="self" type="application/rss+xml" />
     <description>F. Frost&lt;sup&gt;1&lt;/sup&gt;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>F. Frost&lt;sup&gt;1&lt;/sup&gt;</title>
-      <link>/authors/f.-frostsup1/sup/</link>
+      <link>https://compsysmed.de/authors/f.-frostsup1/sup/</link>
     </image>
     
     <item>
       <title>Impaired Exocrine Pancreatic Function Associates With Changes in Intestinal Microbiota Composition and Diversity</title>
-      <link>/publication/frost-et-al.-2019/</link>
+      <link>https://compsysmed.de/publication/frost-et-al.-2019/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
-      <guid>/publication/frost-et-al.-2019/</guid>
+      <guid>https://compsysmed.de/publication/frost-et-al.-2019/</guid>
       <description></description>
     </item>
     

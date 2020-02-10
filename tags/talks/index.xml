@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks | ResGro CompSysMed</title>
-    <link>/tags/talks/</link>
-      <atom:link href="/tags/talks/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/tags/talks/</link>
+      <atom:link href="https://compsysmed.de/tags/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Aug 2019 15:46:00 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Talks</title>
-      <link>/tags/talks/</link>
+      <link>https://compsysmed.de/tags/talks/</link>
     </image>
     
     <item>
       <title>Invited talk at PMBC2019</title>
-      <link>/post/pmbc2019/</link>
+      <link>https://compsysmed.de/post/pmbc2019/</link>
       <pubDate>Tue, 13 Aug 2019 15:46:00 +0200</pubDate>
-      <guid>/post/pmbc2019/</guid>
+      <guid>https://compsysmed.de/post/pmbc2019/</guid>
       <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;https://www.pmbc2019.com&#34; target=&#34;_blank&#34;&gt;2nd International Congress on Precision Medicine&lt;/a&gt;, taking place on
 October 14-15 at the Hilton Munich City in Munich, Germany. The talk will be about
 &lt;a href=&#34;www.pmbc2019.com/multi-omics-characterization-of-induced-thyrotoxi.aspx&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Multi-Omics Characterization of Induced Thyrotoxicosis&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
@@ -25,9 +25,9 @@ October 14-15 at the Hilton Munich City in Munich, Germany. The talk will be abo
     
     <item>
       <title>Invited talk at IGLD2019</title>
-      <link>/post/igld2019/</link>
+      <link>https://compsysmed.de/post/igld2019/</link>
       <pubDate>Wed, 30 Jan 2019 13:39:00 +0100</pubDate>
-      <guid>/post/igld2019/</guid>
+      <guid>https://compsysmed.de/post/igld2019/</guid>
       <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.igld.de/?page_id=7078&#34; target=&#34;_blank&#34;&gt;Jahressymposium der
 Interdisziplinären Gruppe für Labor und
 Durchflussyztometrie&lt;/a&gt;, taking place from
@@ -38,9 +38,9 @@ March 07-08 at the Congress Center in Frankfurt. The talk will be about
     
     <item>
       <title>Invited talk at GQ2019</title>
-      <link>/post/gq2019/</link>
+      <link>https://compsysmed.de/post/gq2019/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
-      <guid>/post/gq2019/</guid>
+      <guid>https://compsysmed.de/post/gq2019/</guid>
       <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.qpcr-dpcr-ngs-2019.net&#34; target=&#34;_blank&#34;&gt;9th Gene Quantification
 Event qPCR dPCR &amp;amp; NGS 2019&lt;/a&gt;, taking place
 from March 18-22 at the TUM School of Life Sciences in Weihenstephan. The talk

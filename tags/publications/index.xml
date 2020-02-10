@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | ResGro CompSysMed</title>
-    <link>/tags/publications/</link>
-      <atom:link href="/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/tags/publications/</link>
+      <atom:link href="https://compsysmed.de/tags/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Publications</title>
-      <link>/tags/publications/</link>
+      <link>https://compsysmed.de/tags/publications/</link>
     </image>
     
     <item>
       <title>BiCoN: Preprint released on bioRxiv</title>
-      <link>/post/bicon_paper/</link>
+      <link>https://compsysmed.de/post/bicon_paper/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>/post/bicon_paper/</guid>
+      <guid>https://compsysmed.de/post/bicon_paper/</guid>
       <description>&lt;p&gt;The manuscript &amp;ldquo;BiCoN: Network-constrained biclustering of patients and omics data&amp;rdquo; for the &lt;a href=&#34;https://www.exbio.wzw.tum.de/bicon/&#34; target=&#34;_blank&#34;&gt;BiCoN tool&lt;/a&gt; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.01.31.926345v1&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New paper co-authored by Tim Kacprowski</title>
-      <link>/post/schlosser_paper/</link>
+      <link>https://compsysmed.de/post/schlosser_paper/</link>
       <pubDate>Sun, 26 Jan 2020 00:00:00 +0100</pubDate>
-      <guid>/post/schlosser_paper/</guid>
+      <guid>https://compsysmed.de/post/schlosser_paper/</guid>
       <description>&lt;p&gt;A paper co-authored by Tim Kacprowski with the title &amp;ldquo;Genetic studies of urinary metabolites illuminate mechanisms of detoxification and excretion in humans&amp;rdquo; has just been published in &lt;a href=&#34;https://www.nature.com/articles/s41588-019-0567-8&#34; target=&#34;_blank&#34;&gt;Nature Genetics&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

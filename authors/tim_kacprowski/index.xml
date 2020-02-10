@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tim_kacprowski | ResGro CompSysMed</title>
-    <link>/authors/tim_kacprowski/</link>
-      <atom:link href="/authors/tim_kacprowski/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/tim_kacprowski/</link>
+      <atom:link href="https://compsysmed.de/authors/tim_kacprowski/index.xml" rel="self" type="application/rss+xml" />
     <description>tim_kacprowski</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>tim_kacprowski</title>
-      <link>/authors/tim_kacprowski/</link>
+      <link>https://compsysmed.de/authors/tim_kacprowski/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/tim_kacprowksi/</link>
+      <link>https://compsysmed.de/authors/tim_kacprowksi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/tim_kacprowksi/</guid>
+      <guid>https://compsysmed.de/authors/tim_kacprowksi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a research group leader at the Chair of Experimental Bioinformatics.  My
 group works on network biology, multi omics integration and machine learning in
 the context of systems medicine.  Previously, I spent some time in Odense,

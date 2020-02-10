@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>U. Volker | ResGro CompSysMed</title>
-    <link>/authors/u.-volker/</link>
-      <atom:link href="/authors/u.-volker/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/u.-volker/</link>
+      <atom:link href="https://compsysmed.de/authors/u.-volker/index.xml" rel="self" type="application/rss+xml" />
     <description>U. Volker</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>U. Volker</title>
-      <link>/authors/u.-volker/</link>
+      <link>https://compsysmed.de/authors/u.-volker/</link>
     </image>
     
     <item>
       <title>Exome Variant Analysis of Chronic Periodontitis in 2 Large Cohort Studies</title>
-      <link>/publication/kasbohm-et-al.-2016/</link>
+      <link>https://compsysmed.de/publication/kasbohm-et-al.-2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      <guid>/publication/kasbohm-et-al.-2016/</guid>
+      <guid>https://compsysmed.de/publication/kasbohm-et-al.-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Associations of circulating plasma microRNAs with age, body mass index and sex in a population-based study</title>
-      <link>/publication/ameling-et-al.-2015/</link>
+      <link>https://compsysmed.de/publication/ameling-et-al.-2015/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
-      <guid>/publication/ameling-et-al.-2015/</guid>
+      <guid>https://compsysmed.de/publication/ameling-et-al.-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of the EGFR interactome reveals associated protein complex networks and intracellular receptor dynamics</title>
-      <link>/publication/foerster-et-al.-2013/</link>
+      <link>https://compsysmed.de/publication/foerster-et-al.-2013/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
-      <guid>/publication/foerster-et-al.-2013/</guid>
+      <guid>https://compsysmed.de/publication/foerster-et-al.-2013/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ResGro CompSysMed</title>
-    <link>/authors/zakaria_louadi/</link>
-      <atom:link href="/authors/zakaria_louadi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/zakaria_louadi/</link>
+      <atom:link href="https://compsysmed.de/authors/zakaria_louadi/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>ResGro CompSysMed</title>
-      <link>/authors/zakaria_louadi/</link>
+      <link>https://compsysmed.de/authors/zakaria_louadi/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/zakaria_louadi/</link>
+      <link>https://compsysmed.de/authors/zakaria_louadi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/zakaria_louadi/</guid>
+      <guid>https://compsysmed.de/authors/zakaria_louadi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Ph.D student in the Chair of Experimental Bioinformatics involved in Sys_CARE project. I received a Bachelor&amp;rsquo;s degree in Electrical Engineering from Cadi Ayyad University in Marrakesh and a MSc with a focus on AI and deep learning from Jeonbuk National University in South Korea. In my master thesis, I worked on developing Deep Splicing Code a sequence-based tool for the classification of alternative splicing events. My research interests include machine learning and its applications in computational biology.&lt;/p&gt;
 </description>
     </item>

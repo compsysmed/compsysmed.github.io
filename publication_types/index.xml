@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | ResGro CompSysMed</title>
-    <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/publication_types/</link>
+      <atom:link href="https://compsysmed.de/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Publication_types</title>
-      <link>/publication_types/</link>
+      <link>https://compsysmed.de/publication_types/</link>
     </image>
     
     <item>
       <title>2</title>
-      <link>/publication_types/2/</link>
+      <link>https://compsysmed.de/publication_types/2/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
-      <guid>/publication_types/2/</guid>
+      <guid>https://compsysmed.de/publication_types/2/</guid>
       <description></description>
     </item>
     

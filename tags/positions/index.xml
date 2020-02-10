@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Positions | ResGro CompSysMed</title>
-    <link>/tags/positions/</link>
-      <atom:link href="/tags/positions/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/tags/positions/</link>
+      <atom:link href="https://compsysmed.de/tags/positions/index.xml" rel="self" type="application/rss+xml" />
     <description>Positions</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Positions</title>
-      <link>/tags/positions/</link>
+      <link>https://compsysmed.de/tags/positions/</link>
     </image>
     
     <item>
       <title>PhD Student position (65% E13, 3 years) available immediately</title>
-      <link>/post/phd01/</link>
+      <link>https://compsysmed.de/post/phd01/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
-      <guid>/post/phd01/</guid>
+      <guid>https://compsysmed.de/post/phd01/</guid>
       <description>
 
 &lt;h3 id=&#34;project-description&#34;&gt;Project description&lt;/h3&gt;

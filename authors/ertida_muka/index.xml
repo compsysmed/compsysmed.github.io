@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ResGro CompSysMed</title>
-    <link>/authors/ertida_muka/</link>
-      <atom:link href="/authors/ertida_muka/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/ertida_muka/</link>
+      <atom:link href="https://compsysmed.de/authors/ertida_muka/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>ResGro CompSysMed</title>
-      <link>/authors/ertida_muka/</link>
+      <link>https://compsysmed.de/authors/ertida_muka/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/ertida_muka/</link>
+      <link>https://compsysmed.de/authors/ertida_muka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/ertida_muka/</guid>
+      <guid>https://compsysmed.de/authors/ertida_muka/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m rounding up my Bioinformatics studies at LMU and TUM Munich with a bachelor&amp;rsquo;s thesis at the Chair of Experimental Bioinformatics. In collaboration with the Institute of Pathology in Munich, my thesis studies the detection of Copy Number Variants using off target data, generated from targeted next-generation sequencing.&lt;/p&gt;
 </description>
     </item>

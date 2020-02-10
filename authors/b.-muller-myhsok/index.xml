@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B. Muller-Myhsok | ResGro CompSysMed</title>
-    <link>/authors/b.-muller-myhsok/</link>
-      <atom:link href="/authors/b.-muller-myhsok/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://compsysmed.de/authors/b.-muller-myhsok/</link>
+      <atom:link href="https://compsysmed.de/authors/b.-muller-myhsok/index.xml" rel="self" type="application/rss+xml" />
     <description>B. Muller-Myhsok</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0200</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://compsysmed.de/img/icon-192.png</url>
       <title>B. Muller-Myhsok</title>
-      <link>/authors/b.-muller-myhsok/</link>
+      <link>https://compsysmed.de/authors/b.-muller-myhsok/</link>
     </image>
     
     <item>
       <title>Novel multiple sclerosis susceptibility loci implicated in epigenetic regulation</title>
-      <link>/publication/andlauer-et-al.-2016/</link>
+      <link>https://compsysmed.de/publication/andlauer-et-al.-2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
-      <guid>/publication/andlauer-et-al.-2016/</guid>
+      <guid>https://compsysmed.de/publication/andlauer-et-al.-2016/</guid>
       <description></description>
     </item>
     
