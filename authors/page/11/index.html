@@ -116,7 +116,7 @@
   <meta property="og:description" content="Resarch Group Computational Systems Medicine"><meta property="og:image" content="https://compsysmed.de/img/icon-192.png">
   <meta property="twitter:image" content="https://compsysmed.de/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-01-20T00:00:00&#43;01:00">
+    <meta property="og:updated_time" content="2020-02-03T00:00:00&#43;01:00">
   
 
   
@@ -175,7 +175,8 @@
 
       <div id="search-box">
         
-        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -362,6 +363,10 @@
         
 
         
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
 
         
 
@@ -416,6 +421,9 @@
     
     
       
+      <li><a href="https://compsysmed.de/authors/j.-d.-eichersup1/sup/">J. D. Eicher1</a></li>
+    
+      
       <li><a href="https://compsysmed.de/authors/m.-h.-chensup1/sup/">M. H. Chen1</a></li>
     
       
@@ -441,9 +449,6 @@
     
       
       <li><a href="https://compsysmed.de/authors/d.-bucksup1/sup/">D. Buck1</a></li>
-    
-      
-      <li><a href="https://compsysmed.de/authors/t.-f.-andlauersup1/sup/">T. F. Andlauer1</a></li>
     
   </ul>
 
@@ -498,11 +503,46 @@
     
 
     
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
 
     
     
 
     
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
 
     
     
@@ -512,7 +552,6 @@
 
     
     
-
     
     
     
@@ -520,12 +559,12 @@
     
     
     
+      
     
     
     
     
-    
-    <script src="/js/academic.min.c7ee3983cbc2c9c2985f1402566c0918.js"></script>
+    <script src="/js/academic.min.4e51017b38c7ebaadd7e25fc9503f88c.js"></script>
 
     
 

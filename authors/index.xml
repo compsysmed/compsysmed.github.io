@@ -5,7 +5,7 @@
     <link>https://compsysmed.de/authors/</link>
       <atom:link href="https://compsysmed.de/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Authors</title>
@@ -321,6 +321,14 @@ multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
       <guid>https://compsysmed.de/authors/zakaria_louadi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Ph.D student in the Chair of Experimental Bioinformatics involved in Sys_CARE project. I received a Bachelor&amp;rsquo;s degree in Electrical Engineering from Cadi Ayyad University in Marrakesh and a MSc with a focus on AI and deep learning from Jeonbuk National University in South Korea. In my master thesis, I worked on developing Deep Splicing Code a sequence-based tool for the classification of alternative splicing events. My research interests include machine learning and its applications in computational biology.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Posted by Fanny Rößler</title>
+      <link>https://compsysmed.de/authors/posted-by-fanny-ro%C3%9Fler/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/authors/posted-by-fanny-ro%C3%9Fler/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1409,17 +1417,6 @@ multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0200</pubDate>
       <guid>https://compsysmed.de/authors/d.-emig/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://compsysmed.de/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://compsysmed.de/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
-</description>
     </item>
     
     <item>

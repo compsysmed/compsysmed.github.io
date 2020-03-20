@@ -199,6 +199,12 @@
   </url>
   
   <url>
+    <loc>https://compsysmed.de/authors/</loc>
+    <lastmod>2020-02-03T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://compsysmed.de/tags/bicon/</loc>
     <lastmod>2020-02-03T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -207,6 +213,12 @@
   <url>
     <loc>https://compsysmed.de/post/bicon_paper/</loc>
     <lastmod>2020-02-03T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/posted-by-fanny-ro%C3%9Fler/</loc>
+    <lastmod>2020-02-03T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -273,12 +285,6 @@
   
   <url>
     <loc>https://compsysmed.de/authors/anna-kottgen/</loc>
-    <lastmod>2020-01-20T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/authors/</loc>
     <lastmod>2020-01-20T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1408,10 +1414,6 @@
   <url>
     <loc>https://compsysmed.de/publication/emig-et-al.-2011/</loc>
     <lastmod>2011-08-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/authors/admin/</loc>
   </url>
   
   <url>
