@@ -17,10 +17,7 @@
       <link>https://compsysmed.de/authors/judith_bernett/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://compsysmed.de/authors/judith_bernett/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been studying Bioinformatics at the Technical University of Munich and the LMU since
-October 2016. Recently, I joined the Chair of Experimental Bioinformatics for
-my bachelor&amp;rsquo;s thesis on putative biomarkers for major cardiovascular events in
-the SWISS-TAVI cohort.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;ve been studying Bioinformatics at the Technical University of Munich and the LMU since October 2016 and joined the Chair of Experimental Bioinformatics for my bachelor&amp;rsquo;s thesis. Here, I developed a risk score for mortality prediction in patients undergoing transcatheter aortic valve implantation. Currently, I am working as a HiWi at the chair to continue my work and deepen my knowledge on the subject of computational systems medicine.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,13 +32,19 @@ the SWISS-TAVI cohort.&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>https://compsysmed.de/authors/thomas_eska/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/thomas_eska/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a bioinformatics bachelor student at the TUM and the LMU. I joined the chair for experimental bioinformatics for my bachelor&amp;rsquo;s thesis on drug repurposing using transcription factor and drug perturbation data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://compsysmed.de/authors/tim_faro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://compsysmed.de/authors/tim_faro/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m in my third year of studies towards a bachelor&amp;rsquo;s degree in Bioinformatics
-at the LMU and Technical University of Munich. Recently, I joined the Chair of
-Experimental Bioinformatics in Weihenstephan for my bachelor&amp;rsquo;s thesis on deep
-learning for radiomics.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m in my first year towards a master&amp;rsquo;s degree in Bioinformatics at the LMU and Technical University of Munich. After finishing my bachelor&amp;rsquo;s thesis on breast cancer radiomics, I continued to work at the Chair of Experimental Bioinformatics in Weihenstephan as a student research assistant to further develop my thesis project.&lt;/p&gt;
 </description>
     </item>
     
@@ -71,6 +74,15 @@ the University of Bonn in Germany. In my master&amp;rsquo;s thesis, I used machi
 learning to identify chromatin features involved in immunity-related
 transcriptional reprogramming in plants. I am working under the REPO-TRIAL
 project to apply network analysis and machine learning for drug repurposing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://compsysmed.de/authors/valentin_hildemann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/valentin_hildemann/</guid>
+      <description>&lt;p&gt;Studying Bioinformatics since 2017 at the LMU and TUM in Munich I am now working towards my Bachelor&amp;rsquo;s degree. Therefore I joined the Chair of Experimental Bioinformatics for my Bachelor&amp;rsquo;s thesis on quantifying SNPs in mitochondrial DNA, as for me the mitochondrion is the most interesting cell organelle there is.&lt;/p&gt;
 </description>
     </item>
     
@@ -178,6 +190,15 @@ thesis on GWAS simulation with twin design.&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>https://compsysmed.de/authors/zakaria_louadi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/zakaria_louadi/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a Ph.D student in the Chair of Experimental Bioinformatics involved in Sys_CARE project. I received a Bachelor&amp;rsquo;s degree in Electrical Engineering from Cadi Ayyad University in Marrakesh and a MSc with a focus on AI and deep learning from Jeonbuk National University in South Korea. In my master thesis, I worked on developing Deep Splicing Code a sequence-based tool for the classification of alternative splicing events. My research interests include machine learning and its applications in computational biology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://compsysmed.de/authors/nils_mehrtens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://compsysmed.de/authors/nils_mehrtens/</guid>
@@ -224,13 +245,9 @@ purposes.&lt;/p&gt;
     <item>
       <title></title>
       <link>https://compsysmed.de/authors/fanny_roessler/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/authors/fanny_roessler/</guid>
-      <description>&lt;p&gt;I’m a Bioinformatics Bachelor student at the Technical University of Munich and
-the LMU since October 2016. I joined the Chair of Experimental Bioinformatics
-as a HiWi to gain more practical experience in bioinformatics. Since April 2019
-I am working on my Bachelor thesis about time-series gene expression data
-analysis of thyrotoxicosis using TiCoNE.&lt;/p&gt;
+      <description>&lt;p&gt;I’m a bioinformatics Master student at the Technical University of Munich and the LMU. I joined the Chair of Experimental Bioinformatics as a HiWi to gain more practical experience in bioinformatics during my Bachelor&amp;rsquo;s degree in October 2018, and am continuing this for my master. In March 2020 I finished my bachelor thesis on a thyrotoxicosis gene expression time series at the Chair. I will continue this and similar projects as a student research assistant.&lt;/p&gt;
 </description>
     </item>
     
@@ -312,23 +329,6 @@ scale. A bioinformatics course has inspired me to join the Chair of
 Experimental Bioinformatics for developing my thesis project, dealing with
 multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://compsysmed.de/authors/zakaria_louadi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://compsysmed.de/authors/zakaria_louadi/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a Ph.D student in the Chair of Experimental Bioinformatics involved in Sys_CARE project. I received a Bachelor&amp;rsquo;s degree in Electrical Engineering from Cadi Ayyad University in Marrakesh and a MSc with a focus on AI and deep learning from Jeonbuk National University in South Korea. In my master thesis, I worked on developing Deep Splicing Code a sequence-based tool for the classification of alternative splicing events. My research interests include machine learning and its applications in computational biology.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Posted by Fanny Rößler</title>
-      <link>https://compsysmed.de/authors/posted-by-fanny-ro%C3%9Fler/</link>
-      <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>https://compsysmed.de/authors/posted-by-fanny-ro%C3%9Fler/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -1424,6 +1424,14 @@ multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
       <link>https://compsysmed.de/authors/chit_tong_lio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://compsysmed.de/authors/chit_tong_lio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eska_thomas</title>
+      <link>https://compsysmed.de/authors/eska_thomas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/eska_thomas/</guid>
       <description></description>
     </item>
     

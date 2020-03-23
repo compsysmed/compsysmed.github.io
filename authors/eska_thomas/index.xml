@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eska_thomas | ResGro CompSysMed</title>
+    <link>https://compsysmed.de/authors/eska_thomas/</link>
+      <atom:link href="https://compsysmed.de/authors/eska_thomas/index.xml" rel="self" type="application/rss+xml" />
+    <description>eska_thomas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>eska_thomas</title>
+      <link>https://compsysmed.de/authors/eska_thomas/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://compsysmed.de/authors/thomas_eska/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/thomas_eska/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a bioinformatics bachelor student at the TUM and the LMU. I joined the chair for experimental bioinformatics for my bachelor&amp;rsquo;s thesis on drug repurposing using transcription factor and drug perturbation data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

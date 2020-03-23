@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>https://compsysmed.de/authors/thomas_eska/</loc>
+  </url>
+  
+  <url>
     <loc>https://compsysmed.de/authors/tim_faro/</loc>
   </url>
   
@@ -20,6 +24,10 @@
   
   <url>
     <loc>https://compsysmed.de/authors/gihanna_galindez/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/valentin_hildemann/</loc>
   </url>
   
   <url>
@@ -51,6 +59,10 @@
   </url>
   
   <url>
+    <loc>https://compsysmed.de/authors/zakaria_louadi/</loc>
+  </url>
+  
+  <url>
     <loc>https://compsysmed.de/authors/nils_mehrtens/</loc>
   </url>
   
@@ -68,6 +80,7 @@
   
   <url>
     <loc>https://compsysmed.de/authors/fanny_roessler/</loc>
+    <lastmod>2020-02-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -92,10 +105,6 @@
   
   <url>
     <loc>https://compsysmed.de/authors/lorenzo_viola/</loc>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/authors/zakaria_louadi/</loc>
   </url>
   
   <url>
@@ -213,12 +222,6 @@
   <url>
     <loc>https://compsysmed.de/post/bicon_paper/</loc>
     <lastmod>2020-02-03T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/authors/posted-by-fanny-ro%C3%9Fler/</loc>
-    <lastmod>2020-02-03T00:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1427,6 +1430,11 @@
   
   <url>
     <loc>https://compsysmed.de/authors/chit_tong_lio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/eska_thomas/</loc>
     <priority>0</priority>
   </url>
   
