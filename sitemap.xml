@@ -67,6 +67,10 @@
   </url>
   
   <url>
+    <loc>https://compsysmed.de/authors/amrei_menzel/</loc>
+  </url>
+  
+  <url>
     <loc>https://compsysmed.de/authors/ertida_muka/</loc>
   </url>
   
@@ -80,7 +84,7 @@
   
   <url>
     <loc>https://compsysmed.de/authors/fanny_roessler/</loc>
-    <lastmod>2020-02-03T00:00:00+01:00</lastmod>
+    <lastmod>2020-03-23T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -96,6 +100,10 @@
   </url>
   
   <url>
+    <loc>https://compsysmed.de/authors/anton_smirnov/</loc>
+  </url>
+  
+  <url>
     <loc>https://compsysmed.de/authors/andreas_stelzer/</loc>
   </url>
   
@@ -105,6 +113,40 @@
   
   <url>
     <loc>https://compsysmed.de/authors/lorenzo_viola/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/</loc>
+    <lastmod>2020-03-23T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/post/group_members_mar20/</loc>
+    <lastmod>2020-03-23T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/post/</loc>
+    <lastmod>2020-03-23T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/</loc>
+    <lastmod>2020-03-23T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/</loc>
+    <lastmod>2020-03-23T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/team/</loc>
+    <lastmod>2020-03-23T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -125,12 +167,6 @@
   </url>
   
   <url>
-    <loc>https://compsysmed.de/</loc>
-    <lastmod>2020-02-05T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://compsysmed.de/softress/</loc>
     <lastmod>2020-02-05T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -138,12 +174,6 @@
   
   <url>
     <loc>https://compsysmed.de/tags/software/</loc>
-    <lastmod>2020-02-05T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/</loc>
     <lastmod>2020-02-05T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -208,12 +238,6 @@
   </url>
   
   <url>
-    <loc>https://compsysmed.de/authors/</loc>
-    <lastmod>2020-02-03T00:00:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://compsysmed.de/tags/bicon/</loc>
     <lastmod>2020-02-03T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -221,11 +245,6 @@
   
   <url>
     <loc>https://compsysmed.de/post/bicon_paper/</loc>
-    <lastmod>2020-02-03T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/post/</loc>
     <lastmod>2020-02-03T00:00:00+01:00</lastmod>
   </url>
   
@@ -339,12 +358,6 @@
   <url>
     <loc>https://compsysmed.de/tags/talks/</loc>
     <lastmod>2019-08-13T15:46:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/team/</loc>
-    <lastmod>2019-04-24T23:01:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

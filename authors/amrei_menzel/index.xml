@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ResGro CompSysMed</title>
+    <link>https://compsysmed.de/authors/amrei_menzel/</link>
+      <atom:link href="https://compsysmed.de/authors/amrei_menzel/index.xml" rel="self" type="application/rss+xml" />
+    <description>ResGro CompSysMed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>ResGro CompSysMed</title>
+      <link>https://compsysmed.de/authors/amrei_menzel/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://compsysmed.de/authors/amrei_menzel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/amrei_menzel/</guid>
+      <description>&lt;p&gt;I am a master student of bioinformatics at TUM and LMU. I joined the Chair of Experimental Bioinformatics to write my master thesis in the field of genetic statistics, which is mainly about identifying linkage disequilibrium patterns in biological networks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

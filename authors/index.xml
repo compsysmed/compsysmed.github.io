@@ -5,7 +5,7 @@
     <link>https://compsysmed.de/authors/</link>
       <atom:link href="https://compsysmed.de/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Authors</title>
@@ -35,7 +35,7 @@
       <link>https://compsysmed.de/authors/thomas_eska/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://compsysmed.de/authors/thomas_eska/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a bioinformatics bachelor student at the TUM and the LMU. I joined the chair for experimental bioinformatics for my bachelor&amp;rsquo;s thesis on drug repurposing using transcription factor and drug perturbation data.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m a bioinformatics bachelor student at the TUM and the LMU. I joined the Chair of Experimental Bioinformatics for my bachelor&amp;rsquo;s thesis on drug repurposing using transcription factor and drug perturbation data.&lt;/p&gt;
 </description>
     </item>
     
@@ -211,6 +211,15 @@ thesis.&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>https://compsysmed.de/authors/amrei_menzel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/amrei_menzel/</guid>
+      <description>&lt;p&gt;I am a master student of bioinformatics at TUM and LMU. I joined the Chair of Experimental Bioinformatics to write my master thesis in the field of genetic statistics, which is mainly about identifying linkage disequilibrium patterns in biological networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://compsysmed.de/authors/ertida_muka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://compsysmed.de/authors/ertida_muka/</guid>
@@ -245,7 +254,7 @@ purposes.&lt;/p&gt;
     <item>
       <title></title>
       <link>https://compsysmed.de/authors/fanny_roessler/</link>
-      <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/authors/fanny_roessler/</guid>
       <description>&lt;p&gt;I’m a bioinformatics Master student at the Technical University of Munich and the LMU. I joined the Chair of Experimental Bioinformatics as a HiWi to gain more practical experience in bioinformatics during my Bachelor&amp;rsquo;s degree in October 2018, and am continuing this for my master. In March 2020 I finished my bachelor thesis on a thyrotoxicosis gene expression time series at the Chair. I will continue this and similar projects as a student research assistant.&lt;/p&gt;
 </description>
@@ -288,6 +297,15 @@ Munich an the Ludwig-Maximilian University. In October 2019 I joined the
 Chair of Experimental Bioinformatics in Weihenstephan to work on my
 bachelor thesis on the indentification of miRNA binding site enriched
 transcripts in The Cancer Genome Atlas.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://compsysmed.de/authors/anton_smirnov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/anton_smirnov/</guid>
+      <description>&lt;p&gt;Currently working on my MSc thesis (&amp;ldquo;Comparison of normalization and transformation methods in sequencing data analysis&amp;rdquo;), guided by Tim Kacprowski and Olga Tsoy. I hold BSc degrees in Bioinformatics (TUM and LMU), Chemistry and Biochemistry (LMU). As secondary projects, I also hack around with phage therapy and a couple of crowd-centered services.&lt;/p&gt;
 </description>
     </item>
     
