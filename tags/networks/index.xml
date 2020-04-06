@@ -5,12 +5,20 @@
     <link>https://compsysmed.de/tags/networks/</link>
       <atom:link href="https://compsysmed.de/tags/networks/index.xml" rel="self" type="application/rss+xml" />
     <description>networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>networks</title>
       <link>https://compsysmed.de/tags/networks/</link>
     </image>
+    
+    <item>
+      <title>Scellnetor</title>
+      <link>https://compsysmed.de/softress/scellnetor/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/softress/scellnetor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BiCoN</title>

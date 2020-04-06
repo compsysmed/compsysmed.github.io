@@ -5,12 +5,28 @@
     <link>https://compsysmed.de/publication/</link>
       <atom:link href="https://compsysmed.de/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://compsysmed.de/publication/</link>
     </image>
+    
+    <item>
+      <title>Comparative single-cell trajectory network enrichment identifies pseudo-temporal systems biology patterns in hematopoiesis and CD8 T-cell development</title>
+      <link>https://compsysmed.de/publication/groenning-et-al.-2020/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/groenning-et-al.-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiCoN: Network-constrained biclustering of patients and omics data</title>
+      <link>https://compsysmed.de/publication/lazareva-et-al.-2020/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/lazareva-et-al.-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Genetic Studies of Urinary Metabolites Illuminate Mechanisms of Detoxification and Excretion in Humans</title>

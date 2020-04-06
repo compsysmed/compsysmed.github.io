@@ -5,12 +5,21 @@
     <link>https://compsysmed.de/tags/publications/</link>
       <atom:link href="https://compsysmed.de/tags/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://compsysmed.de/tags/publications/</link>
     </image>
+    
+    <item>
+      <title>Scellnetor: Preprint released on bioRxiv</title>
+      <link>https://compsysmed.de/post/scellnetor_biorxiv/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/post/scellnetor_biorxiv/</guid>
+      <description>&lt;p&gt;The manuscript &amp;ldquo;Comparative single-cell trajectory network enrichment identifies pseudo-temporal systems biology patterns in hematopoiesis and CD8 T-cell development&amp;rdquo; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.02.021295v3&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;. It introduces the new tool Scellnator, a novel network-constrained scRNA-seq clustering application. An interactive online version is available at the &lt;a href=&#34;https://exbio.wzw.tum.de/scellnetor&#34; target=&#34;_blank&#34;&gt;Scellnetor website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BiCoN: Preprint released on bioRxiv</title>

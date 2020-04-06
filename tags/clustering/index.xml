@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clustering | ResGro CompSysMed</title>
+    <link>https://compsysmed.de/tags/clustering/</link>
+      <atom:link href="https://compsysmed.de/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
+    <description>clustering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>clustering</title>
+      <link>https://compsysmed.de/tags/clustering/</link>
+    </image>
+    
+    <item>
+      <title>Scellnetor</title>
+      <link>https://compsysmed.de/softress/scellnetor/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/softress/scellnetor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiCoN</title>
+      <link>https://compsysmed.de/softress/bicon/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/softress/bicon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

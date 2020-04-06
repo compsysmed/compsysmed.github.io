@@ -5,12 +5,20 @@
     <link>https://compsysmed.de/tags/systems-medicine/</link>
       <atom:link href="https://compsysmed.de/tags/systems-medicine/index.xml" rel="self" type="application/rss+xml" />
     <description>systems medicine</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2020 19:39:58 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>systems medicine</title>
       <link>https://compsysmed.de/tags/systems-medicine/</link>
     </image>
+    
+    <item>
+      <title>Scellnetor</title>
+      <link>https://compsysmed.de/softress/scellnetor/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/softress/scellnetor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sys_CARE</title>

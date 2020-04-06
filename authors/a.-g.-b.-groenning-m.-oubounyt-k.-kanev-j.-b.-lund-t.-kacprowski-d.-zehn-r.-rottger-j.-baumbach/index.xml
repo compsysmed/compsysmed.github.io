@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. G. B. Groenning, M. Oubounyt, K. Kanev, J. B. Lund,  **T. Kacprowski**, D. Zehn, R. Rottger,  J. Baumbach | ResGro CompSysMed</title>
+    <link>https://compsysmed.de/authors/a.-g.-b.-groenning-m.-oubounyt-k.-kanev-j.-b.-lund-t.-kacprowski-d.-zehn-r.-rottger-j.-baumbach/</link>
+      <atom:link href="https://compsysmed.de/authors/a.-g.-b.-groenning-m.-oubounyt-k.-kanev-j.-b.-lund-t.-kacprowski-d.-zehn-r.-rottger-j.-baumbach/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. G. B. Groenning, M. Oubounyt, K. Kanev, J. B. Lund,  **T. Kacprowski**, D. Zehn, R. Rottger,  J. Baumbach</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>A. G. B. Groenning, M. Oubounyt, K. Kanev, J. B. Lund,  **T. Kacprowski**, D. Zehn, R. Rottger,  J. Baumbach</title>
+      <link>https://compsysmed.de/authors/a.-g.-b.-groenning-m.-oubounyt-k.-kanev-j.-b.-lund-t.-kacprowski-d.-zehn-r.-rottger-j.-baumbach/</link>
+    </image>
+    
+    <item>
+      <title>Comparative single-cell trajectory network enrichment identifies pseudo-temporal systems biology patterns in hematopoiesis and CD8 T-cell development</title>
+      <link>https://compsysmed.de/publication/groenning-et-al.-2020/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/groenning-et-al.-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
