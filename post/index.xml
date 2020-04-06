@@ -17,7 +17,7 @@
       <link>https://compsysmed.de/post/scellnetor_biorxiv/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
       <guid>https://compsysmed.de/post/scellnetor_biorxiv/</guid>
-      <description>&lt;p&gt;The manuscript &amp;ldquo;Comparative single-cell trajectory network enrichment identifies pseudo-temporal systems biology patterns in hematopoiesis and CD8 T-cell development&amp;rdquo; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.02.021295v3&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;. It introduces the new tool Scellnator, a novel network-constrained scRNA-seq clustering application. An interactive online version is available at the &lt;a href=&#34;https://exbio.wzw.tum.de/scellnetor&#34; target=&#34;_blank&#34;&gt;Scellnetor website&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;The manuscript &amp;ldquo;Comparative single-cell trajectory network enrichment identifies pseudo-temporal systems biology patterns in hematopoiesis and CD8 T-cell development&amp;rdquo; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.02.021295v3&#34;&gt;bioRxiv&lt;/a&gt;. It introduces the new tool Scellnator, a novel network-constrained scRNA-seq clustering application. An interactive online version is available at the &lt;a href=&#34;https://exbio.wzw.tum.de/scellnetor&#34;&gt;Scellnetor website&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -27,9 +27,7 @@
       <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/post/group_members_mar20/</guid>
       <description>&lt;p&gt;Recently &lt;a href=&#34;https://compsysmed.de/authors/zakaria_louadi&#34;&gt;Zakaria Louadi&lt;/a&gt; joined the Computational Systems Medicine research group as a PhD student. &lt;a href=&#34;https://compsysmed.de/authors/rahel_caspar&#34;&gt;Rahel Caspar&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/amrei_menzel&#34;&gt;Amrei Menzel&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/ertida_muka&#34;&gt;Ertida Muka&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/evelyn_scheibling&#34;&gt;Evelyn Scheibling&lt;/a&gt; also joined the team to work on their theses for their bioinformatics degree.&lt;/p&gt;
-
 &lt;p&gt;&lt;a href=&#34;https://compsysmed.de/authors/christoph_kloppert&#34;&gt;Christoph Kloppert&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/pauline_nickel&#34;&gt;Pauline Nickel&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/andreas_stelzer&#34;&gt;Andreas Stelzer&lt;/a&gt; finished their Bachelor&amp;rsquo;s theses in February. &lt;a href=&#34;https://compsysmed.de/authors/judith_bernett&#34;&gt;Judith Bernett&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/tim_faro&#34;&gt;Tim Faro&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/fanny_roessler&#34;&gt;Fanny Rößler&lt;/a&gt; also completed their theses and decided to stay at the Chair as student research assistants during their Master studies. They will further develop their Bachelor projects and support the group&amp;rsquo;s current research. &lt;a href=&#34;https://compsysmed.de/authors/chit_lio&#34;&gt;Chit Tong Lio&lt;/a&gt; finished her Master&amp;rsquo;s thesis and will continue her studies as PhD student at the Chair.&lt;/p&gt;
-
 &lt;p&gt;We also are happy to welcome our new Bachelor students &lt;a href=&#34;https://compsysmed.de/authors/thomas_eska&#34;&gt;Thomas Eska&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/valentin_hildemann&#34;&gt;Valentin Hildemann&lt;/a&gt;, as well as &lt;a href=&#34;https://compsysmed.de/authors/anton_smirnov&#34;&gt;Anton Smirnov&lt;/a&gt;, who decided to join our group for his Master&amp;rsquo;s thesis.&lt;/p&gt;
 </description>
     </item>
@@ -39,7 +37,7 @@
       <link>https://compsysmed.de/post/bicon_paper/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/post/bicon_paper/</guid>
-      <description>&lt;p&gt;The manuscript &amp;ldquo;BiCoN: Network-constrained biclustering of patients and omics data&amp;rdquo; for the &lt;a href=&#34;https://www.exbio.wzw.tum.de/bicon/&#34; target=&#34;_blank&#34;&gt;BiCoN tool&lt;/a&gt; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.01.31.926345v1&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;The manuscript &amp;ldquo;BiCoN: Network-constrained biclustering of patients and omics data&amp;rdquo; for the &lt;a href=&#34;https://www.exbio.wzw.tum.de/bicon/&#34;&gt;BiCoN tool&lt;/a&gt; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.01.31.926345v1&#34;&gt;bioRxiv&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -48,8 +46,7 @@
       <link>https://compsysmed.de/post/flrt_software_release/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/post/flrt_software_release/</guid>
-      <description>&lt;p&gt;The C++ based implementation of the log-rank test is now available as a &lt;a href=&#34;https://pypi.org/project/fastlogranktest/&#34; target=&#34;_blank&#34;&gt;Python package&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/web/packages/fastlogranktest/index.html&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;The C++ based implementation of the log-rank test is now available as a &lt;a href=&#34;https://pypi.org/project/fastlogranktest/&#34;&gt;Python package&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/web/packages/fastlogranktest/index.html&#34;&gt;R package&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;More information about the tool can be found on the &lt;a href=&#34;https://compsysmed.de/softress/fast_log_rank_test/&#34;&gt;software page&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -59,7 +56,7 @@
       <link>https://compsysmed.de/post/schlosser_paper/</link>
       <pubDate>Sun, 26 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/post/schlosser_paper/</guid>
-      <description>&lt;p&gt;A paper co-authored by Tim Kacprowski with the title &amp;ldquo;Genetic studies of urinary metabolites illuminate mechanisms of detoxification and excretion in humans&amp;rdquo; has just been published in &lt;a href=&#34;https://www.nature.com/articles/s41588-019-0567-8&#34; target=&#34;_blank&#34;&gt;Nature Genetics&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;A paper co-authored by Tim Kacprowski with the title &amp;ldquo;Genetic studies of urinary metabolites illuminate mechanisms of detoxification and excretion in humans&amp;rdquo; has just been published in &lt;a href=&#34;https://www.nature.com/articles/s41588-019-0567-8&#34;&gt;Nature Genetics&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -68,9 +65,9 @@
       <link>https://compsysmed.de/post/pmbc2019/</link>
       <pubDate>Tue, 13 Aug 2019 15:46:00 +0200</pubDate>
       <guid>https://compsysmed.de/post/pmbc2019/</guid>
-      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;https://www.pmbc2019.com&#34; target=&#34;_blank&#34;&gt;2nd International Congress on Precision Medicine&lt;/a&gt;, taking place on
+      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;https://www.pmbc2019.com&#34;&gt;2nd International Congress on Precision Medicine&lt;/a&gt;, taking place on
 October 14-15 at the Hilton Munich City in Munich, Germany. The talk will be about
-&lt;a href=&#34;www.pmbc2019.com/multi-omics-characterization-of-induced-thyrotoxi.aspx&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Multi-Omics Characterization of Induced Thyrotoxicosis&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;www.pmbc2019.com/multi-omics-characterization-of-induced-thyrotoxi.aspx&#34;&gt;&amp;lsquo;&amp;lsquo;Multi-Omics Characterization of Induced Thyrotoxicosis&amp;rsquo;&#39;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -88,11 +85,11 @@ October 14-15 at the Hilton Munich City in Munich, Germany. The talk will be abo
       <link>https://compsysmed.de/post/igld2019/</link>
       <pubDate>Wed, 30 Jan 2019 13:39:00 +0100</pubDate>
       <guid>https://compsysmed.de/post/igld2019/</guid>
-      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.igld.de/?page_id=7078&#34; target=&#34;_blank&#34;&gt;Jahressymposium der
+      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.igld.de/?page_id=7078&#34;&gt;Jahressymposium der
 Interdisziplinären Gruppe für Labor und
 Durchflussyztometrie&lt;/a&gt;, taking place from
 March 07-08 at the Congress Center in Frankfurt. The talk will be about
-&amp;ldquo;Zirkulierende miRNAs als potentielle Biomarker&amp;rdquo;.&lt;/p&gt;
+&amp;lsquo;&amp;lsquo;Zirkulierende miRNAs als potentielle Biomarker&amp;rsquo;&#39;.&lt;/p&gt;
 </description>
     </item>
     
@@ -101,10 +98,10 @@ March 07-08 at the Congress Center in Frankfurt. The talk will be about
       <link>https://compsysmed.de/post/gq2019/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/post/gq2019/</guid>
-      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.qpcr-dpcr-ngs-2019.net&#34; target=&#34;_blank&#34;&gt;9th Gene Quantification
+      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.qpcr-dpcr-ngs-2019.net&#34;&gt;9th Gene Quantification
 Event qPCR dPCR &amp;amp; NGS 2019&lt;/a&gt;, taking place
 from March 18-22 at the TUM School of Life Sciences in Weihenstephan. The talk
-will be about &amp;ldquo;Circulating miRNAs as Potential Biomarkers&amp;rdquo;.&lt;/p&gt;
+will be about &amp;lsquo;&amp;lsquo;Circulating miRNAs as Potential Biomarkers&amp;rsquo;&#39;.&lt;/p&gt;
 </description>
     </item>
     
@@ -113,10 +110,7 @@ will be about &amp;ldquo;Circulating miRNAs as Potential Biomarkers&amp;rdquo;.&
       <link>https://compsysmed.de/post/phd01/</link>
       <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/post/phd01/</guid>
-      <description>
-
-&lt;h3 id=&#34;project-description&#34;&gt;Project description&lt;/h3&gt;
-
+      <description>&lt;h3 id=&#34;project-description&#34;&gt;Project description&lt;/h3&gt;
 &lt;p&gt;Diseases are currently defined and diagnosed based on symptoms (e.g.,
 hypertension, depression) or affected organs (e.g., heart failure,
 nephropathy). Clearly, there is a lack of mechanistic understanding of diseases
@@ -126,9 +120,7 @@ integrative bioinformatics methods leveraging network analysis, machine
 learning techniques and statistical approaches. Your work will focus on the
 development of graph-based machine learning techniques to identify disease- and
 patient-specific dysregulated subnetworks.&lt;/p&gt;
-
 &lt;h3 id=&#34;you-bring&#34;&gt;You bring&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Degree in bioinformatics, molecular biology, computer science, or similar&lt;/li&gt;
 &lt;li&gt;Solid understanding of molecular biology&lt;/li&gt;
@@ -138,17 +130,14 @@ patient-specific dysregulated subnetworks.&lt;/p&gt;
 &lt;li&gt;Fluency in English in written and spoken language&lt;/li&gt;
 &lt;li&gt;Strong commitment and motivation, ability to work collaboratively&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h3 id=&#34;we-offer&#34;&gt;We offer&lt;/h3&gt;
-
 &lt;p&gt;At the Chair of Experimental Bioinformatics you will find a supportive and
 productive research environment with a young, dynamic team of more than 20
 international researchers at different stages in their career and education.
 Furthermore, you will have the chance to participate in a large EU-wide project
 and travel to international meetings with other scientists.&lt;/p&gt;
-
 &lt;p&gt;Send your application including your &lt;strong&gt;CV&lt;/strong&gt;, &lt;strong&gt;grades&lt;/strong&gt;, &lt;strong&gt;publications&lt;/strong&gt; (if any) and a
-&lt;strong&gt;reference letter&lt;/strong&gt; to tim.kacprowski@wzw.tum.de.&lt;/p&gt;
+&lt;strong&gt;reference letter&lt;/strong&gt; to &lt;a href=&#34;mailto:tim.kacprowski@wzw.tum.de&#34;&gt;tim.kacprowski@wzw.tum.de&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

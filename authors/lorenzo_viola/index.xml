@@ -6,24 +6,5 @@
       <atom:link href="https://compsysmed.de/authors/lorenzo_viola/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://compsysmed.de/img/icon-192.png</url>
-      <title>ResGro CompSysMed</title>
-      <link>https://compsysmed.de/authors/lorenzo_viola/</link>
-    </image>
-    
-    <item>
-      <title></title>
-      <link>https://compsysmed.de/authors/lorenzo_viola/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://compsysmed.de/authors/lorenzo_viola/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a master student in Engineering in Computer Science at Sapienza University,
-Rome. My curriculum is focused on data mining and management, also on a large
-scale. A bioinformatics course has inspired me to join the Chair of
-Experimental Bioinformatics for developing my thesis project, dealing with
-multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

@@ -6,12 +6,6 @@
       <atom:link href="https://compsysmed.de/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0200</lastBuildDate>
-    <image>
-      <url>https://compsysmed.de/img/icon-192.png</url>
-      <title>Authors</title>
-      <link>https://compsysmed.de/authors/</link>
-    </image>
-    
     <item>
       <title></title>
       <link>https://compsysmed.de/authors/judith_bernett/</link>
@@ -1447,30 +1441,6 @@ multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
       <link>https://compsysmed.de/authors/d.-emig/</link>
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0200</pubDate>
       <guid>https://compsysmed.de/authors/d.-emig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chit_tong_lio</title>
-      <link>https://compsysmed.de/authors/chit_tong_lio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://compsysmed.de/authors/chit_tong_lio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eska_thomas</title>
-      <link>https://compsysmed.de/authors/eska_thomas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://compsysmed.de/authors/eska_thomas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tim_kacprowski</title>
-      <link>https://compsysmed.de/authors/tim_kacprowski/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://compsysmed.de/authors/tim_kacprowski/</guid>
       <description></description>
     </item>
     
