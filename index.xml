@@ -5,7 +5,7 @@
     <link>https://compsysmed.de/</link>
       <atom:link href="https://compsysmed.de/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 00:14:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>ResGro CompSysMed</title>
@@ -13,42 +13,589 @@
     </image>
     
     <item>
-      <title>Publications</title>
-      <link>https://compsysmed.de/publication/</link>
+      <title>CoVex: Our contribution to the fight against the pandemic</title>
+      <link>https://compsysmed.de/post/covex/</link>
+      <pubDate>Fri, 17 Apr 2020 00:14:00 +0200</pubDate>
+      <guid>https://compsysmed.de/post/covex/</guid>
+      <description>&lt;p&gt;To address the current Corona pandemic, the &lt;em&gt;Chair of Experimental Bioinormatics&lt;/em&gt; started a two week &amp;ldquo;ExBio vs. COVID-19&amp;rdquo; hackaton in cooperation with two TUM virologists. The &lt;em&gt;Computational Systems Medicine&lt;/em&gt; recearch group was represented by &lt;a href=&#34;https://compsysmed.de/authors/gihanna_galindez/&#34;&gt;Gihanna Galindez&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/tim_kacprowksi/&#34;&gt;Tim Kacprowski&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/sepideh_sadegh/&#34;&gt;Sepideh Sadegh&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;During the hackaton a first version of the tool &lt;a href=&#34;https://compsysmed.de/softress/covex/&#34;&gt;CoVex&lt;/a&gt; was developed, a drug repurposing tool that integrates virus-human interaction data for SARS-CoV-2 and SARS-CoV. It is now available as &lt;a href=&#34;https://exbio.wzw.tum.de/covex/&#34; target=&#34;_blank&#34;&gt;online analysis platform&lt;/a&gt;. Current development updates and research can also be found on the &lt;a href=&#34;https://www.baumbachlab.net/exbio-vs-covid-part-1&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Chair of Experimental Bioinormatics&lt;/em&gt;&lt;/a&gt; website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EpiGEN: Paper published in Bioinformatics</title>
+      <link>https://compsysmed.de/post/epigen_paper/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/post/epigen_paper/</guid>
+      <description>&lt;p&gt;The manuscript &amp;ldquo;EpiGEN: an epistasis simulation pipeline&amp;rdquo; for the &lt;a href=&#34;https://github.com/baumbachlab/epigen&#34; target=&#34;_blank&#34;&gt;EpiGEN tool&lt;/a&gt; is now available on &lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btaa245&#34; target=&#34;_blank&#34;&gt;Bioinformatics&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EpiGEN: an epistasis simulation pipeline</title>
+      <link>https://compsysmed.de/publication/blumenthal-et-al.-2020/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/blumenthal-et-al.-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoVex</title>
+      <link>https://compsysmed.de/softress/covex/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/softress/covex/</guid>
+      <description>&lt;p&gt;To address the pandemic of the Coronavirus Disease-2019 (COVID-19), drug repurposing can be a helpful approach since it offers the possibility to find alternative fields of application for already approved drugs. &lt;strong&gt;CoVex&lt;/strong&gt; is the first network and systems medicine online data analysis platform that integrates virus-human interaction data for SARS-CoV-2 and SARS-CoV. It is available as &lt;a href=&#34;https://exbio.wzw.tum.de/covex/&#34; target=&#34;_blank&#34;&gt;interactive webtool&lt;/a&gt;. More information and current updates can be found at the &lt;a href=&#34;https://www.baumbachlab.net/exbio-vs-covid-part-1&#34; target=&#34;_blank&#34;&gt;CoVex blog&lt;/a&gt; at the &lt;em&gt;Chair of Experimental Bioinformatics&lt;/em&gt; website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparative single-cell trajectory network enrichment identifies pseudo-temporal systems biology patterns in hematopoiesis and CD8 T-cell development</title>
+      <link>https://compsysmed.de/publication/groenning-et-al.-2020/</link>
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0200</pubDate>
-      <guid>https://compsysmed.de/publication/</guid>
+      <guid>https://compsysmed.de/publication/groenning-et-al.-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://compsysmed.de/post/</link>
+      <title>Scellnetor</title>
+      <link>https://compsysmed.de/softress/scellnetor/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
-      <guid>https://compsysmed.de/post/</guid>
-      <description></description>
+      <guid>https://compsysmed.de/softress/scellnetor/</guid>
+      <description>&lt;p&gt;Scellnetor is a novel scRNA-seq clustering tool. It allows the analysis of pseudo time-courses in single-cell sequencing data via a network-constrained clustering algorithm. Scellnetor is available as interactive online application at the &lt;a href=&#34;https://exbio.wzw.tum.de/scellnetor/&#34; target=&#34;_blank&#34;&gt;Scellnetor website&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Softresses</title>
-      <link>https://compsysmed.de/softress/</link>
+      <title>Scellnetor: Preprint released on bioRxiv</title>
+      <link>https://compsysmed.de/post/scellnetor_biorxiv/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
-      <guid>https://compsysmed.de/softress/</guid>
+      <guid>https://compsysmed.de/post/scellnetor_biorxiv/</guid>
+      <description>&lt;p&gt;The manuscript &amp;ldquo;Comparative single-cell trajectory network enrichment identifies pseudo-temporal systems biology patterns in hematopoiesis and CD8 T-cell development&amp;rdquo; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.02.021295v3&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;. It introduces the new tool Scellnator, a novel network-constrained scRNA-seq clustering application. An interactive online version is available at the &lt;a href=&#34;https://exbio.wzw.tum.de/scellnetor&#34; target=&#34;_blank&#34;&gt;Scellnetor website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BiCoN: Network-constrained biclustering of patients and omics data</title>
+      <link>https://compsysmed.de/publication/lazareva-et-al.-2020/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/lazareva-et-al.-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://compsysmed.de/project/</link>
+      <title>New Group Members and Alumni</title>
+      <link>https://compsysmed.de/post/group_members_mar20/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/post/group_members_mar20/</guid>
+      <description>&lt;p&gt;Recently &lt;a href=&#34;https://compsysmed.de/authors/zakaria_louadi&#34;&gt;Zakaria Louadi&lt;/a&gt; joined the Computational Systems Medicine research group as a PhD student. &lt;a href=&#34;https://compsysmed.de/authors/rahel_caspar&#34;&gt;Rahel Caspar&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/amrei_menzel&#34;&gt;Amrei Menzel&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/ertida_muka&#34;&gt;Ertida Muka&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/evelyn_scheibling&#34;&gt;Evelyn Scheibling&lt;/a&gt; also joined the team to work on their theses for their bioinformatics degree.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://compsysmed.de/authors/christoph_kloppert&#34;&gt;Christoph Kloppert&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/pauline_nickel&#34;&gt;Pauline Nickel&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/andreas_stelzer&#34;&gt;Andreas Stelzer&lt;/a&gt; finished their Bachelor&amp;rsquo;s theses in February. &lt;a href=&#34;https://compsysmed.de/authors/judith_bernett&#34;&gt;Judith Bernett&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/tim_faro&#34;&gt;Tim Faro&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/fanny_roessler&#34;&gt;Fanny Rößler&lt;/a&gt; also completed their theses and decided to stay at the Chair as student research assistants during their Master studies. They will further develop their Bachelor projects and support the group&amp;rsquo;s current research. &lt;a href=&#34;https://compsysmed.de/authors/chit_lio&#34;&gt;Chit Tong Lio&lt;/a&gt; finished her Master&amp;rsquo;s thesis and will continue her studies as PhD student at the Chair.&lt;/p&gt;
+
+&lt;p&gt;We also are happy to welcome our new Bachelor students &lt;a href=&#34;https://compsysmed.de/authors/thomas_eska&#34;&gt;Thomas Eska&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/valentin_hildemann&#34;&gt;Valentin Hildemann&lt;/a&gt;, as well as &lt;a href=&#34;https://compsysmed.de/authors/anton_smirnov&#34;&gt;Anton Smirnov&lt;/a&gt;, who decided to join our group for his Master&amp;rsquo;s thesis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EpiGEN</title>
+      <link>https://compsysmed.de/softress/epigen/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/softress/epigen/</guid>
+      <description>&lt;p&gt;EpiGEN is a Python pipeline for simulating epistasis data. It supports epistasis models of arbitrary size, which can be specified either extensionally or via parametrized risk models. Moreover, the user can specify the minor allele frequencies (MAFs) of both noise and disease SNPs, and provide a bias target distribution for the generated phenotypes to simulate observation bias. EpiGEN is freely available as python 3 package on &lt;a href=&#34;https://github.com/baumbachlab/epigen&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sys_CARE</title>
+      <link>https://compsysmed.de/project/sys_care/</link>
       <pubDate>Mon, 03 Feb 2020 19:39:58 +0200</pubDate>
-      <guid>https://compsysmed.de/project/</guid>
+      <guid>https://compsysmed.de/project/sys_care/</guid>
+      <description>&lt;p&gt;Sys_CARE - Systems Medicine Investigation of Alternative Splicing in Cardiac and Renal Diseases - is a collaborative research project between the Technical University of Munich, Greifswald University, and the Saarland University. The overall goal of the project is to elucidate the role of alternative splicing in cardiac and renal diseases using systems medicine approaches and molecular big data.&lt;/p&gt;
+
+&lt;p&gt;More information can be found &lt;a href=&#34;http://www.sys-med.de/en/consortia/sys-care/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BiCoN: Preprint released on bioRxiv</title>
+      <link>https://compsysmed.de/post/bicon_paper/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/post/bicon_paper/</guid>
+      <description>&lt;p&gt;The manuscript &amp;ldquo;BiCoN: Network-constrained biclustering of patients and omics data&amp;rdquo; for the &lt;a href=&#34;https://www.exbio.wzw.tum.de/bicon/&#34; target=&#34;_blank&#34;&gt;BiCoN tool&lt;/a&gt; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.01.31.926345v1&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast Log-Rank Test: New software released</title>
+      <link>https://compsysmed.de/post/flrt_software_release/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/post/flrt_software_release/</guid>
+      <description>&lt;p&gt;The C++ based implementation of the log-rank test is now available as a &lt;a href=&#34;https://pypi.org/project/fastlogranktest/&#34; target=&#34;_blank&#34;&gt;Python package&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/web/packages/fastlogranktest/index.html&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More information about the tool can be found on the &lt;a href=&#34;https://compsysmed.de/softress/fast_log_rank_test/&#34;&gt;software page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fastlogranktest</title>
+      <link>https://compsysmed.de/softress/fast_log_rank_test/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/softress/fast_log_rank_test/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://pypi.org/project/fastlogranktest/&#34; target=&#34;_blank&#34;&gt;Python package&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/web/packages/fastlogranktest/index.html&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; provide wrappers around the &lt;a href=&#34;https://github.com/compsysmed/fastlogranktest&#34; target=&#34;_blank&#34;&gt;C++ implementation&lt;/a&gt;. Both offer a fast alternative to the standard logrank-test implementations in the liflines.statistics and survival packages, respectively. All you have to do is install the package fastlogranktest and use the method of the same name with exactly the same usage. Furthermore, the Python package and R package provide threading to parallelize the logrank-tests and calculate them even faster with the multi_logrank_test()-method.&lt;/p&gt;
+
+&lt;p&gt;The C++ programm itself allows to specify arbitrary group classifications and survival data in a simple tab-separated text-file to run many tests with a single command. The result is provided as another text file with the p-values corresponding to the specified classifications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New paper co-authored by Tim Kacprowski</title>
+      <link>https://compsysmed.de/post/schlosser_paper/</link>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/post/schlosser_paper/</guid>
+      <description>&lt;p&gt;A paper co-authored by Tim Kacprowski with the title &amp;ldquo;Genetic studies of urinary metabolites illuminate mechanisms of detoxification and excretion in humans&amp;rdquo; has just been published in &lt;a href=&#34;https://www.nature.com/articles/s41588-019-0567-8&#34; target=&#34;_blank&#34;&gt;Nature Genetics&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genetic Studies of Urinary Metabolites Illuminate Mechanisms of Detoxification and Excretion in Humans</title>
+      <link>https://compsysmed.de/publication/schlosser-et-al.-2020/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/schlosser-et-al.-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://compsysmed.de/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://compsysmed.de/talk/</guid>
+      <title>BiCoN</title>
+      <link>https://compsysmed.de/softress/bicon/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/softress/bicon/</guid>
+      <description>&lt;p&gt;BiCoN is a powerful new systems medicine tool to stratify patients while elucidating the responsible disease mechanisms. BiCoN is a network-constrained biclustering approach which restricts biclusters to functionally related genes connected in molecular interaction networks and maximizes the expression difference between two subgroups of patients. A package for network-constrained biclustering of patients and multi-omics data can also be used. Download and installation instructions can be found &lt;a href=&#34;https://pypi.org/project/bicon/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talk at PMBC2019</title>
+      <link>https://compsysmed.de/post/pmbc2019/</link>
+      <pubDate>Tue, 13 Aug 2019 15:46:00 +0200</pubDate>
+      <guid>https://compsysmed.de/post/pmbc2019/</guid>
+      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;https://www.pmbc2019.com&#34; target=&#34;_blank&#34;&gt;2nd International Congress on Precision Medicine&lt;/a&gt;, taking place on
+October 14-15 at the Hilton Munich City in Munich, Germany. The talk will be about
+&lt;a href=&#34;www.pmbc2019.com/multi-omics-characterization-of-induced-thyrotoxi.aspx&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Multi-Omics Characterization of Induced Thyrotoxicosis&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The group grows</title>
+      <link>https://compsysmed.de/post/growth/</link>
+      <pubDate>Wed, 24 Apr 2019 23:01:00 +0200</pubDate>
+      <guid>https://compsysmed.de/post/growth/</guid>
+      <description>&lt;p&gt;Olga Tsoy will join as a Post-Doc. Amit Fenn and Gihanna Galindez join as PhD Students. Tim Faro, Judith Bernett, Andreas Stelzer, Christoph Kloppert and Fanny Rößler decided to do their Bachelor&amp;rsquo;s thesis with us.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impaired Exocrine Pancreatic Function Associates With Changes in Intestinal Microbiota Composition and Diversity</title>
+      <link>https://compsysmed.de/publication/frost-et-al.-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/frost-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REPO-TRIAL</title>
+      <link>https://compsysmed.de/project/repo-trial/</link>
+      <pubDate>Mon, 25 Feb 2019 19:39:58 +0200</pubDate>
+      <guid>https://compsysmed.de/project/repo-trial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FeatureCloud</title>
+      <link>https://compsysmed.de/project/featurecloud/</link>
+      <pubDate>Sun, 24 Feb 2019 19:39:58 +0200</pubDate>
+      <guid>https://compsysmed.de/project/featurecloud/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Network-Based Epistasis Detection</title>
+      <link>https://compsysmed.de/project/epistasis/</link>
+      <pubDate>Sat, 23 Feb 2019 19:39:58 +0200</pubDate>
+      <guid>https://compsysmed.de/project/epistasis/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>De novo network enrichment</title>
+      <link>https://compsysmed.de/project/denovonetenrich/</link>
+      <pubDate>Fri, 22 Feb 2019 19:39:58 +0200</pubDate>
+      <guid>https://compsysmed.de/project/denovonetenrich/</guid>
+      <description>
+
+&lt;h1 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talk at IGLD2019</title>
+      <link>https://compsysmed.de/post/igld2019/</link>
+      <pubDate>Wed, 30 Jan 2019 13:39:00 +0100</pubDate>
+      <guid>https://compsysmed.de/post/igld2019/</guid>
+      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.igld.de/?page_id=7078&#34; target=&#34;_blank&#34;&gt;Jahressymposium der
+Interdisziplinären Gruppe für Labor und
+Durchflussyztometrie&lt;/a&gt;, taking place from
+March 07-08 at the Congress Center in Frankfurt. The talk will be about
+&amp;ldquo;Zirkulierende miRNAs als potentielle Biomarker&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mendelian randomization evaluation of causal effects of fibrinogen on incident coronary heart disease.</title>
+      <link>https://compsysmed.de/publication/ward-caviness-et-al.-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/ward-caviness-et-al.-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited talk at GQ2019</title>
+      <link>https://compsysmed.de/post/gq2019/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/post/gq2019/</guid>
+      <description>&lt;p&gt;Tim Kacprowski has been invited to give a talk at the &lt;a href=&#34;http://www.qpcr-dpcr-ngs-2019.net&#34; target=&#34;_blank&#34;&gt;9th Gene Quantification
+Event qPCR dPCR &amp;amp; NGS 2019&lt;/a&gt;, taking place
+from March 18-22 at the TUM School of Life Sciences in Weihenstephan. The talk
+will be about &amp;ldquo;Circulating miRNAs as Potential Biomarkers&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD Student position (65% E13, 3 years) available immediately</title>
+      <link>https://compsysmed.de/post/phd01/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/post/phd01/</guid>
+      <description>
+
+&lt;h3 id=&#34;project-description&#34;&gt;Project description&lt;/h3&gt;
+
+&lt;p&gt;Diseases are currently defined and diagnosed based on symptoms (e.g.,
+hypertension, depression) or affected organs (e.g., heart failure,
+nephropathy). Clearly, there is a lack of mechanistic understanding of diseases
+that could improve disease definitions and allow for more informed selection
+and development of therapies. To achieve such understanding we develop
+integrative bioinformatics methods leveraging network analysis, machine
+learning techniques and statistical approaches. Your work will focus on the
+development of graph-based machine learning techniques to identify disease- and
+patient-specific dysregulated subnetworks.&lt;/p&gt;
+
+&lt;h3 id=&#34;you-bring&#34;&gt;You bring&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Degree in bioinformatics, molecular biology, computer science, or similar&lt;/li&gt;
+&lt;li&gt;Solid understanding of molecular biology&lt;/li&gt;
+&lt;li&gt;Experience with omics data analysis, graph analysis, machine learning&lt;/li&gt;
+&lt;li&gt;Strong programming skills in Python, R, and / or Java&lt;/li&gt;
+&lt;li&gt;Familiarity with Linux and HPC environments&lt;/li&gt;
+&lt;li&gt;Fluency in English in written and spoken language&lt;/li&gt;
+&lt;li&gt;Strong commitment and motivation, ability to work collaboratively&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;we-offer&#34;&gt;We offer&lt;/h3&gt;
+
+&lt;p&gt;At the Chair of Experimental Bioinformatics you will find a supportive and
+productive research environment with a young, dynamic team of more than 20
+international researchers at different stages in their career and education.
+Furthermore, you will have the chance to participate in a large EU-wide project
+and travel to international meetings with other scientists.&lt;/p&gt;
+
+&lt;p&gt;Send your application including your &lt;strong&gt;CV&lt;/strong&gt;, &lt;strong&gt;grades&lt;/strong&gt;, &lt;strong&gt;publications&lt;/strong&gt; (if any) and a
+&lt;strong&gt;reference letter&lt;/strong&gt; to tim.kacprowski@wzw.tum.de.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genome Analyses of &gt;200,000 Individuals Identify 58 Loci for Chronic Inflammation and Highlight Pathways that Link Inflammation and Complex Disorders</title>
+      <link>https://compsysmed.de/publication/ligthart-et-al.-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/ligthart-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A GWAS meta-analysis from 5 population-based cohorts implicates ion channel genes in the pathogenesis of irritable bowel syndrome</title>
+      <link>https://compsysmed.de/publication/bonfiglio-et-al.-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/bonfiglio-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empowering thyroid hormone research in human subjects using OMICs technologies</title>
+      <link>https://compsysmed.de/publication/pietzner-et-al.-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/pietzner-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA methylation as a mediator of HLA-DRB1*15:01 and a protective variant in multiple sclerosis</title>
+      <link>https://compsysmed.de/publication/kular-et-al.-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/kular-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional abdominal pain and discomfort (IBS) is not associated with faecal microbiota composition in the general population</title>
+      <link>https://compsysmed.de/publication/frost-et-al.-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/frost-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-analysis of human genome-microbiome association studies: the MiBioGen consortium initiative</title>
+      <link>https://compsysmed.de/publication/wang-et-al.-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/wang-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicroRNA analysis of gastroenteropancreatic neuroendocrine tumors and metastases</title>
+      <link>https://compsysmed.de/publication/zimmermann-et-al.-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/zimmermann-et-al.-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for Stress-like Alterations in the HPA-Axis in Women Taking Oral Contraceptives</title>
+      <link>https://compsysmed.de/publication/hertel-et-al.-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/hertel-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptome-Wide Analysis Identifies Novel Associations With Blood Pressure</title>
+      <link>https://compsysmed.de/publication/zeller-et-al.-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/zeller-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notions of similarity for systems biology models</title>
+      <link>https://compsysmed.de/publication/henkel-et-al.-2016/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/henkel-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profiling and validation of circulating microRNAs for cardiovascular events in patients presenting with ST-segment elevation myocardial infarction</title>
+      <link>https://compsysmed.de/publication/jakob-et-al.-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/jakob-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exome Variant Analysis of Chronic Periodontitis in 2 Large Cohort Studies</title>
+      <link>https://compsysmed.de/publication/kasbohm-et-al.-2016/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/kasbohm-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiethnic genome-wide meta-analysis of ectopic fat depots identifies loci associated with adipocyte development and differentiation</title>
+      <link>https://compsysmed.de/publication/chu-et-al.-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/chu-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plasma proteome and metabolome characterization of an experimental human thyrotoxicosis model</title>
+      <link>https://compsysmed.de/publication/pietzner-et-al.-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/pietzner-et-al.-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide association study of caffeine metabolites provides new insights to caffeine metabolism and dietary caffeine-consumption behavior</title>
+      <link>https://compsysmed.de/publication/cornelis-et-al.-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/cornelis-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene-gene Interaction Analyses for Atrial Fibrillation</title>
+      <link>https://compsysmed.de/publication/lin-et-al.-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/lin-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptome Alterations In X-Irradiated Human Gingiva Fibroblasts</title>
+      <link>https://compsysmed.de/publication/weissmann-et-al.-2016/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/weissmann-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exome Genotyping Identifies Pleiotropic Variants Associated with Red Blood Cell Traits</title>
+      <link>https://compsysmed.de/publication/chami-et-al.-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/chami-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-Scale Exome-wide Association Analysis Identifies Loci for White Blood Cell Traits and Pleiotropy with Immune-Mediated Diseases</title>
+      <link>https://compsysmed.de/publication/tajuddin-et-al.-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/tajuddin-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platelet-Related Variants Identified by Exomechip Meta-analysis in 157,293 Individuals</title>
+      <link>https://compsysmed.de/publication/eicher-et-al.-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/eicher-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel multiple sclerosis susceptibility loci implicated in epigenetic regulation</title>
+      <link>https://compsysmed.de/publication/andlauer-et-al.-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/andlauer-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring causal molecular networks: empirical assessment through a community-based effort</title>
+      <link>https://compsysmed.de/publication/hill-et-al.-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/hill-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene transcripts associated with muscle strength: a CHARGE meta-analysis of 7,781 persons</title>
+      <link>https://compsysmed.de/publication/pilling-et-al.-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/pilling-et-al.-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Associations of circulating plasma microRNAs with age, body mass index and sex in a population-based study</title>
+      <link>https://compsysmed.de/publication/ameling-et-al.-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/ameling-et-al.-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-Wide Association Study with Targeted and Non-targeted NMR Metabolomics Identifies 15 Novel Loci of Urinary Human Metabolic Individuality</title>
+      <link>https://compsysmed.de/publication/raffler-et-al.-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/raffler-et-al.-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rare and low-frequency variants and their association with plasma levels of fibrinogen, FVII, FVIII, and vWF</title>
+      <link>https://compsysmed.de/publication/huffman-et-al.-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/huffman-et-al.-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directional dominance on stature and cognition in diverse human populations</title>
+      <link>https://compsysmed.de/publication/joshi-et-al.-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/joshi-et-al.-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-omic signature of body weight change: results from a population-based cohort study</title>
+      <link>https://compsysmed.de/publication/wahl-et-al.-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/wahl-et-al.-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene Expression Profiling in the APP/PS1KI Mouse Model of Familial Alzheimer&#39;s Disease</title>
+      <link>https://compsysmed.de/publication/weissmann-et-al.-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/weissmann-et-al.-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cohort profile: Greifswald approach to individualized medicine (GANI_MED)</title>
+      <link>https://compsysmed.de/publication/grabe-et-al.-2014/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/grabe-et-al.-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciphering the molecular profile of plaques, memory decline and neuron loss in two mouse models for Alzheimer&#39;s disease by deep sequencing</title>
+      <link>https://compsysmed.de/publication/bouter-et-al.-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/bouter-et-al.-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of the EGFR interactome reveals associated protein complex networks and intracellular receptor dynamics</title>
+      <link>https://compsysmed.de/publication/foerster-et-al.-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/foerster-et-al.-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetworkPrioritizer: a versatile tool for network-based prioritization of candidate disease genes or other molecules</title>
+      <link>https://compsysmed.de/publication/kacprowski-et-al.-2012/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/kacprowski-et-al.-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent approaches to the prioritization of candidate disease genes</title>
+      <link>https://compsysmed.de/publication/doncheva-et-al.-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/doncheva-et-al.-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and analyzing tissue specificity of human genes and protein complexes</title>
+      <link>https://compsysmed.de/publication/emig-et-al.-2011/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/emig-et-al.-2011/</guid>
       <description></description>
     </item>
     

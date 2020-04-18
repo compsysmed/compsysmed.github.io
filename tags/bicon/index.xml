@@ -17,7 +17,7 @@
       <link>https://compsysmed.de/post/bicon_paper/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/post/bicon_paper/</guid>
-      <description>&lt;p&gt;The manuscript &amp;ldquo;BiCoN: Network-constrained biclustering of patients and omics data&amp;rdquo; for the &lt;a href=&#34;https://www.exbio.wzw.tum.de/bicon/&#34;&gt;BiCoN tool&lt;/a&gt; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.01.31.926345v1&#34;&gt;bioRxiv&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;The manuscript &amp;ldquo;BiCoN: Network-constrained biclustering of patients and omics data&amp;rdquo; for the &lt;a href=&#34;https://www.exbio.wzw.tum.de/bicon/&#34; target=&#34;_blank&#34;&gt;BiCoN tool&lt;/a&gt; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.01.31.926345v1&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +26,8 @@
       <link>https://compsysmed.de/softress/bicon/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/softress/bicon/</guid>
-      <description></description>
+      <description>&lt;p&gt;BiCoN is a powerful new systems medicine tool to stratify patients while elucidating the responsible disease mechanisms. BiCoN is a network-constrained biclustering approach which restricts biclusters to functionally related genes connected in molecular interaction networks and maximizes the expression difference between two subgroups of patients. A package for network-constrained biclustering of patients and multi-omics data can also be used. Download and installation instructions can be found &lt;a href=&#34;https://pypi.org/project/bicon/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

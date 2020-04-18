@@ -6,5 +6,20 @@
       <atom:link href="https://compsysmed.de/authors/tim_faro/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>ResGro CompSysMed</title>
+      <link>https://compsysmed.de/authors/tim_faro/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://compsysmed.de/authors/tim_faro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/tim_faro/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m in my first year towards a master&amp;rsquo;s degree in Bioinformatics at the LMU and Technical University of Munich. After finishing my bachelor&amp;rsquo;s thesis on breast cancer radiomics, I continued to work at the Chair of Experimental Bioinformatics in Weihenstephan as a student research assistant to further develop my thesis project.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

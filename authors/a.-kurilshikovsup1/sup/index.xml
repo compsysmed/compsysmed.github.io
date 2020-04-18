@@ -6,6 +6,12 @@
       <atom:link href="https://compsysmed.de/authors/a.-kurilshikovsup1/sup/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Kurilshikov&lt;sup&gt;1&lt;/sup&gt;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>A. Kurilshikov&lt;sup&gt;1&lt;/sup&gt;</title>
+      <link>https://compsysmed.de/authors/a.-kurilshikovsup1/sup/</link>
+    </image>
+    
     <item>
       <title>Meta-analysis of human genome-microbiome association studies: the MiBioGen consortium initiative</title>
       <link>https://compsysmed.de/publication/wang-et-al.-2018/</link>

@@ -6,5 +6,23 @@
       <atom:link href="https://compsysmed.de/authors/niklas_probul/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>ResGro CompSysMed</title>
+      <link>https://compsysmed.de/authors/niklas_probul/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://compsysmed.de/authors/niklas_probul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/niklas_probul/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a bachelor student in Bioinformatics at TUM and LMU in Munich and recently
+joined the Chair of Experimental Bioinformatics in Weihenstephan for my
+bachelor thesis on the harmonisation of GWAS data for machine learning
+purposes.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

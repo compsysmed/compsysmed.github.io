@@ -6,6 +6,12 @@
       <atom:link href="https://compsysmed.de/authors/l.-kular/index.xml" rel="self" type="application/rss+xml" />
     <description>L. Kular</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>L. Kular</title>
+      <link>https://compsysmed.de/authors/l.-kular/</link>
+    </image>
+    
     <item>
       <title>DNA methylation as a mediator of HLA-DRB1*15:01 and a protective variant in multiple sclerosis</title>
       <link>https://compsysmed.de/publication/kular-et-al.-2018/</link>

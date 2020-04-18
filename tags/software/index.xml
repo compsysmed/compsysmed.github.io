@@ -5,7 +5,7 @@
     <link>https://compsysmed.de/tags/software/</link>
       <atom:link href="https://compsysmed.de/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <description>Software</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 00:14:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Software</title>
@@ -13,11 +13,32 @@
     </image>
     
     <item>
+      <title>CoVex: Our contribution to the fight against the pandemic</title>
+      <link>https://compsysmed.de/post/covex/</link>
+      <pubDate>Fri, 17 Apr 2020 00:14:00 +0200</pubDate>
+      <guid>https://compsysmed.de/post/covex/</guid>
+      <description>&lt;p&gt;To address the current Corona pandemic, the &lt;em&gt;Chair of Experimental Bioinormatics&lt;/em&gt; started a two week &amp;ldquo;ExBio vs. COVID-19&amp;rdquo; hackaton in cooperation with two TUM virologists. The &lt;em&gt;Computational Systems Medicine&lt;/em&gt; recearch group was represented by &lt;a href=&#34;https://compsysmed.de/authors/gihanna_galindez/&#34;&gt;Gihanna Galindez&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/tim_kacprowksi/&#34;&gt;Tim Kacprowski&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/sepideh_sadegh/&#34;&gt;Sepideh Sadegh&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;During the hackaton a first version of the tool &lt;a href=&#34;https://compsysmed.de/softress/covex/&#34;&gt;CoVex&lt;/a&gt; was developed, a drug repurposing tool that integrates virus-human interaction data for SARS-CoV-2 and SARS-CoV. It is now available as &lt;a href=&#34;https://exbio.wzw.tum.de/covex/&#34; target=&#34;_blank&#34;&gt;online analysis platform&lt;/a&gt;. Current development updates and research can also be found on the &lt;a href=&#34;https://www.baumbachlab.net/exbio-vs-covid-part-1&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Chair of Experimental Bioinormatics&lt;/em&gt;&lt;/a&gt; website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CoVex</title>
+      <link>https://compsysmed.de/softress/covex/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/softress/covex/</guid>
+      <description>&lt;p&gt;To address the pandemic of the Coronavirus Disease-2019 (COVID-19), drug repurposing can be a helpful approach since it offers the possibility to find alternative fields of application for already approved drugs. &lt;strong&gt;CoVex&lt;/strong&gt; is the first network and systems medicine online data analysis platform that integrates virus-human interaction data for SARS-CoV-2 and SARS-CoV. It is available as &lt;a href=&#34;https://exbio.wzw.tum.de/covex/&#34; target=&#34;_blank&#34;&gt;interactive webtool&lt;/a&gt;. More information and current updates can be found at the &lt;a href=&#34;https://www.baumbachlab.net/exbio-vs-covid-part-1&#34; target=&#34;_blank&#34;&gt;CoVex blog&lt;/a&gt; at the &lt;em&gt;Chair of Experimental Bioinformatics&lt;/em&gt; website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Scellnetor</title>
       <link>https://compsysmed.de/softress/scellnetor/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
       <guid>https://compsysmed.de/softress/scellnetor/</guid>
-      <description></description>
+      <description>&lt;p&gt;Scellnetor is a novel scRNA-seq clustering tool. It allows the analysis of pseudo time-courses in single-cell sequencing data via a network-constrained clustering algorithm. Scellnetor is available as interactive online application at the &lt;a href=&#34;https://exbio.wzw.tum.de/scellnetor/&#34; target=&#34;_blank&#34;&gt;Scellnetor website&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +46,8 @@
       <link>https://compsysmed.de/softress/epigen/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/softress/epigen/</guid>
-      <description></description>
+      <description>&lt;p&gt;EpiGEN is a Python pipeline for simulating epistasis data. It supports epistasis models of arbitrary size, which can be specified either extensionally or via parametrized risk models. Moreover, the user can specify the minor allele frequencies (MAFs) of both noise and disease SNPs, and provide a bias target distribution for the generated phenotypes to simulate observation bias. EpiGEN is freely available as python 3 package on &lt;a href=&#34;https://github.com/baumbachlab/epigen&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +55,8 @@
       <link>https://compsysmed.de/post/flrt_software_release/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/post/flrt_software_release/</guid>
-      <description>&lt;p&gt;The C++ based implementation of the log-rank test is now available as a &lt;a href=&#34;https://pypi.org/project/fastlogranktest/&#34;&gt;Python package&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/web/packages/fastlogranktest/index.html&#34;&gt;R package&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;The C++ based implementation of the log-rank test is now available as a &lt;a href=&#34;https://pypi.org/project/fastlogranktest/&#34; target=&#34;_blank&#34;&gt;Python package&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/web/packages/fastlogranktest/index.html&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt;.&lt;/p&gt;
+
 &lt;p&gt;More information about the tool can be found on the &lt;a href=&#34;https://compsysmed.de/softress/fast_log_rank_test/&#34;&gt;software page&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -43,7 +66,8 @@
       <link>https://compsysmed.de/softress/fast_log_rank_test/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/softress/fast_log_rank_test/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://pypi.org/project/fastlogranktest/&#34;&gt;Python package&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/web/packages/fastlogranktest/index.html&#34;&gt;R package&lt;/a&gt; provide wrappers around the &lt;a href=&#34;https://github.com/compsysmed/fastlogranktest&#34;&gt;C++ implementation&lt;/a&gt;. Both offer a fast alternative to the standard logrank-test implementations in the liflines.statistics and survival packages, respectively. All you have to do is install the package fastlogranktest and use the method of the same name with exactly the same usage. Furthermore, the Python package and R package provide threading to parallelize the logrank-tests and calculate them even faster with the multi_logrank_test()-method.&lt;/p&gt;
+      <description>&lt;p&gt;The &lt;a href=&#34;https://pypi.org/project/fastlogranktest/&#34; target=&#34;_blank&#34;&gt;Python package&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/web/packages/fastlogranktest/index.html&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; provide wrappers around the &lt;a href=&#34;https://github.com/compsysmed/fastlogranktest&#34; target=&#34;_blank&#34;&gt;C++ implementation&lt;/a&gt;. Both offer a fast alternative to the standard logrank-test implementations in the liflines.statistics and survival packages, respectively. All you have to do is install the package fastlogranktest and use the method of the same name with exactly the same usage. Furthermore, the Python package and R package provide threading to parallelize the logrank-tests and calculate them even faster with the multi_logrank_test()-method.&lt;/p&gt;
+
 &lt;p&gt;The C++ programm itself allows to specify arbitrary group classifications and survival data in a simple tab-separated text-file to run many tests with a single command. The result is provided as another text file with the p-values corresponding to the specified classifications.&lt;/p&gt;
 </description>
     </item>
@@ -53,7 +77,8 @@
       <link>https://compsysmed.de/softress/bicon/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/softress/bicon/</guid>
-      <description></description>
+      <description>&lt;p&gt;BiCoN is a powerful new systems medicine tool to stratify patients while elucidating the responsible disease mechanisms. BiCoN is a network-constrained biclustering approach which restricts biclusters to functionally related genes connected in molecular interaction networks and maximizes the expression difference between two subgroups of patients. A package for network-constrained biclustering of patients and multi-omics data can also be used. Download and installation instructions can be found &lt;a href=&#34;https://pypi.org/project/bicon/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

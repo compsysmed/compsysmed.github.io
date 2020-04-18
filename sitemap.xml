@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -84,7 +84,7 @@
   
   <url>
     <loc>https://compsysmed.de/authors/fanny_roessler/</loc>
-    <lastmod>2020-04-03T00:00:00+02:00</lastmod>
+    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
   </url>
   
   <url>
@@ -116,18 +116,135 @@
   </url>
   
   <url>
+    <loc>https://compsysmed.de/authors/</loc>
+    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/covex/</loc>
+    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/post/covex/</loc>
+    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/post/</loc>
+    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/</loc>
+    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/software/</loc>
+    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/</loc>
+    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/epigen/</loc>
+    <lastmod>2020-04-16T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/post/epigen_paper/</loc>
+    <lastmod>2020-04-16T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/publications/</loc>
+    <lastmod>2020-04-16T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication_types/2/</loc>
+    <lastmod>2020-04-14T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/d.b.-blumenthal-l.-viola-and-m.-list-j.-baumbach-p.-tieri-t.-kacprowski/</loc>
+    <lastmod>2020-04-14T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication/blumenthal-et-al.-2020/</loc>
+    <lastmod>2020-04-14T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication_types/</loc>
+    <lastmod>2020-04-14T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication/</loc>
+    <lastmod>2020-04-14T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/softress/covex/</loc>
+    <lastmod>2020-04-11T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/corona/</loc>
+    <lastmod>2020-04-11T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/softress/</loc>
+    <lastmod>2020-04-11T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/drug-repurposing/</loc>
+    <lastmod>2020-04-11T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/networks/</loc>
+    <lastmod>2020-04-11T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/systems-medicine/</loc>
+    <lastmod>2020-04-11T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://compsysmed.de/publication_types/3/</loc>
     <lastmod>2020-04-04T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/a.-g.-b.-groenning-m.-oubounyt-k.-kanev-j.-b.-lund-t.-kacprowski-d.-zehn-r.-rottger-j.-baumbach/</loc>
     <lastmod>2020-04-04T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/authors/</loc>
-    <lastmod>2020-04-04T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -136,43 +253,9 @@
   </url>
   
   <url>
-    <loc>https://compsysmed.de/publication_types/</loc>
-    <lastmod>2020-04-04T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/publication/</loc>
-    <lastmod>2020-04-04T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/</loc>
-    <lastmod>2020-04-04T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/clustering/</loc>
-    <lastmod>2020-04-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/networks/</loc>
-    <lastmod>2020-04-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/post/</loc>
-    <lastmod>2020-04-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/publications/</loc>
-    <lastmod>2020-04-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://compsysmed.de/tags/scellnetor/</loc>
     <lastmod>2020-04-03T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -186,28 +269,15 @@
   </url>
   
   <url>
+    <loc>https://compsysmed.de/tags/clustering/</loc>
+    <lastmod>2020-04-03T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://compsysmed.de/tags/single-cell/</loc>
     <lastmod>2020-04-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/softress/</loc>
-    <lastmod>2020-04-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/software/</loc>
-    <lastmod>2020-04-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/systems-medicine/</loc>
-    <lastmod>2020-04-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/</loc>
-    <lastmod>2020-04-03T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -218,6 +288,7 @@
   <url>
     <loc>https://compsysmed.de/authors/o.-lazarevah.-van-do-hoan-s.-canzar-k.-yuan-j.-baumbach-p.-tieri-t.-kacprowski-m.-list/</loc>
     <lastmod>2020-03-25T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -228,11 +299,7 @@
   <url>
     <loc>https://compsysmed.de/tags/team/</loc>
     <lastmod>2020-03-23T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/epigen/</loc>
-    <lastmod>2020-02-05T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -241,48 +308,39 @@
   </url>
   
   <url>
-    <loc>https://compsysmed.de/tags/epistasis/</loc>
+    <loc>https://compsysmed.de/tags/python/</loc>
     <lastmod>2020-02-05T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://compsysmed.de/tags/python/</loc>
+    <loc>https://compsysmed.de/tags/epistasis/</loc>
     <lastmod>2020-02-05T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/tags/simulation/</loc>
     <lastmod>2020-02-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/alternative-splicing/</loc>
-    <lastmod>2020-02-03T19:39:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/cardiac-diseases/</loc>
-    <lastmod>2020-02-03T19:39:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/project/</loc>
-    <lastmod>2020-02-03T19:39:58+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/tags/projects/</loc>
     <lastmod>2020-02-03T19:39:58+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://compsysmed.de/tags/renal-diseases/</loc>
+    <loc>https://compsysmed.de/project/</loc>
     <lastmod>2020-02-03T19:39:58+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/tags/sys_care/</loc>
     <lastmod>2020-02-03T19:39:58+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -291,8 +349,27 @@
   </url>
   
   <url>
+    <loc>https://compsysmed.de/tags/alternative-splicing/</loc>
+    <lastmod>2020-02-03T19:39:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/cardiac-diseases/</loc>
+    <lastmod>2020-02-03T19:39:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/renal-diseases/</loc>
+    <lastmod>2020-02-03T19:39:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://compsysmed.de/tags/bicon/</loc>
     <lastmod>2020-02-03T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -303,6 +380,7 @@
   <url>
     <loc>https://compsysmed.de/tags/c&#43;&#43;/</loc>
     <lastmod>2020-01-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -313,6 +391,7 @@
   <url>
     <loc>https://compsysmed.de/tags/fastlogranktest/</loc>
     <lastmod>2020-01-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -323,11 +402,13 @@
   <url>
     <loc>https://compsysmed.de/tags/r/</loc>
     <lastmod>2020-01-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/tags/statistics/</loc>
     <lastmod>2020-01-30T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -338,16 +419,13 @@
   <url>
     <loc>https://compsysmed.de/authors/et-al./</loc>
     <lastmod>2020-01-20T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/publication_types/2/</loc>
-    <lastmod>2020-01-20T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/anna-kottgen/</loc>
     <lastmod>2020-01-20T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -358,6 +436,7 @@
   <url>
     <loc>https://compsysmed.de/authors/pascal-schlosser/</loc>
     <lastmod>2020-01-20T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -373,6 +452,7 @@
   <url>
     <loc>https://compsysmed.de/tags/talks/</loc>
     <lastmod>2019-08-13T15:46:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -383,11 +463,13 @@
   <url>
     <loc>https://compsysmed.de/authors/t.-kacprowskisup1/sup/</loc>
     <lastmod>2019-03-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/f.-frostsup1/sup/</loc>
     <lastmod>2019-03-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -398,21 +480,13 @@
   <url>
     <loc>https://compsysmed.de/authors/m.-m.-lerch/</loc>
     <lastmod>2019-03-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/drug-repurposing/</loc>
-    <lastmod>2019-02-25T19:39:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/machine-learning/</loc>
-    <lastmod>2019-02-25T19:39:58+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/tags/repo-trial/</loc>
     <lastmod>2019-02-25T19:39:58+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -421,8 +495,15 @@
   </url>
   
   <url>
+    <loc>https://compsysmed.de/tags/machine-learning/</loc>
+    <lastmod>2019-02-25T19:39:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://compsysmed.de/tags/featurecloud/</loc>
     <lastmod>2019-02-24T19:39:58+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -433,11 +514,13 @@
   <url>
     <loc>https://compsysmed.de/tags/gpu/</loc>
     <lastmod>2019-02-23T19:39:58+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/tags/gwas/</loc>
     <lastmod>2019-02-23T19:39:58+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -453,6 +536,7 @@
   <url>
     <loc>https://compsysmed.de/tags/network-enrichment/</loc>
     <lastmod>2019-02-22T19:39:58+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -463,11 +547,13 @@
   <url>
     <loc>https://compsysmed.de/authors/alanna-c.-morrison/</loc>
     <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/cavin-k.-ward-caviness/</loc>
     <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -488,16 +574,19 @@
   <url>
     <loc>https://compsysmed.de/tags/positions/</loc>
     <lastmod>2018-11-29T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/a.-dehghansup2/sup/</loc>
     <lastmod>2018-11-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/b.-z.-alizadehsup2/sup/</loc>
     <lastmod>2018-11-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -508,6 +597,7 @@
   <url>
     <loc>https://compsysmed.de/authors/s.-ligthart/</loc>
     <lastmod>2018-11-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -518,16 +608,19 @@
   <url>
     <loc>https://compsysmed.de/authors/f.-bonfiglio/</loc>
     <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/m.-damato/</loc>
     <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/t.-kacprowski/</loc>
     <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -538,26 +631,31 @@
   <url>
     <loc>https://compsysmed.de/authors/m.-pietzner/</loc>
     <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/n.-friedrich/</loc>
     <lastmod>2018-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/a.-kurilshikovsup1/sup/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/a.-zhernakova/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/c.-thornssup2/sup/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -568,6 +666,7 @@
   <url>
     <loc>https://compsysmed.de/authors/f.-frost/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -578,26 +677,31 @@
   <url>
     <loc>https://compsysmed.de/authors/g.-brabantsup2/sup/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/j.-kniefsup1/sup/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/j.-wangsup1/sup/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/l.-kular/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/m.-jagodic/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -613,21 +717,25 @@
   <url>
     <loc>https://compsysmed.de/authors/n.-zimmermannsup1/sup/</loc>
     <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/c.-herdersup2/sup/</loc>
     <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/c.-mullersup1/sup/</loc>
     <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/c.-schurmannsup1/sup/</loc>
     <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -638,36 +746,43 @@
   <url>
     <loc>https://compsysmed.de/authors/g.-homuthsup2/sup/</loc>
     <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/h.-j.-grabe/</loc>
     <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/j.-hertel/</loc>
     <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/k.-schrammsup1/sup/</loc>
     <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/s.-blankenbergsup2/sup/</loc>
     <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/s.-kwonsup1/sup/</loc>
     <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/t.-zellersup1/sup/</loc>
     <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -678,16 +793,19 @@
   <url>
     <loc>https://compsysmed.de/authors/x.-guosup2/sup/</loc>
     <lastmod>2017-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/c.-knupfer/</loc>
     <lastmod>2017-09-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/d.-waltemath/</loc>
     <lastmod>2017-09-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -698,21 +816,25 @@
   <url>
     <loc>https://compsysmed.de/authors/r.-henkel/</loc>
     <lastmod>2017-09-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/r.-hoehndorf/</loc>
     <lastmod>2017-09-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/w.-liebermeister/</loc>
     <lastmod>2017-09-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/p.-jakob/</loc>
     <lastmod>2017-02-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -723,41 +845,49 @@
   <url>
     <loc>https://compsysmed.de/authors/u.-landmesser/</loc>
     <lastmod>2017-02-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/a.-petersmann/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/a.-teumer/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/a.-y.-chu/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/b.-engelmann/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/b.-holtfreter/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/c.-s.-fox/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/e.-kasbohm/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -768,11 +898,13 @@
   <url>
     <loc>https://compsysmed.de/authors/g.-homuth/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/h.-volzke/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -783,6 +915,7 @@
   <url>
     <loc>https://compsysmed.de/authors/p.-meisel/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -793,26 +926,31 @@
   <url>
     <loc>https://compsysmed.de/authors/r.-biffar/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/s.-samietz/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/t.-kocher/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/u.-volker/</loc>
     <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/e.-ingelsson/</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -823,6 +961,7 @@
   <url>
     <loc>https://compsysmed.de/authors/m.-c.-cornelis/</loc>
     <lastmod>2016-12-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -833,51 +972,61 @@
   <url>
     <loc>https://compsysmed.de/authors/h.-lin/</loc>
     <lastmod>2016-11-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/p.-t.-ellinor/</loc>
     <lastmod>2016-11-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/a.-w.-kuss/</loc>
     <lastmod>2016-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/h.-scherthan/</loc>
     <lastmod>2016-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/j.-esche/</loc>
     <lastmod>2016-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/l.-r.-jensen/</loc>
     <lastmod>2016-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/l.-van-diepen/</loc>
     <lastmod>2016-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/m.-peper/</loc>
     <lastmod>2016-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/m.-port/</loc>
     <lastmod>2016-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/r.-weissmann/</loc>
     <lastmod>2016-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -888,21 +1037,25 @@
   <url>
     <loc>https://compsysmed.de/authors/a.-d.-johnsonsup2/sup/</loc>
     <lastmod>2016-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/a.-j.-slatersup1/sup/</loc>
     <lastmod>2016-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/a.-nomurasup1/sup/</loc>
     <lastmod>2016-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/a.-p.-reinersup2/sup/</loc>
     <lastmod>2016-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -913,11 +1066,13 @@
   <url>
     <loc>https://compsysmed.de/authors/g.-lettresup2/sup/</loc>
     <lastmod>2016-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/j.-d.-eichersup1/sup/</loc>
     <lastmod>2016-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -928,21 +1083,25 @@
   <url>
     <loc>https://compsysmed.de/authors/m.-h.-chensup1/sup/</loc>
     <lastmod>2016-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/n.-chamisup1/sup/</loc>
     <lastmod>2016-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/n.-faradaysup2/sup/</loc>
     <lastmod>2016-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/p.-l.-auersup2/sup/</loc>
     <lastmod>2016-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -953,26 +1112,31 @@
   <url>
     <loc>https://compsysmed.de/authors/s.-k.-ganeshsup2/sup/</loc>
     <lastmod>2016-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/s.-m.-tajuddinsup1/sup/</loc>
     <lastmod>2016-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/u.-m.-schicksup1/sup/</loc>
     <lastmod>2016-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/b.-muller-myhsok/</loc>
     <lastmod>2016-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/d.-bucksup1/sup/</loc>
     <lastmod>2016-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -983,6 +1147,7 @@
   <url>
     <loc>https://compsysmed.de/authors/t.-f.-andlauersup1/sup/</loc>
     <lastmod>2016-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -993,26 +1158,31 @@
   <url>
     <loc>https://compsysmed.de/authors/l.-m.-heisersup1/sup/</loc>
     <lastmod>2016-04-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/s.-m.-hillsup1/sup/</loc>
     <lastmod>2016-04-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/s.-mukherjee/</loc>
     <lastmod>2016-04-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/b.-penninxsup2/sup/</loc>
     <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/d.-melzersup2/sup/</loc>
     <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1023,41 +1193,49 @@
   <url>
     <loc>https://compsysmed.de/authors/j.-b.-van-meurssup2/sup/</loc>
     <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/j.-murabitosup2/sup/</loc>
     <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/l.-c.-pillingsup1/sup/</loc>
     <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/l.-ferruccisup2/sup/</loc>
     <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/m.-peterssup1/sup/</loc>
     <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/r.-jansensup1/sup/</loc>
     <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/r.-joehanessup1/sup/</loc>
     <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/t.-kochersup2/sup/</loc>
     <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1068,31 +1246,37 @@
   <url>
     <loc>https://compsysmed.de/authors/c.-malsch/</loc>
     <lastmod>2015-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/e.-hammer/</loc>
     <lastmod>2015-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/k.-suhre/</loc>
     <lastmod>2015-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/r.-k.-chilukotisup1/sup/</loc>
     <lastmod>2015-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/s.-amelingsup1/sup/</loc>
     <lastmod>2015-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/v.-liebscher/</loc>
     <lastmod>2015-10-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1103,16 +1287,19 @@
   <url>
     <loc>https://compsysmed.de/authors/j.-e.-huffman/</loc>
     <lastmod>2015-09-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/j.-raffler/</loc>
     <lastmod>2015-09-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/n.-l.-smith/</loc>
     <lastmod>2015-09-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1128,26 +1315,31 @@
   <url>
     <loc>https://compsysmed.de/authors/j.-f.-wilsonsup2/sup/</loc>
     <lastmod>2015-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/o.-polaseksup2/sup/</loc>
     <lastmod>2015-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/p.-k.-joshisup1/sup/</loc>
     <lastmod>2015-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/t.-eskosup1/sup/</loc>
     <lastmod>2015-07-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/h.-grallert/</loc>
     <lastmod>2015-03-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1158,11 +1350,13 @@
   <url>
     <loc>https://compsysmed.de/authors/s.-vogtsup1/sup/</loc>
     <lastmod>2015-03-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/s.-wahlsup1/sup/</loc>
     <lastmod>2015-03-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1173,26 +1367,31 @@
   <url>
     <loc>https://compsysmed.de/authors/l.-pradier/</loc>
     <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/m.-huttenrauch/</loc>
     <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/o.-wirths/</loc>
     <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/t.-a.-bayer/</loc>
     <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/y.-bouter/</loc>
     <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1203,16 +1402,19 @@
   <url>
     <loc>https://compsysmed.de/authors/h.-k.-kroemer/</loc>
     <lastmod>2014-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/a.-brauss/</loc>
     <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/c.-sperling/</loc>
     <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1223,26 +1425,31 @@
   <url>
     <loc>https://compsysmed.de/authors/h.-borgers/</loc>
     <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/k.-dietrich/</loc>
     <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/m.-albrecht/</loc>
     <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/y.-boutersup1/sup/</loc>
     <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/c.-a.-ritter/</loc>
     <lastmod>2013-11-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1253,31 +1460,37 @@
   <url>
     <loc>https://compsysmed.de/authors/h.-saafan/</loc>
     <lastmod>2013-11-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/s.-bien-moller/</loc>
     <lastmod>2013-11-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/s.-foerster/</loc>
     <lastmod>2013-11-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/s.-herzog/</loc>
     <lastmod>2013-11-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/v.-m.-dhople/</loc>
     <lastmod>2013-11-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/authors/n.-t.-doncheva/</loc>
     <lastmod>2013-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1288,6 +1501,7 @@
   <url>
     <loc>https://compsysmed.de/authors/n.-t.-donchevasup1/sup/</loc>
     <lastmod>2012-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1298,6 +1512,7 @@
   <url>
     <loc>https://compsysmed.de/authors/d.-emig/</loc>
     <lastmod>2011-08-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1307,10 +1522,26 @@
   
   <url>
     <loc>https://compsysmed.de/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://compsysmed.de/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/chit_tong_lio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/eska_thomas/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/tim_kacprowski/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

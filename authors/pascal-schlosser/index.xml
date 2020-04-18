@@ -6,6 +6,12 @@
       <atom:link href="https://compsysmed.de/authors/pascal-schlosser/index.xml" rel="self" type="application/rss+xml" />
     <description>Pascal Schlosser</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>Pascal Schlosser</title>
+      <link>https://compsysmed.de/authors/pascal-schlosser/</link>
+    </image>
+    
     <item>
       <title>Genetic Studies of Urinary Metabolites Illuminate Mechanisms of Detoxification and Excretion in Humans</title>
       <link>https://compsysmed.de/publication/schlosser-et-al.-2020/</link>

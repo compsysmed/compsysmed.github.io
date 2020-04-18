@@ -6,5 +6,22 @@
       <atom:link href="https://compsysmed.de/authors/jonas_schaefer/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>ResGro CompSysMed</title>
+      <link>https://compsysmed.de/authors/jonas_schaefer/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://compsysmed.de/authors/jonas_schaefer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/jonas_schaefer/</guid>
+      <description>&lt;p&gt;I study bioinformatics at the TUM and LMU since October 2018. To apply some of
+my learned knowledge, I joined the chair of Experimental Bioinformatics as a
+Hiwi.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

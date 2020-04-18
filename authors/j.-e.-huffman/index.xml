@@ -6,6 +6,12 @@
       <atom:link href="https://compsysmed.de/authors/j.-e.-huffman/index.xml" rel="self" type="application/rss+xml" />
     <description>J. E. Huffman</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>J. E. Huffman</title>
+      <link>https://compsysmed.de/authors/j.-e.-huffman/</link>
+    </image>
+    
     <item>
       <title>Rare and low-frequency variants and their association with plasma levels of fibrinogen, FVII, FVIII, and vWF</title>
       <link>https://compsysmed.de/publication/huffman-et-al.-2015/</link>

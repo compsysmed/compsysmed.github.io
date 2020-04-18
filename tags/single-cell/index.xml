@@ -17,7 +17,8 @@
       <link>https://compsysmed.de/softress/scellnetor/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
       <guid>https://compsysmed.de/softress/scellnetor/</guid>
-      <description></description>
+      <description>&lt;p&gt;Scellnetor is a novel scRNA-seq clustering tool. It allows the analysis of pseudo time-courses in single-cell sequencing data via a network-constrained clustering algorithm. Scellnetor is available as interactive online application at the &lt;a href=&#34;https://exbio.wzw.tum.de/scellnetor/&#34; target=&#34;_blank&#34;&gt;Scellnetor website&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

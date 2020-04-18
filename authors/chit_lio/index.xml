@@ -6,5 +6,11 @@
       <atom:link href="https://compsysmed.de/authors/chit_lio/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>ResGro CompSysMed</title>
+      <link>https://compsysmed.de/authors/chit_lio/</link>
+    </image>
+    
   </channel>
 </rss>

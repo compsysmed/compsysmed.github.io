@@ -5,12 +5,20 @@
     <link>https://compsysmed.de/publication/</link>
       <atom:link href="https://compsysmed.de/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://compsysmed.de/publication/</link>
     </image>
+    
+    <item>
+      <title>EpiGEN: an epistasis simulation pipeline</title>
+      <link>https://compsysmed.de/publication/blumenthal-et-al.-2020/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/blumenthal-et-al.-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparative single-cell trajectory network enrichment identifies pseudo-temporal systems biology patterns in hematopoiesis and CD8 T-cell development</title>

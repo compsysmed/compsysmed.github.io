@@ -6,5 +6,24 @@
       <atom:link href="https://compsysmed.de/authors/evelyn_scheibling/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>ResGro CompSysMed</title>
+      <link>https://compsysmed.de/authors/evelyn_scheibling/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://compsysmed.de/authors/evelyn_scheibling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/evelyn_scheibling/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a Bachelor student in Bioinformatics at the Technical Univerity of
+Munich an the Ludwig-Maximilian University. In October 2019 I joined the
+Chair of Experimental Bioinformatics in Weihenstephan to work on my
+bachelor thesis on the indentification of miRNA binding site enriched
+transcripts in The Cancer Genome Atlas.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

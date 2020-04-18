@@ -5,7 +5,7 @@
     <link>https://compsysmed.de/tags/epigen/</link>
       <atom:link href="https://compsysmed.de/tags/epigen/index.xml" rel="self" type="application/rss+xml" />
     <description>EpiGEN</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>EpiGEN</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
+      <title>EpiGEN: Paper published in Bioinformatics</title>
+      <link>https://compsysmed.de/post/epigen_paper/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/post/epigen_paper/</guid>
+      <description>&lt;p&gt;The manuscript &amp;ldquo;EpiGEN: an epistasis simulation pipeline&amp;rdquo; for the &lt;a href=&#34;https://github.com/baumbachlab/epigen&#34; target=&#34;_blank&#34;&gt;EpiGEN tool&lt;/a&gt; is now available on &lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btaa245&#34; target=&#34;_blank&#34;&gt;Bioinformatics&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>EpiGEN</title>
       <link>https://compsysmed.de/softress/epigen/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/softress/epigen/</guid>
-      <description></description>
+      <description>&lt;p&gt;EpiGEN is a Python pipeline for simulating epistasis data. It supports epistasis models of arbitrary size, which can be specified either extensionally or via parametrized risk models. Moreover, the user can specify the minor allele frequencies (MAFs) of both noise and disease SNPs, and provide a bias target distribution for the generated phenotypes to simulate observation bias. EpiGEN is freely available as python 3 package on &lt;a href=&#34;https://github.com/baumbachlab/epigen&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
