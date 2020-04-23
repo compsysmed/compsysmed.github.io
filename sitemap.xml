@@ -31,7 +31,7 @@
   </url>
   
   <url>
-    <loc>https://compsysmed.de/authors/tim_kacprowksi/</loc>
+    <loc>https://compsysmed.de/authors/tim_kacprowski/</loc>
   </url>
   
   <url>
@@ -60,6 +60,10 @@
   
   <url>
     <loc>https://compsysmed.de/authors/zakaria_louadi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/thomas_mauermeier/</loc>
   </url>
   
   <url>
@@ -1536,11 +1540,6 @@
   
   <url>
     <loc>https://compsysmed.de/authors/eska_thomas/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/authors/tim_kacprowski/</loc>
     <priority>0</priority>
   </url>
   

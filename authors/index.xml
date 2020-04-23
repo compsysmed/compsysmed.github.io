@@ -88,9 +88,9 @@ project to apply network analysis and machine learning for drug repurposing.&lt;
     
     <item>
       <title></title>
-      <link>https://compsysmed.de/authors/tim_kacprowksi/</link>
+      <link>https://compsysmed.de/authors/tim_kacprowski/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://compsysmed.de/authors/tim_kacprowksi/</guid>
+      <guid>https://compsysmed.de/authors/tim_kacprowski/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a research group leader at the Chair of Experimental Bioinformatics.  My
 group works on network biology, multi omics integration and machine learning in
 the context of systems medicine.  Previously, I spent some time in Odense,
@@ -191,6 +191,15 @@ thesis on GWAS simulation with twin design.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://compsysmed.de/authors/zakaria_louadi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Ph.D student in the Chair of Experimental Bioinformatics involved in Sys_CARE project. I received a Bachelor&amp;rsquo;s degree in Electrical Engineering from Cadi Ayyad University in Marrakesh and a MSc with a focus on AI and deep learning from Jeonbuk National University in South Korea. In my master thesis, I worked on developing Deep Splicing Code a sequence-based tool for the classification of alternative splicing events. My research interests include machine learning and its applications in computational biology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://compsysmed.de/authors/thomas_mauermeier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/thomas_mauermeier/</guid>
+      <description>&lt;p&gt;I am an undergraduate student in the bioinformatics program at the TUM and LMU. In April 2020 I joined the chair of experimental bioinformatics in order to work on my bachelor&amp;rsquo;s thesis on the extension and evaluation of a further centrality measure in the NetworkPrioritizer Cytoscape app.&lt;/p&gt;
 </description>
     </item>
     
@@ -1471,14 +1480,6 @@ multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
       <link>https://compsysmed.de/authors/eska_thomas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://compsysmed.de/authors/eska_thomas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tim_kacprowski</title>
-      <link>https://compsysmed.de/authors/tim_kacprowski/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://compsysmed.de/authors/tim_kacprowski/</guid>
       <description></description>
     </item>
     
