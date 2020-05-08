@@ -79,6 +79,15 @@ project to apply network analysis and machine learning for drug repurposing.&lt;
     
     <item>
       <title></title>
+      <link>https://compsysmed.de/authors/lena_hackl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://compsysmed.de/authors/lena_hackl/</guid>
+      <description>&lt;p&gt;I am doing my M.SC. Computer science at the Technical University of Munich right now. I gained some experience with ligand binding site prediction in a project at Rostlab at TUM. So, in May 2020, I joined the Chair of Experimental Bioinformatics to work on exon-specific annotation of miRNA binding sites for my Master’s thesis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://compsysmed.de/authors/valentin_hildemann/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://compsysmed.de/authors/valentin_hildemann/</guid>
@@ -390,7 +399,7 @@ multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
     </item>
     
     <item>
-      <title>***et al.***</title>
+      <title>*et al.*</title>
       <link>https://compsysmed.de/authors/et-al./</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/authors/et-al./</guid>
