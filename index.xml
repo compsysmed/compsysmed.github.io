@@ -5,12 +5,64 @@
     <link>https://compsysmed.de/</link>
       <atom:link href="https://compsysmed.de/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 00:14:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>ResGro CompSysMed</title>
       <link>https://compsysmed.de/</link>
     </image>
+    
+    <item>
+      <title>sPLINK</title>
+      <link>https://compsysmed.de/softress/splink/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/softress/splink/</guid>
+      <description>&lt;p&gt;sPLINK (safe PLINK) allows the federated, privacy-preserving analysis of GWAS data. It works on distributed datasets without exchanging raw data and is robust against imbalanced phenotype distributions across cohorts. Federated and user-friendly analysis with sPLINK, thus, has the potential to replace meta-analysis as the gold standard for collaborative GWAS. The tool is available online &lt;a href=&#34;https://www.exbio.wzw.tum.de/splink/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>sPLINK: federated GWAS approach beats meta-analysis</title>
+      <link>https://compsysmed.de/post/splink_paper/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/post/splink_paper/</guid>
+      <description>&lt;p&gt;sPLINK (safe PLINK) allows the federated, privacy-preserving analysis of GWAS data. It works on distributed datasets without exchanging raw data and is robust against imbalanced phenotype distributions across cohorts. Federated and user-friendly analysis with sPLINK, thus, has the potential to replace meta-analysis as the gold standard for collaborative GWAS.
+The manuscript &amp;ldquo;sPLINK: A Federated, Privacy-Preserving Tool as a Robust Alternative to Meta-Analysis in Genome-Wide Association Studies&amp;rdquo; for the &lt;a href=&#34;https://compsysmed.de/softress/splink/&#34;&gt;sPLINK tool&lt;/a&gt; is now available on &lt;em&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.06.05.136382v1&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>sPLINK: A Federated, Privacy-Preserving Tool as a Robust Alternative to Meta-Analysis in Genome-Wide Association Studies</title>
+      <link>https://compsysmed.de/publication/nasirigerdeh-et-al.-2020/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/nasirigerdeh-et-al.-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Analysis in a Network Context (in &#34;Reference Module in Biomedical Sciences&#34;)</title>
+      <link>https://compsysmed.de/publication/lazareva-et-al.-2020.2/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/lazareva-et-al.-2020.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Analysis in a Network Context: Chapter released on Elsevier</title>
+      <link>https://compsysmed.de/post/reference_module/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/post/reference_module/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://compsysmed.de/authors/manuela_lautizi/&#34;&gt;Manuela Lautizi&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/amit_fenn/&#34;&gt;Amit Fenn&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/tim_kacprowski/&#34;&gt;Tim Kacprowski&lt;/a&gt; from our group contributed to a new chapter for the &amp;ldquo;Reference Module in Biomedical Sciences&amp;rdquo; about multi-omics analysis in a network context. It provides a detailed overview of 19 current network enrichment tools, including guidelines for the selection of the most suitable methods for a partcular analysis. The chapter is now available on &lt;em&gt;&lt;a href=&#34;https://doi.org/10.1016/B978-0-12-801238-3.11647-2&#34; target=&#34;_blank&#34;&gt;Elsevier&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
+      <link>https://compsysmed.de/publication/sadegh-et-al.-2020/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/sadegh-et-al.-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CoVex: Our contribution to the fight against the pandemic</title>
@@ -20,6 +72,8 @@
       <description>&lt;p&gt;To address the current Corona pandemic, the &lt;em&gt;Chair of Experimental Bioinormatics&lt;/em&gt; started a two week &amp;ldquo;ExBio vs. COVID-19&amp;rdquo; hackaton in cooperation with two TUM virologists. The &lt;em&gt;Computational Systems Medicine&lt;/em&gt; recearch group was represented by &lt;a href=&#34;https://compsysmed.de/authors/gihanna_galindez/&#34;&gt;Gihanna Galindez&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/tim_kacprowski/&#34;&gt;Tim Kacprowski&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/sepideh_sadegh/&#34;&gt;Sepideh Sadegh&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;During the hackaton a first version of the tool &lt;a href=&#34;https://compsysmed.de/softress/covex/&#34;&gt;CoVex&lt;/a&gt; was developed, a drug repurposing tool that integrates virus-human interaction data for SARS-CoV-2 and SARS-CoV. It is now available as &lt;a href=&#34;https://exbio.wzw.tum.de/covex/&#34; target=&#34;_blank&#34;&gt;online analysis platform&lt;/a&gt;. Current development updates and research can also be found on the &lt;a href=&#34;https://www.baumbachlab.net/exbio-vs-covid-part-1&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Chair of Experimental Bioinormatics&lt;/em&gt;&lt;/a&gt; website.&lt;/p&gt;
+
+&lt;p&gt;A preprint is now available on &lt;em&gt;&lt;a href=&#34;https://arxiv.org/abs/2004.12420&#34; target=&#34;_blank&#34;&gt;arXiv&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,21 @@
     <link>https://compsysmed.de/tags/networks/</link>
       <atom:link href="https://compsysmed.de/tags/networks/index.xml" rel="self" type="application/rss+xml" />
     <description>networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>networks</title>
       <link>https://compsysmed.de/tags/networks/</link>
     </image>
+    
+    <item>
+      <title>Multi-Omics Analysis in a Network Context: Chapter released on Elsevier</title>
+      <link>https://compsysmed.de/post/reference_module/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/post/reference_module/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://compsysmed.de/authors/manuela_lautizi/&#34;&gt;Manuela Lautizi&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/amit_fenn/&#34;&gt;Amit Fenn&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/tim_kacprowski/&#34;&gt;Tim Kacprowski&lt;/a&gt; from our group contributed to a new chapter for the &amp;ldquo;Reference Module in Biomedical Sciences&amp;rdquo; about multi-omics analysis in a network context. It provides a detailed overview of 19 current network enrichment tools, including guidelines for the selection of the most suitable methods for a partcular analysis. The chapter is now available on &lt;em&gt;&lt;a href=&#34;https://doi.org/10.1016/B978-0-12-801238-3.11647-2&#34; target=&#34;_blank&#34;&gt;Elsevier&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CoVex</title>

@@ -5,7 +5,7 @@
     <link>https://compsysmed.de/authors/fanny_roessler/</link>
       <atom:link href="https://compsysmed.de/authors/fanny_roessler/index.xml" rel="self" type="application/rss+xml" />
     <description>ResGro CompSysMed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 00:14:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>ResGro CompSysMed</title>
@@ -15,60 +15,9 @@
     <item>
       <title></title>
       <link>https://compsysmed.de/authors/fanny_roessler/</link>
-      <pubDate>Fri, 17 Apr 2020 00:14:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://compsysmed.de/authors/fanny_roessler/</guid>
       <description>&lt;p&gt;I’m a bioinformatics Master student at the Technical University of Munich and the LMU. I joined the Chair of Experimental Bioinformatics as a HiWi to gain more practical experience in bioinformatics during my Bachelor&amp;rsquo;s degree in October 2018, and am continuing this for my master. In March 2020 I finished my bachelor thesis on a thyrotoxicosis gene expression time series at the Chair. I will continue this and similar projects as a student research assistant.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CoVex: Our contribution to the fight against the pandemic</title>
-      <link>https://compsysmed.de/post/covex/</link>
-      <pubDate>Fri, 17 Apr 2020 00:14:00 +0200</pubDate>
-      <guid>https://compsysmed.de/post/covex/</guid>
-      <description>&lt;p&gt;To address the current Corona pandemic, the &lt;em&gt;Chair of Experimental Bioinormatics&lt;/em&gt; started a two week &amp;ldquo;ExBio vs. COVID-19&amp;rdquo; hackaton in cooperation with two TUM virologists. The &lt;em&gt;Computational Systems Medicine&lt;/em&gt; recearch group was represented by &lt;a href=&#34;https://compsysmed.de/authors/gihanna_galindez/&#34;&gt;Gihanna Galindez&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/tim_kacprowski/&#34;&gt;Tim Kacprowski&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/sepideh_sadegh/&#34;&gt;Sepideh Sadegh&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;During the hackaton a first version of the tool &lt;a href=&#34;https://compsysmed.de/softress/covex/&#34;&gt;CoVex&lt;/a&gt; was developed, a drug repurposing tool that integrates virus-human interaction data for SARS-CoV-2 and SARS-CoV. It is now available as &lt;a href=&#34;https://exbio.wzw.tum.de/covex/&#34; target=&#34;_blank&#34;&gt;online analysis platform&lt;/a&gt;. Current development updates and research can also be found on the &lt;a href=&#34;https://www.baumbachlab.net/exbio-vs-covid-part-1&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Chair of Experimental Bioinormatics&lt;/em&gt;&lt;/a&gt; website.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>EpiGEN: Paper published in Bioinformatics</title>
-      <link>https://compsysmed.de/post/epigen_paper/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0200</pubDate>
-      <guid>https://compsysmed.de/post/epigen_paper/</guid>
-      <description>&lt;p&gt;The manuscript &amp;ldquo;EpiGEN: an epistasis simulation pipeline&amp;rdquo; for the &lt;a href=&#34;https://github.com/baumbachlab/epigen&#34; target=&#34;_blank&#34;&gt;EpiGEN tool&lt;/a&gt; is now available on &lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btaa245&#34; target=&#34;_blank&#34;&gt;Bioinformatics&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scellnetor: Preprint released on bioRxiv</title>
-      <link>https://compsysmed.de/post/scellnetor_biorxiv/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
-      <guid>https://compsysmed.de/post/scellnetor_biorxiv/</guid>
-      <description>&lt;p&gt;The manuscript &amp;ldquo;Comparative single-cell trajectory network enrichment identifies pseudo-temporal systems biology patterns in hematopoiesis and CD8 T-cell development&amp;rdquo; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.02.021295v3&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;. It introduces the new tool Scellnator, a novel network-constrained scRNA-seq clustering application. An interactive online version is available at the &lt;a href=&#34;https://exbio.wzw.tum.de/scellnetor&#34; target=&#34;_blank&#34;&gt;Scellnetor website&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Group Members and Alumni</title>
-      <link>https://compsysmed.de/post/group_members_mar20/</link>
-      <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
-      <guid>https://compsysmed.de/post/group_members_mar20/</guid>
-      <description>&lt;p&gt;Recently &lt;a href=&#34;https://compsysmed.de/authors/zakaria_louadi&#34;&gt;Zakaria Louadi&lt;/a&gt; joined the Computational Systems Medicine research group as a PhD student. &lt;a href=&#34;https://compsysmed.de/authors/rahel_caspar&#34;&gt;Rahel Caspar&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/amrei_menzel&#34;&gt;Amrei Menzel&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/ertida_muka&#34;&gt;Ertida Muka&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/evelyn_scheibling&#34;&gt;Evelyn Scheibling&lt;/a&gt; also joined the team to work on their theses for their bioinformatics degree.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://compsysmed.de/authors/christoph_kloppert&#34;&gt;Christoph Kloppert&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/pauline_nickel&#34;&gt;Pauline Nickel&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/andreas_stelzer&#34;&gt;Andreas Stelzer&lt;/a&gt; finished their Bachelor&amp;rsquo;s theses in February. &lt;a href=&#34;https://compsysmed.de/authors/judith_bernett&#34;&gt;Judith Bernett&lt;/a&gt;, &lt;a href=&#34;https://compsysmed.de/authors/tim_faro&#34;&gt;Tim Faro&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/fanny_roessler&#34;&gt;Fanny Rößler&lt;/a&gt; also completed their theses and decided to stay at the Chair as student research assistants during their Master studies. They will further develop their Bachelor projects and support the group&amp;rsquo;s current research. &lt;a href=&#34;https://compsysmed.de/authors/chit_lio&#34;&gt;Chit Tong Lio&lt;/a&gt; finished her Master&amp;rsquo;s thesis and will continue her studies as PhD student at the Chair.&lt;/p&gt;
-
-&lt;p&gt;We also are happy to welcome our new Bachelor students &lt;a href=&#34;https://compsysmed.de/authors/thomas_eska&#34;&gt;Thomas Eska&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/valentin_hildemann&#34;&gt;Valentin Hildemann&lt;/a&gt;, as well as &lt;a href=&#34;https://compsysmed.de/authors/anton_smirnov&#34;&gt;Anton Smirnov&lt;/a&gt;, who decided to join our group for his Master&amp;rsquo;s thesis.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BiCoN: Preprint released on bioRxiv</title>
-      <link>https://compsysmed.de/post/bicon_paper/</link>
-      <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>https://compsysmed.de/post/bicon_paper/</guid>
-      <description>&lt;p&gt;The manuscript &amp;ldquo;BiCoN: Network-constrained biclustering of patients and omics data&amp;rdquo; for the &lt;a href=&#34;https://www.exbio.wzw.tum.de/bicon/&#34; target=&#34;_blank&#34;&gt;BiCoN tool&lt;/a&gt; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.01.31.926345v1&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

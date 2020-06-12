@@ -96,7 +96,6 @@
   
   <url>
     <loc>https://compsysmed.de/authors/fanny_roessler/</loc>
-    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
   </url>
   
   <url>
@@ -128,9 +127,205 @@
   </url>
   
   <url>
-    <loc>https://compsysmed.de/authors/</loc>
-    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
+    <loc>https://compsysmed.de/tags/featurecloud/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/gwas/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/post/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/publications/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/softress/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/software/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/federated-fearning/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/machine-learning/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/meta-analysis/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/privacy/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/splink/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/softress/splink/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/post/splink_paper/</loc>
+    <lastmod>2020-06-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication_types/3/</loc>
+    <lastmod>2020-06-05T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/</loc>
+    <lastmod>2020-06-05T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication_types/</loc>
+    <lastmod>2020-06-05T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication/</loc>
+    <lastmod>2020-06-05T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/r.-nasirigerdeh-and-r.-torkzadehmahani-j.-matschinske-t.-frisch-m.-list-j.-spath-s.-wei%C3%9F-u.-volker-n.-k.-wenke-t.-kacprowski-j.-baumbach/</loc>
+    <lastmod>2020-06-05T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication/nasirigerdeh-et-al.-2020/</loc>
+    <lastmod>2020-06-05T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication_types/6/</loc>
+    <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/de-novo/</loc>
+    <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/gsea/</loc>
+    <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication/lazareva-et-al.-2020.2/</loc>
+    <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/post/reference_module/</loc>
+    <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/o.-lazareva-m.-lautizi-a.-fenn-m.-list-t.-kacprowski-j.-baumbach/</loc>
+    <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/clustering/</loc>
+    <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/gene-expression/</loc>
+    <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/gene-ontology/</loc>
+    <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/network-enrichment/</loc>
+    <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/networks/</loc>
+    <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/score-optimization/</loc>
+    <lastmod>2020-06-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/s.-sadegh-j.-matschinske-d.-b.-blumenthal-g.-galindez-t.-kacprowski-m.-list-r.-nasirigerdeh-m.-oubounyt-a.-pichlmair-t.-d.-rose-m.-salgado-albarran-j.-spath-a.-stukalov-n.-k.-wenke-k.-yuan-j.-k.-pauling-j.-baumbach/</loc>
+    <lastmod>2020-04-26T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication/sadegh-et-al.-2020/</loc>
+    <lastmod>2020-04-26T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -145,29 +340,6 @@
   </url>
   
   <url>
-    <loc>https://compsysmed.de/post/</loc>
-    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/</loc>
-    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/software/</loc>
-    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/</loc>
-    <lastmod>2020-04-17T00:14:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://compsysmed.de/tags/epigen/</loc>
     <lastmod>2020-04-16T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -176,12 +348,6 @@
   <url>
     <loc>https://compsysmed.de/post/epigen_paper/</loc>
     <lastmod>2020-04-16T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/publications/</loc>
-    <lastmod>2020-04-16T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -202,17 +368,6 @@
   </url>
   
   <url>
-    <loc>https://compsysmed.de/publication_types/</loc>
-    <lastmod>2020-04-14T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/publication/</loc>
-    <lastmod>2020-04-14T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://compsysmed.de/softress/covex/</loc>
     <lastmod>2020-04-11T00:00:00+02:00</lastmod>
   </url>
@@ -224,19 +379,7 @@
   </url>
   
   <url>
-    <loc>https://compsysmed.de/softress/</loc>
-    <lastmod>2020-04-11T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://compsysmed.de/tags/drug-repurposing/</loc>
-    <lastmod>2020-04-11T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/networks/</loc>
     <lastmod>2020-04-11T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -244,12 +387,6 @@
   <url>
     <loc>https://compsysmed.de/tags/systems-medicine/</loc>
     <lastmod>2020-04-11T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/publication_types/3/</loc>
-    <lastmod>2020-04-04T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -278,12 +415,6 @@
   <url>
     <loc>https://compsysmed.de/post/scellnetor_biorxiv/</loc>
     <lastmod>2020-04-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/clustering/</loc>
-    <lastmod>2020-04-03T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -507,30 +638,18 @@
   </url>
   
   <url>
-    <loc>https://compsysmed.de/tags/machine-learning/</loc>
-    <lastmod>2019-02-25T19:39:58+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/featurecloud/</loc>
-    <lastmod>2019-02-24T19:39:58+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://compsysmed.de/project/featurecloud/</loc>
     <lastmod>2019-02-24T19:39:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://compsysmed.de/tags/gpu/</loc>
-    <lastmod>2019-02-23T19:39:58+02:00</lastmod>
+    <loc>https://compsysmed.de/tags/federated-learning/</loc>
+    <lastmod>2019-02-24T19:39:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://compsysmed.de/tags/gwas/</loc>
+    <loc>https://compsysmed.de/tags/gpu/</loc>
     <lastmod>2019-02-23T19:39:58+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -543,12 +662,6 @@
   <url>
     <loc>https://compsysmed.de/project/denovonetenrich/</loc>
     <lastmod>2019-02-22T19:39:58+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/network-enrichment/</loc>
-    <lastmod>2019-02-22T19:39:58+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

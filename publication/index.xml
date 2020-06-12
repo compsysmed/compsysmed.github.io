@@ -5,12 +5,36 @@
     <link>https://compsysmed.de/publication/</link>
       <atom:link href="https://compsysmed.de/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://compsysmed.de/publication/</link>
     </image>
+    
+    <item>
+      <title>sPLINK: A Federated, Privacy-Preserving Tool as a Robust Alternative to Meta-Analysis in Genome-Wide Association Studies</title>
+      <link>https://compsysmed.de/publication/nasirigerdeh-et-al.-2020/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/nasirigerdeh-et-al.-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Analysis in a Network Context (in &#34;Reference Module in Biomedical Sciences&#34;)</title>
+      <link>https://compsysmed.de/publication/lazareva-et-al.-2020.2/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/lazareva-et-al.-2020.2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
+      <link>https://compsysmed.de/publication/sadegh-et-al.-2020/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/sadegh-et-al.-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EpiGEN: an epistasis simulation pipeline</title>
