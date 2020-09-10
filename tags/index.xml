@@ -5,12 +5,36 @@
     <link>https://compsysmed.de/tags/</link>
       <atom:link href="https://compsysmed.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://compsysmed.de/tags/</link>
     </image>
+    
+    <item>
+      <title>Alzheimer&#39;s disease</title>
+      <link>https://compsysmed.de/tags/alzheimers-disease/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/tags/alzheimers-disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://compsysmed.de/tags/publications/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/tags/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miRNAs</title>
+      <link>https://compsysmed.de/tags/mirnas/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/tags/mirnas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FeatureCloud</title>
@@ -25,14 +49,6 @@
       <link>https://compsysmed.de/tags/gwas/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate>
       <guid>https://compsysmed.de/tags/gwas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://compsysmed.de/tags/publications/</link>
-      <pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate>
-      <guid>https://compsysmed.de/tags/publications/</guid>
       <description></description>
     </item>
     

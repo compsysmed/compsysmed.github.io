@@ -5,12 +5,21 @@
     <link>https://compsysmed.de/tags/publications/</link>
       <atom:link href="https://compsysmed.de/tags/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://compsysmed.de/tags/publications/</link>
     </image>
+    
+    <item>
+      <title>New paper released: miRNA Alterations in Alzheimer&#39;s Disease Mouse Model</title>
+      <link>https://compsysmed.de/post/bouter_paper/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/post/bouter_paper/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fnins.2020.580524/full&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;MiRNA Alterations Elicit Pathways Involved in Memory Decline and Synaptic Function in the Hippocampus of Aged Tg4-42 Mice&lt;/em&gt;&lt;/a&gt; coauthored by &lt;a href=&#34;https://compsysmed.de/authors/tim_kacprowski&#34;&gt;Tim Kacprowski&lt;/a&gt; and &lt;a href=&#34;https://compsysmed.de/authors/fanny_roessler&#34;&gt;Fanny Rößler&lt;/a&gt; is now available in &lt;em&gt;Frontiers in Neuroscience&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>sPLINK: federated GWAS approach beats meta-analysis</title>
