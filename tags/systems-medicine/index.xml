@@ -5,12 +5,20 @@
     <link>https://compsysmed.de/tags/systems-medicine/</link>
       <atom:link href="https://compsysmed.de/tags/systems-medicine/index.xml" rel="self" type="application/rss+xml" />
     <description>systems medicine</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>systems medicine</title>
       <link>https://compsysmed.de/tags/systems-medicine/</link>
     </image>
+    
+    <item>
+      <title>DIGGER</title>
+      <link>https://compsysmed.de/softress/digger/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/softress/digger/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CoVex</title>

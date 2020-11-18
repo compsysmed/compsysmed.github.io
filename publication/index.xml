@@ -5,12 +5,20 @@
     <link>https://compsysmed.de/publication/</link>
       <atom:link href="https://compsysmed.de/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://compsysmed.de/publication/</link>
     </image>
+    
+    <item>
+      <title>DIGGER: exploring the functional role of alternative splicing in protein interactions</title>
+      <link>https://compsysmed.de/publication/louadi-et-al.-2020/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/louadi-et-al.-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MiRNA Alterations Elicit Pathways Involved in Memory Decline and Synaptic Function in the Hippocampus of Aged Tg4-42 Mice</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Tsoy | ResGro CompSysMed</title>
+    <link>https://compsysmed.de/authors/o.-tsoy/</link>
+      <atom:link href="https://compsysmed.de/authors/o.-tsoy/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Tsoy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>O. Tsoy</title>
+      <link>https://compsysmed.de/authors/o.-tsoy/</link>
+    </image>
+    
+    <item>
+      <title>DIGGER: exploring the functional role of alternative splicing in protein interactions</title>
+      <link>https://compsysmed.de/publication/louadi-et-al.-2020/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/publication/louadi-et-al.-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

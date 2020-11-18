@@ -5,7 +5,7 @@
     <link>https://compsysmed.de/authors/</link>
       <atom:link href="https://compsysmed.de/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Authors</title>
@@ -17,7 +17,7 @@
       <link>https://compsysmed.de/authors/judith_bernett/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://compsysmed.de/authors/judith_bernett/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been studying Bioinformatics at the Technical University of Munich and the LMU since October 2016 and joined the Chair of Experimental Bioinformatics for my bachelor&amp;rsquo;s thesis. Here, I developed a risk score for mortality prediction in patients undergoing transcatheter aortic valve implantation. Currently, I am working as a HiWi at the chair to continue my work and deepen my knowledge on the subject of computational systems medicine.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m a bioinformatics master&amp;rsquo;s student at TUM and LMU and joined the Chair of Experimental Bioinformatics for my bachelor&amp;rsquo;s thesis. Here, I developed a risk score for mortality prediction in patients undergoing transcatheter aortic valve implantation. Currently, I am working as a HiWi at the chair.&lt;/p&gt;
 </description>
     </item>
     
@@ -197,7 +197,7 @@ thesis on GWAS simulation with twin design.&lt;/p&gt;
     <item>
       <title></title>
       <link>https://compsysmed.de/authors/zakaria_louadi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
       <guid>https://compsysmed.de/authors/zakaria_louadi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Ph.D student in the Chair of Experimental Bioinformatics involved in Sys_CARE project. I received a Bachelor&amp;rsquo;s degree in Electrical Engineering from Cadi Ayyad University in Marrakesh and a MSc with a focus on AI and deep learning from Jeonbuk National University in South Korea. In my master thesis, I worked on developing Deep Splicing Code a sequence-based tool for the classification of alternative splicing events. My research interests include machine learning and its applications in computational biology.&lt;/p&gt;
 </description>
@@ -375,18 +375,74 @@ multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
     </item>
     
     <item>
-      <title>**F. Rößler**</title>
-      <link>https://compsysmed.de/authors/f.-ro%C3%9Fler/</link>
-      <pubDate>Thu, 10 Sep 2020 00:00:00 +0200</pubDate>
-      <guid>https://compsysmed.de/authors/f.-ro%C3%9Fler/</guid>
+      <title>**T. Kacprowski**</title>
+      <link>https://compsysmed.de/authors/t.-kacprowski/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/authors/t.-kacprowski/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>**T. Kacprowski**</title>
-      <link>https://compsysmed.de/authors/t.-kacprowski/</link>
+      <title>**Z. Louadi**</title>
+      <link>https://compsysmed.de/authors/z.-louadi/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/authors/z.-louadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Gress</title>
+      <link>https://compsysmed.de/authors/a.-gress/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/authors/a.-gress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Baumbach</title>
+      <link>https://compsysmed.de/authors/j.-baumbach/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/authors/j.-baumbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Yuan</title>
+      <link>https://compsysmed.de/authors/k.-yuan/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/authors/k.-yuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. List</title>
+      <link>https://compsysmed.de/authors/m.-list/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/authors/m.-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. Tsoy</title>
+      <link>https://compsysmed.de/authors/o.-tsoy/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/authors/o.-tsoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. V. Kalinina</title>
+      <link>https://compsysmed.de/authors/o.-v.-kalinina/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/authors/o.-v.-kalinina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>**F. Rößler**</title>
+      <link>https://compsysmed.de/authors/f.-ro%C3%9Fler/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0200</pubDate>
-      <guid>https://compsysmed.de/authors/t.-kacprowski/</guid>
+      <guid>https://compsysmed.de/authors/f.-ro%C3%9Fler/</guid>
       <description></description>
     </item>
     
