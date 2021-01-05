@@ -5,12 +5,30 @@
     <link>https://compsysmed.de/tags/publications/</link>
       <atom:link href="https://compsysmed.de/tags/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://compsysmed.de/tags/publications/</link>
     </image>
+    
+    <item>
+      <title>BiCoN: Paper now published in Bioinformatics</title>
+      <link>https://compsysmed.de/post/bicon_paper_2/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/post/bicon_paper_2/</guid>
+      <description>&lt;p&gt;The paper &amp;ldquo;BiCoN: Network-constrained biclustering of patients and omics data&amp;rdquo; for the &lt;a href=&#34;https://www.exbio.wzw.tum.de/bicon/&#34; target=&#34;_blank&#34;&gt;BiCoN tool&lt;/a&gt; coauthored by &lt;a href=&#34;https://compsysmed.de/authors/tim_kacprowski&#34;&gt;Tim Kacprowski&lt;/a&gt; has now been published in &lt;a href=&#34;https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa1076/6050718?redirectedFrom=fulltext&#34; target=&#34;_blank&#34;&gt;Bioinformatics&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PySCNet: Preprint released on bioRxiv</title>
+      <link>https://compsysmed.de/post/pyscnet_biorxiv/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/post/pyscnet_biorxiv/</guid>
+      <description>&lt;p&gt;The manuscript &amp;ldquo;PySCNet: A tool for reconstructing and analyzing gene regulatory network from single-cell RNA-Seq data&amp;rdquo; coauthored by &lt;a href=&#34;https://compsysmed.de/authors/tim_kacprowski&#34;&gt;Tim Kacprowski&lt;/a&gt; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.12.18.423482v1&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DIGGER: Digging into alternative splicing</title>

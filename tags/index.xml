@@ -5,7 +5,7 @@
     <link>https://compsysmed.de/tags/</link>
       <atom:link href="https://compsysmed.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>DIGGER</title>
-      <link>https://compsysmed.de/tags/digger/</link>
-      <pubDate>Sat, 03 Oct 2020 00:00:00 +0200</pubDate>
-      <guid>https://compsysmed.de/tags/digger/</guid>
+      <title>BiCoN</title>
+      <link>https://compsysmed.de/tags/bicon/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/tags/bicon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
       <link>https://compsysmed.de/tags/publications/</link>
-      <pubDate>Sat, 03 Oct 2020 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/tags/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://compsysmed.de/tags/python/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>single cell</title>
+      <link>https://compsysmed.de/tags/single-cell/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/tags/single-cell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIGGER</title>
+      <link>https://compsysmed.de/tags/digger/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0200</pubDate>
+      <guid>https://compsysmed.de/tags/digger/</guid>
       <description></description>
     </item>
     
@@ -237,26 +261,10 @@
     </item>
     
     <item>
-      <title>single cell</title>
-      <link>https://compsysmed.de/tags/single-cell/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
-      <guid>https://compsysmed.de/tags/single-cell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Team</title>
       <link>https://compsysmed.de/tags/team/</link>
       <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/tags/team/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://compsysmed.de/tags/python/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>https://compsysmed.de/tags/python/</guid>
       <description></description>
     </item>
     
@@ -305,14 +313,6 @@
       <link>https://compsysmed.de/tags/renal-diseases/</link>
       <pubDate>Mon, 03 Feb 2020 19:39:58 +0200</pubDate>
       <guid>https://compsysmed.de/tags/renal-diseases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BiCoN</title>
-      <link>https://compsysmed.de/tags/bicon/</link>
-      <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>https://compsysmed.de/tags/bicon/</guid>
       <description></description>
     </item>
     

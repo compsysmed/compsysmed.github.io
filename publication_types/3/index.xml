@@ -5,12 +5,20 @@
     <link>https://compsysmed.de/publication_types/3/</link>
       <atom:link href="https://compsysmed.de/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>3</title>
       <link>https://compsysmed.de/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>PySCNet: A tool for reconstructing and analyzing gene regulatory network from single-cell RNA-Seq data</title>
+      <link>https://compsysmed.de/publication/wu-et-al.-2020/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/wu-et-al.-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>sPLINK: A Federated, Privacy-Preserving Tool as a Robust Alternative to Meta-Analysis in Genome-Wide Association Studies</title>

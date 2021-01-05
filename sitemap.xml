@@ -128,6 +128,108 @@
   </url>
   
   <url>
+    <loc>https://compsysmed.de/tags/bicon/</loc>
+    <lastmod>2021-01-05T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/post/bicon_paper_2/</loc>
+    <lastmod>2021-01-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/post/</loc>
+    <lastmod>2021-01-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/publications/</loc>
+    <lastmod>2021-01-05T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/post/pyscnet_biorxiv/</loc>
+    <lastmod>2021-01-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/python/</loc>
+    <lastmod>2021-01-05T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/</loc>
+    <lastmod>2021-01-05T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/</loc>
+    <lastmod>2021-01-05T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/tags/single-cell/</loc>
+    <lastmod>2021-01-05T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication_types/2/</loc>
+    <lastmod>2020-12-26T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/</loc>
+    <lastmod>2020-12-26T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication/lazareva-et-al.-2020.3/</loc>
+    <lastmod>2020-12-26T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/o.-lazareva-s.-canzar-k.-yuan-j.-baumbach-d.-blumenthal-m.-list-t.-kacprowski/</loc>
+    <lastmod>2020-12-26T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication_types/</loc>
+    <lastmod>2020-12-26T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication/</loc>
+    <lastmod>2020-12-26T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication_types/3/</loc>
+    <lastmod>2020-12-21T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/authors/m.-wu-t.-kacprowski-d.-zehn/</loc>
+    <lastmod>2020-12-21T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://compsysmed.de/publication/wu-et-al.-2020/</loc>
+    <lastmod>2020-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://compsysmed.de/tags/digger/</loc>
     <lastmod>2020-10-03T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -136,29 +238,6 @@
   <url>
     <loc>https://compsysmed.de/post/digger_paper/</loc>
     <lastmod>2020-10-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/post/</loc>
-    <lastmod>2020-10-03T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/publications/</loc>
-    <lastmod>2020-10-03T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/</loc>
-    <lastmod>2020-10-03T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/</loc>
-    <lastmod>2020-10-03T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -180,19 +259,7 @@
   </url>
   
   <url>
-    <loc>https://compsysmed.de/publication_types/2/</loc>
-    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://compsysmed.de/authors/a.-gress/</loc>
-    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/authors/</loc>
     <lastmod>2020-09-25T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -230,17 +297,6 @@
     <loc>https://compsysmed.de/authors/o.-v.-kalinina/</loc>
     <lastmod>2020-09-25T00:00:00+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/publication_types/</loc>
-    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/publication/</loc>
-    <lastmod>2020-09-25T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -374,12 +430,6 @@
   <url>
     <loc>https://compsysmed.de/post/splink_paper/</loc>
     <lastmod>2020-06-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/publication_types/3/</loc>
-    <lastmod>2020-06-05T00:00:00+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -552,12 +602,6 @@
   </url>
   
   <url>
-    <loc>https://compsysmed.de/tags/single-cell/</loc>
-    <lastmod>2020-04-03T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://compsysmed.de/publication/lazareva-et-al.-2020/</loc>
     <lastmod>2020-03-25T00:00:00+01:00</lastmod>
   </url>
@@ -582,12 +626,6 @@
   <url>
     <loc>https://compsysmed.de/softress/epigen/</loc>
     <lastmod>2020-02-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/python/</loc>
-    <lastmod>2020-02-05T00:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -634,12 +672,6 @@
   <url>
     <loc>https://compsysmed.de/tags/renal-diseases/</loc>
     <lastmod>2020-02-03T19:39:58+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://compsysmed.de/tags/bicon/</loc>
-    <lastmod>2020-02-03T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   

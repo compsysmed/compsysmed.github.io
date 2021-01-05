@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Lazareva, S. Canzar, K. Yuan, J. Baumbach, D. Blumenthal, M. List*, **T. Kacprowski*** | ResGro CompSysMed</title>
+    <link>https://compsysmed.de/authors/o.-lazareva-s.-canzar-k.-yuan-j.-baumbach-d.-blumenthal-m.-list-t.-kacprowski/</link>
+      <atom:link href="https://compsysmed.de/authors/o.-lazareva-s.-canzar-k.-yuan-j.-baumbach-d.-blumenthal-m.-list-t.-kacprowski/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Lazareva, S. Canzar, K. Yuan, J. Baumbach, D. Blumenthal, M. List*, **T. Kacprowski***</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>O. Lazareva, S. Canzar, K. Yuan, J. Baumbach, D. Blumenthal, M. List*, **T. Kacprowski***</title>
+      <link>https://compsysmed.de/authors/o.-lazareva-s.-canzar-k.-yuan-j.-baumbach-d.-blumenthal-m.-list-t.-kacprowski/</link>
+    </image>
+    
+    <item>
+      <title>BiCoN: Network-constrained biclustering of patients and omics data</title>
+      <link>https://compsysmed.de/publication/lazareva-et-al.-2020.3/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/lazareva-et-al.-2020.3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

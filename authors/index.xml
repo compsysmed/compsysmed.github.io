@@ -5,7 +5,7 @@
     <link>https://compsysmed.de/authors/</link>
       <atom:link href="https://compsysmed.de/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://compsysmed.de/img/icon-192.png</url>
       <title>Authors</title>
@@ -372,6 +372,22 @@ scale. A bioinformatics course has inspired me to join the Chair of
 Experimental Bioinformatics for developing my thesis project, dealing with
 multimodal network-based epistasis detection on a genome-wide scale.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>O. Lazareva, S. Canzar, K. Yuan, J. Baumbach, D. Blumenthal, M. List*, **T. Kacprowski***</title>
+      <link>https://compsysmed.de/authors/o.-lazareva-s.-canzar-k.-yuan-j.-baumbach-d.-blumenthal-m.-list-t.-kacprowski/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/authors/o.-lazareva-s.-canzar-k.-yuan-j.-baumbach-d.-blumenthal-m.-list-t.-kacprowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Wu, **T. Kacprowski**, D. Zehn</title>
+      <link>https://compsysmed.de/authors/m.-wu-t.-kacprowski-d.-zehn/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/authors/m.-wu-t.-kacprowski-d.-zehn/</guid>
+      <description></description>
     </item>
     
     <item>

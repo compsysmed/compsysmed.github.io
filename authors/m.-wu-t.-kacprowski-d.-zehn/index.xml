@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Wu, **T. Kacprowski**, D. Zehn | ResGro CompSysMed</title>
+    <link>https://compsysmed.de/authors/m.-wu-t.-kacprowski-d.-zehn/</link>
+      <atom:link href="https://compsysmed.de/authors/m.-wu-t.-kacprowski-d.-zehn/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Wu, **T. Kacprowski**, D. Zehn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://compsysmed.de/img/icon-192.png</url>
+      <title>M. Wu, **T. Kacprowski**, D. Zehn</title>
+      <link>https://compsysmed.de/authors/m.-wu-t.-kacprowski-d.-zehn/</link>
+    </image>
+    
+    <item>
+      <title>PySCNet: A tool for reconstructing and analyzing gene regulatory network from single-cell RNA-Seq data</title>
+      <link>https://compsysmed.de/publication/wu-et-al.-2020/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0100</pubDate>
+      <guid>https://compsysmed.de/publication/wu-et-al.-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
