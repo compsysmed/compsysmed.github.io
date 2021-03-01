@@ -17,7 +17,7 @@
       <link>https://compsysmed.de/post/pyscnet_biorxiv/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/post/pyscnet_biorxiv/</guid>
-      <description>&lt;p&gt;The manuscript &amp;ldquo;PySCNet: A tool for reconstructing and analyzing gene regulatory network from single-cell RNA-Seq data&amp;rdquo; coauthored by &lt;a href=&#34;https://compsysmed.de/authors/tim_kacprowski&#34;&gt;Tim Kacprowski&lt;/a&gt; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.12.18.423482v1&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;The manuscript &amp;ldquo;PySCNet: A tool for reconstructing and analyzing gene regulatory network from single-cell RNA-Seq data&amp;rdquo; coauthored by &lt;a href=&#34;https://compsysmed.de/authors/tim_kacprowski&#34;&gt;Tim Kacprowski&lt;/a&gt; is now available on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.12.18.423482v1&#34;&gt;bioRxiv&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +26,7 @@
       <link>https://compsysmed.de/softress/epigen/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/softress/epigen/</guid>
-      <description>&lt;p&gt;EpiGEN is a Python pipeline for simulating epistasis data. It supports epistasis models of arbitrary size, which can be specified either extensionally or via parametrized risk models. Moreover, the user can specify the minor allele frequencies (MAFs) of both noise and disease SNPs, and provide a bias target distribution for the generated phenotypes to simulate observation bias. EpiGEN is freely available as python 3 package on &lt;a href=&#34;https://github.com/baumbachlab/epigen&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;EpiGEN is a Python pipeline for simulating epistasis data. It supports epistasis models of arbitrary size, which can be specified either extensionally or via parametrized risk models. Moreover, the user can specify the minor allele frequencies (MAFs) of both noise and disease SNPs, and provide a bias target distribution for the generated phenotypes to simulate observation bias. EpiGEN is freely available as python 3 package on &lt;a href=&#34;https://github.com/baumbachlab/epigen&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,8 +35,7 @@
       <link>https://compsysmed.de/softress/fast_log_rank_test/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/softress/fast_log_rank_test/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://pypi.org/project/fastlogranktest/&#34; target=&#34;_blank&#34;&gt;Python package&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/web/packages/fastlogranktest/index.html&#34; target=&#34;_blank&#34;&gt;R package&lt;/a&gt; provide wrappers around the &lt;a href=&#34;https://github.com/compsysmed/fastlogranktest&#34; target=&#34;_blank&#34;&gt;C++ implementation&lt;/a&gt;. Both offer a fast alternative to the standard logrank-test implementations in the liflines.statistics and survival packages, respectively. All you have to do is install the package fastlogranktest and use the method of the same name with exactly the same usage. Furthermore, the Python package and R package provide threading to parallelize the logrank-tests and calculate them even faster with the multi_logrank_test()-method.&lt;/p&gt;
-
+      <description>&lt;p&gt;The &lt;a href=&#34;https://pypi.org/project/fastlogranktest/&#34;&gt;Python package&lt;/a&gt; and &lt;a href=&#34;https://cran.r-project.org/web/packages/fastlogranktest/index.html&#34;&gt;R package&lt;/a&gt; provide wrappers around the &lt;a href=&#34;https://github.com/compsysmed/fastlogranktest&#34;&gt;C++ implementation&lt;/a&gt;. Both offer a fast alternative to the standard logrank-test implementations in the liflines.statistics and survival packages, respectively. All you have to do is install the package fastlogranktest and use the method of the same name with exactly the same usage. Furthermore, the Python package and R package provide threading to parallelize the logrank-tests and calculate them even faster with the multi_logrank_test()-method.&lt;/p&gt;
 &lt;p&gt;The C++ programm itself allows to specify arbitrary group classifications and survival data in a simple tab-separated text-file to run many tests with a single command. The result is provided as another text file with the p-values corresponding to the specified classifications.&lt;/p&gt;
 </description>
     </item>
@@ -46,7 +45,7 @@
       <link>https://compsysmed.de/softress/bicon/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://compsysmed.de/softress/bicon/</guid>
-      <description>&lt;p&gt;BiCoN is a powerful new systems medicine tool to stratify patients while elucidating the responsible disease mechanisms. BiCoN is a network-constrained biclustering approach which restricts biclusters to functionally related genes connected in molecular interaction networks and maximizes the expression difference between two subgroups of patients. A package for network-constrained biclustering of patients and multi-omics data can also be used. Download and installation instructions can be found &lt;a href=&#34;https://pypi.org/project/bicon/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;BiCoN is a powerful new systems medicine tool to stratify patients while elucidating the responsible disease mechanisms. BiCoN is a network-constrained biclustering approach which restricts biclusters to functionally related genes connected in molecular interaction networks and maximizes the expression difference between two subgroups of patients. A package for network-constrained biclustering of patients and multi-omics data can also be used. Download and installation instructions can be found &lt;a href=&#34;https://pypi.org/project/bicon/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

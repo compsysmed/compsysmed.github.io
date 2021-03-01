@@ -12,16 +12,5 @@
       <link>https://compsysmed.de/authors/andreas_stelzer/</link>
     </image>
     
-    <item>
-      <title></title>
-      <link>https://compsysmed.de/authors/andreas_stelzer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://compsysmed.de/authors/andreas_stelzer/</guid>
-      <description>&lt;p&gt;I’m a bioinformatics bachelor student at the TUM and the LMU. I joined the
-Chair of Experimental Bioinformatics for my bachelor’s thesis on the concurrent
-implementation of various statistical tests using GPUs.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
